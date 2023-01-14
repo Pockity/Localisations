@@ -1,0 +1,887 @@
+/* 
+  Pockity.strings
+  Pockity
+
+  Created by Nikhil Nigade on 18/11/21.
+  Copyright © 2021 Dezine Zync Studios. All rights reserved.
+*/
+
+/* Delete Account message format
+   Delete Category message format */
+"%@ Entries will be deleted too" = "%@ Entries will be deleted too";
+
+/* No comment provided by engineer. */
+"%@ less than last period" = "%@ less than last period";
+
+/* No comment provided by engineer. */
+"%@ more than last period" = "%@ more than last period";
+
+/* No comment provided by engineer. */
+"%d Days" = "%d Days";
+
+/* No comment provided by engineer. */
+"%d Entries" = "%d Entries";
+
+/* No comment provided by engineer. */
+"A ledger with the same title already exists. Please choose a different title." = "A ledger with the same title already exists. Please choose a different title.";
+
+/* No comment provided by engineer. */
+"A new expense for %@ will be added to your ledger on %@" = "A new expense for %1$@ will be added to your ledger on %2$@";
+
+/* Account input title */
+"Account" = "Account";
+
+/* Account Balance */
+"Account Balance (Optional)" = "Account Balance (Optional)";
+
+/* Account Name */
+"Account Name" = "Account Name";
+
+/* No comment provided by engineer. */
+"Account Not Found" = "Account Not Found";
+
+/* Account Number placeholder */
+"Account Number (Last 4 Digits)" = "Account Number (Last 4 Digits)";
+
+/* Accounts */
+"Accounts" = "Accounts";
+
+/* Action not found */
+"Action not found" = "Action not found";
+
+/* No comment provided by engineer. */
+"Add a new entry" = "Add a new entry";
+
+/* Add Attachments placeholder */
+"Add Attachments" = "Add Attachments";
+
+/* No comment provided by engineer. */
+"Add Entry" = "Add Entry";
+
+/* Add New Entries notification title */
+"Add New Entries" = "Add New Entries";
+
+/* Add New Entries past tense notification body */
+"Add new entries from today?" = "Add new entries from today?";
+
+/* Add New Entries past tense notification body */
+"Add new entries from yesterday?" = "Add new entries from yesterday?";
+
+/* No comment provided by engineer. */
+"Adding Imported Items" = "Adding Imported Items";
+
+/* No comment provided by engineer. */
+"After" = "After";
+
+/* All */
+"All" = "All";
+
+/* Delete Mutltiple Accounts message
+   Delete Mutltiple Categories message */
+"All associated entries will be deleted too." = "All associated entries will be deleted too.";
+
+/* Delete ledger warning message */
+"All entries from this ledger will also be deleted." = "All entries from this ledger will also be deleted.";
+
+/* Amount
+   Amount input placeholder */
+"Amount" = "Amount";
+
+/* No comment provided by engineer. */
+"An Account Name should help you easily identify the account. Use a short descriptive name." = "An Account Name should help you easily identify the account. Use a short descriptive name.";
+
+/* No comment provided by engineer. */
+"An Error Occurred" = "An Error Occurred";
+
+/* No comment provided by engineer. */
+"An error occurred importing the entries." = "An error occurred importing the entries.";
+
+/* No comment provided by engineer. */
+"An ledger name should help you easily identify the ledger. Use a short descriptive name." = "An ledger name should help you easily identify the ledger. Use a short descriptive name.";
+
+/* Error Preparing Logs description */
+"An unknown error occurred when preparing logs" = "An unknown error occurred when preparing logs";
+
+/* App Logs */
+"App Logs" = "App Logs";
+
+/* DATA_EXPORT_ARCHIVE */
+"Archives include owned ledgers, accounts, categories and entries information and attachments data" = "Archives include owned ledgers, accounts, categories and entries information and attachments data";
+
+/* No comment provided by engineer. */
+"Are you sure you want to delete the %@ category? All entries from this category will also be deleted." = "Are you sure you want to delete the %@ category? All entries from this category will also be deleted.";
+
+/* No comment provided by engineer. */
+"Are you sure you want to delete this template?" = "Are you sure you want to delete this template?";
+
+/* Balance */
+"Balance" = "Balance";
+
+/* No comment provided by engineer. */
+"Balance not setup" = "Balance not setup";
+
+/* Bank Name title */
+"Bank" = "Bank";
+
+/* Bank Name placeholder */
+"Bank Name (Optional)" = "Bank Name (Optional)";
+
+/* Budget title */
+"Budget" = "Budget";
+
+/* Budget Amount title */
+"Budget Amount" = "Budget Amount";
+
+/* Cancel
+   Cancel button title
+   Cancel context menu title */
+"Cancel" = "Cancel";
+
+/* Categories */
+"Categories" = "Categories";
+
+/* Category input title */
+"Category" = "Category";
+
+/* Category Name placeholder */
+"Category Name" = "Category Name";
+
+/* No comment provided by engineer. */
+"Category Name should help you easily identify the category. Prefixing an Emoji is recommended. It should be atleast 3 letters." = "Category Name should help you easily identify the category. Prefixing an Emoji is recommended. It should be atleast 3 letters.";
+
+/* No comment provided by engineer. */
+"Category Not Found" = "Category Not Found";
+
+/* Clear filter action title for Recent Filters menu */
+"Clear Filter" = "Clear Filter";
+
+/* Complete button title */
+"Complete" = "Complete";
+
+/* Quit without saves error question message */
+"Could not save changes while quitting. Quit anyway?" = "Could not save changes while quitting. Quit anyway?";
+
+/* Create */
+"Create" = "Create";
+
+/* No comment provided by engineer. */
+"Create a new repeating entry" = "Create a new repeating entry";
+
+/* Create a new transfer */
+"Create a new transfer" = "Create a new transfer";
+
+/* No comment provided by engineer. */
+"Create Account" = "Create Account";
+
+/* Create Entry */
+"Create Entry" = "Create Entry";
+
+/* No comment provided by engineer. */
+"Create Repeating Entry" = "Create Repeating Entry";
+
+/* No comment provided by engineer. */
+"CSV Exports are date range limited" = "CSV Exports are date range limited";
+
+/* Currency input title */
+"Currency" = "Currency";
+
+/* No comment provided by engineer. */
+"Daily" = "Daily";
+
+/* Daily Notifications Title */
+"Daily Notifications" = "Daily Notifications";
+
+/* DATA_EXPORT_ENTRIES */
+"Data exports include owned ledgers, accounts, categories and entries information but does not include attachments data. Supported format is JSON." = "Data exports include owned ledgers, accounts, categories and entries information but does not include attachments data. Supported format is JSON.";
+
+/* Date
+   Date input title */
+"Date" = "Date";
+
+/* No comment provided by engineer. */
+"day" = "day";
+
+/* No comment provided by engineer. */
+"Day" = "Day";
+
+/* No comment provided by engineer. */
+"Day/Weekday" = "Day/Weekday";
+
+/* No comment provided by engineer. */
+"Days" = "Days";
+
+/* Default Ledger title */
+"Default Ledger" = "Default Ledger";
+
+/* Defaults View title */
+"Defaults" = "Defaults";
+
+/* Delete
+   Delete Action
+   Delete context menu title
+   Delete Item */
+"Delete" = "Delete";
+
+/* Delete Account title format
+   Delete Category title format */
+"Delete %@" = "Delete %@";
+
+/* Delete Multiple Accounts title format */
+"Delete %d Accounts" = "Delete %d Accounts";
+
+/* Delete Multiple Categories title format */
+"Delete %d Categories" = "Delete %d Categories";
+
+/* Delete Entries title format */
+"Delete %d Entries" = "Delete %d Entries";
+
+/* No comment provided by engineer. */
+"Delete Category?" = "Delete Category?";
+
+/* Delete Entry */
+"Delete Entry" = "Delete Entry";
+
+/* Delete ledger warning title */
+"Delete Ledger?" = "Delete Ledger?";
+
+/* Existing data question message */
+"Delete or Merge with existing data?" = "Delete or Merge with existing data?";
+
+/* No comment provided by engineer. */
+"Delete Recurring Template?" = "Delete Recurring Template?";
+
+/* No comment provided by engineer. */
+"Delete Template" = "Delete Template";
+
+/* Delete the selected entry */
+"Delete the selected entry" = "Delete the selected entry";
+
+/* No comment provided by engineer. */
+"Deleting Existing" = "Deleting Existing";
+
+/* No comment provided by engineer. */
+"Does not Repeat" = "Does not Repeat";
+
+/* Done */
+"Done" = "Done";
+
+/* Drafts */
+"Drafts" = "Drafts";
+
+/* No comment provided by engineer. */
+"Duplicate" = "Duplicate";
+
+/* Duplicate Entries title format */
+"Duplicate %d Entries" = "Duplicate %d Entries";
+
+/* Duplicate Entry */
+"Duplicate Entry" = "Duplicate Entry";
+
+/* Duplicate the selected entry */
+"Duplicate the selected entry" = "Duplicate the selected entry";
+
+/* Edit
+   Edit Action
+   Edit context menu title */
+"Edit" = "Edit";
+
+/* No comment provided by engineer. */
+"Edit %@" = "Edit %@";
+
+/* Edit Entry */
+"Edit Entry" = "Edit Entry";
+
+/* Edit the selected entry */
+"Edit the selected entry" = "Edit the selected entry";
+
+/* Edit the selected transfer */
+"Edit the selected transfer" = "Edit the selected transfer";
+
+/* No comment provided by engineer. */
+"Empty Bank Name" = "Empty Bank Name";
+
+/* No comment provided by engineer. */
+"Ends" = "Ends";
+
+/* Entries */
+"Entries" = "Entries";
+
+/* Error title when creating a new entry from recurring template */
+"Error Creating Entry" = "Error Creating Entry";
+
+/* No comment provided by engineer. */
+"Error Deleting Share" = "Error Deleting Share";
+
+/* No comment provided by engineer. */
+"Error Importing Entries" = "Error Importing Entries";
+
+/* Error Preparing Logs title */
+"Error Preparing Logs" = "Error Preparing Logs";
+
+/* No comment provided by engineer. */
+"Every" = "Every";
+
+/* Existing Data question title */
+"Existing Data?" = "Existing Data?";
+
+/* Expense */
+"Expense" = "Expense";
+
+/* No comment provided by engineer. */
+"Export Archive" = "Export Archive";
+
+/* No comment provided by engineer. */
+"Export CSV" = "Export CSV";
+
+/* No comment provided by engineer. */
+"Export Entries" = "Export Entries";
+
+/* No comment provided by engineer. */
+"Failed to create export directory" = "Failed to create export directory";
+
+/* No comment provided by engineer. */
+"From %@" = "From %@";
+
+/* No comment provided by engineer. */
+"From %@ to %@" = "From %1$@ to %2$@";
+
+/* From Account input title */
+"From Account" = "From Account";
+
+/* From Files title */
+"From Files" = "From Files";
+
+/* From Photos title */
+"From Photos" = "From Photos";
+
+/* Get Started Button title */
+"Get Started" = "Get Started";
+
+/* Go */
+"Go" = "Go";
+
+/* No comment provided by engineer. */
+"Has Attachment" = "Has Attachment";
+
+/* No comment provided by engineer. */
+"If you want to mark a location, please ensure the location is atleast 3 letters." = "If you want to mark a location, please ensure the location is atleast 3 letters.";
+
+/* No comment provided by engineer. */
+"Import Archive" = "Import Archive";
+
+/* No comment provided by engineer. */
+"Import Entries" = "Import Entries";
+
+/* Import/Export Data view title */
+"Import/Export Data" = "Import/Export Data";
+
+/* Most spent ledger detail title */
+"In Budget" = "In Budget";
+
+/* No comment provided by engineer. */
+"In budget by %@" = "In budget by %@";
+
+/* Income */
+"Income" = "Income";
+
+/* No comment provided by engineer. */
+"Incomplete or Invalid Location" = "Incomplete or Invalid Location";
+
+/* No comment provided by engineer. */
+"Incomplete or Invalid Title" = "Incomplete or Invalid Title";
+
+/* No comment provided by engineer. */
+"Invalid Account Name" = "Invalid Account Name";
+
+/* No comment provided by engineer. */
+"Invalid Account Number" = "Invalid Account Number";
+
+/* No comment provided by engineer. */
+"Invalid Account Selected" = "Invalid Account Selected";
+
+/* No comment provided by engineer. */
+"Invalid Account Type" = "Invalid Account Type";
+
+/* No comment provided by engineer. */
+"Invalid Amount" = "Invalid Amount";
+
+/* No comment provided by engineer. */
+"Invalid Category Selected" = "Invalid Category Selected";
+
+/* No comment provided by engineer. */
+"Invalid Color" = "Invalid Color";
+
+/* No comment provided by engineer. */
+"Invalid Data" = "Invalid Data";
+
+/* No comment provided by engineer. */
+"Invalid data or the data is in an invalid format." = "Invalid data or the data is in an invalid format.";
+
+/* No comment provided by engineer. */
+"Invalid Destination Account" = "Invalid Destination Account";
+
+/* No comment provided by engineer. */
+"Invalid Ledger" = "Invalid Ledger";
+
+/* No comment provided by engineer. */
+"Invalid Ledger Currency" = "Invalid Ledger Currency";
+
+/* No comment provided by engineer. */
+"Invalid Ledger Name" = "Invalid Ledger Name";
+
+/* No comment provided by engineer. */
+"Invalid Ledger Title" = "Invalid Ledger Title";
+
+/* No comment provided by engineer. */
+"Invalid Name" = "Invalid Name";
+
+/* No comment provided by engineer. */
+"Invalid Notes Data" = "Invalid Notes Data";
+
+/* No comment provided by engineer. */
+"Invalid or no color selected. Please select a valid color for the category." = "Invalid or no color selected. Please select a valid color for the category.";
+
+/* No comment provided by engineer. */
+"Invalid Source Account" = "Invalid Source Account";
+
+/* No comment provided by engineer. */
+"Iterations" = "Iterations";
+
+/* No comment provided by engineer. */
+"last" = "last";
+
+/* Later today recurring subtitle */
+"Later today" = "Later today";
+
+/* Ledger input title */
+"Ledger" = "Ledger";
+
+/* No comment provided by engineer. */
+"List" = "List";
+
+/* Location
+   Location input title */
+"Location" = "Location";
+
+/* No comment provided by engineer. */
+"Long press the widget and edit it to select a Ledger" = "Long press the widget and edit it to select a Ledger";
+
+/* Manage Participation context menu title */
+"Manage Participation" = "Manage Participation";
+
+/* No comment provided by engineer. */
+"Merging Data" = "Merging Data";
+
+/* No comment provided by engineer. */
+"Merging entries from %@" = "Merging entries from %@";
+
+/* Month */
+"Month" = "Month";
+
+/* No comment provided by engineer. */
+"Monthly" = "Monthly";
+
+/* No comment provided by engineer. */
+"Months" = "Months";
+
+/* Most spent ledger detail title */
+"Most Spent" = "Most Spent";
+
+/* Account Name title
+   Category Name title
+   Your Name title */
+"Name" = "Name";
+
+/* No comment provided by engineer. */
+"Never" = "Never";
+
+/* New button title */
+"New" = "New";
+
+/* New Attachment title */
+"New Attachment" = "New Attachment";
+
+/* New Entry
+   New Entry context menu title */
+"New Entry" = "New Entry";
+
+/* New Entry in the default ledger */
+"New Entry (Default Ledger)" = "New Entry (Default Ledger)";
+
+/* New Ledger context menu title */
+"New Ledger" = "New Ledger";
+
+/* Alert controller title for creating new smart filter */
+"New Smart Filter" = "New Smart Filter";
+
+/* No comment provided by engineer. */
+"New Template: %@" = "New Template: %@";
+
+/* Next Ledger */
+"Next Ledger" = "Next Ledger";
+
+/* Next on %@ recurring subtitle */
+"Next on %@" = "Next on %@";
+
+/* No comment provided by engineer. */
+"Next on: %@" = "Next on: %@";
+
+/* No comment provided by engineer. */
+"No Account Selected" = "No Account Selected";
+
+/* No comment provided by engineer. */
+"No Accounts" = "No Accounts";
+
+/* No comment provided by engineer. */
+"No accounts were found in this export." = "No accounts were found in this export.";
+
+/* No comment provided by engineer. */
+"No Budget" = "No Budget";
+
+/* No comment provided by engineer. */
+"No Categories" = "No Categories";
+
+/* No comment provided by engineer. */
+"No categories were found in this export." = "No categories were found in this export.";
+
+/* No comment provided by engineer. */
+"No Category Selected" = "No Category Selected";
+
+/* No comment provided by engineer. */
+"No Entries" = "No Entries";
+
+/* No comment provided by engineer. */
+"No entries were found in this export." = "No entries were found in this export.";
+
+/* No comment provided by engineer. */
+"No Expenses" = "No Expenses";
+
+/* No comment provided by engineer. */
+"No Ledger Selected" = "No Ledger Selected";
+
+/* No comment provided by engineer. */
+"No Reverse Account Selected" = "No Reverse Account Selected";
+
+/* Notifications View title */
+"Notifications" = "Notifications";
+
+/* Account Number title */
+"Number" = "Number";
+
+/* No comment provided by engineer. */
+"Ok" = "Ok";
+
+/* No comment provided by engineer. */
+"On Date" = "On Date";
+
+/* No comment provided by engineer. */
+"Opens the scanner to scan a receipt for creating an entry" = "Opens the scanner to scan a receipt for creating an entry";
+
+/* Optional */
+"Optional" = "Optional";
+
+/* Most spent ledger detail title */
+"Overbudget" = "Overbudget";
+
+/* No comment provided by engineer. */
+"Overbudget by %@" = "Overbudget by %@";
+
+/* No comment provided by engineer. */
+"Please contact the developer at support@pockity.app with a screenshot of this error." = "Please contact the developer at support@pockity.app with a screenshot of this error.";
+
+/* No comment provided by engineer. */
+"Please create an account before creating an entry" = "Please create an account before creating an entry";
+
+/* No comment provided by engineer. */
+"Please enter a non-zero amount. Amounts cannot be negative." = "Please enter a non-zero amount. Amounts cannot be negative.";
+
+/* No comment provided by engineer. */
+"Please enter a valid transfer amount." = "Please enter a valid transfer amount.";
+
+/* No comment provided by engineer. */
+"Please select a category to add this entry to." = "Please select a category to add this entry to.";
+
+/* No comment provided by engineer. */
+"Please select a Ledger" = "Please select a Ledger";
+
+/* No comment provided by engineer. */
+"Please select a ledger for this category." = "Please select a ledger for this category.";
+
+/* No comment provided by engineer. */
+"Please select a ledger for this entry" = "Please select a ledger for this entry";
+
+/* No comment provided by engineer. */
+"Please select a ledger to add this entry to." = "Please select a ledger to add this entry to.";
+
+/* No comment provided by engineer. */
+"Please select an account to attach this entry to." = "Please select an account to attach this entry to.";
+
+/* No comment provided by engineer. */
+"Please select an account to transfer from." = "Please select an account to transfer from.";
+
+/* No comment provided by engineer. */
+"Please select an account to transfer to." = "Please select an account to transfer to.";
+
+/* App Name */
+"Pockity" = "Pockity";
+
+/* Previous Ledger */
+"Previous Ledger" = "Previous Ledger";
+
+/* No comment provided by engineer. */
+"Primary" = "Primary";
+
+/* No comment provided by engineer. */
+"Processing..." = "Processing...";
+
+/* No comment provided by engineer. */
+"Product not found" = "Product not found";
+
+/* No comment provided by engineer. */
+"Purchasing..." = "Purchasing...";
+
+/* No comment provided by engineer. */
+"Quarter" = "Quarter";
+
+/* Quit anyway button title */
+"Quit anyway" = "Quit anyway";
+
+/* Quit without saves error question info */
+"Quitting now will lose any changes you have made since the last successful save" = "Quitting now will lose any changes you have made since the last successful save";
+
+/* Daily Notifications Subtitle */
+"Receive daily notifications at the specified time as a reminder to add entries from the previous day or today" = "Receive daily notifications at the specified time as a reminder to add entries from the previous day or today";
+
+/* Subscription Reminders Subtitle */
+"Receive reminders a day before a subscription is due" = "Receive reminders a day before a subscription is due";
+
+/* Recent Filters menu title */
+"Recent Filters" = "Recent Filters";
+
+/* No comment provided by engineer. */
+"Recurring" = "Recurring";
+
+/* No comment provided by engineer. */
+"Recurring expense due tomorrow" = "Recurring expense due tomorrow";
+
+/* Reimburse Action
+   Reimburse context menu title */
+"Reimburse" = "Reimburse";
+
+/* Reimbursement */
+"Reimbursement" = "Reimbursement";
+
+/* No comment provided by engineer. */
+"Reimbursements" = "Reimbursements";
+
+/* Remember Last Used title */
+"Remember Last Used" = "Remember Last Used";
+
+/* No comment provided by engineer. */
+"Repeat" = "Repeat";
+
+/* Repeat Entry */
+"Repeat Entry" = "Repeat Entry";
+
+/* Repeat the selected entry */
+"Repeat the selected entry" = "Repeat the selected entry";
+
+/* No comment provided by engineer. */
+"Repeating Expense" = "Repeating Expense";
+
+/* Restoring from iCloud */
+"Restoring from iCloud" = "Restoring from iCloud";
+
+/* No comment provided by engineer. */
+"Restoring..." = "Restoring...";
+
+/* Scan Receipt title */
+"Scan Receipt" = "Scan Receipt";
+
+/* Search Accounts */
+"Search Accounts" = "Search Accounts";
+
+/* Search Categories */
+"Search Categories" = "Search Categories";
+
+/* Search Entries */
+"Search Entries" = "Search Entries";
+
+/* Search Nearby local search subtitle */
+"Search Nearby" = "Search Nearby";
+
+/* Select Amount button title */
+"Select Amount" = "Select Amount";
+
+/* No comment provided by engineer. */
+"Select an account type to help identify entires easily." = "Select an account type to help identify entires easily.";
+
+/* Select Date button title */
+"Select Date" = "Select Date";
+
+/* Select Location button title
+   Select Location View Title */
+"Select Location" = "Select Location";
+
+/* No comment provided by engineer. */
+"Selected account does not belong to this ledger." = "Selected account does not belong to this ledger.";
+
+/* No comment provided by engineer. */
+"Selected category does not belong to this ledger." = "Selected category does not belong to this ledger.";
+
+/* Settings
+   Settings View title */
+"Settings" = "Settings";
+
+/* Setup Budget Button Title */
+"Setup Budget" = "Setup Budget";
+
+/* Share context menu title */
+"Share" = "Share";
+
+/* No comment provided by engineer. */
+"Simple Budgeting & Expense Tracker" = "Simple Budgeting & Expense Tracker";
+
+/* No comment provided by engineer. */
+"Starts" = "Starts";
+
+/* Subscription Reminders Title */
+"Subscription Reminders" = "Subscription Reminders";
+
+/* No comment provided by engineer. */
+"Table" = "Table";
+
+/* No comment provided by engineer. */
+"Thank you for the generous tip, I really appreciate it." = "Thank you for the generous tip, I really appreciate it.";
+
+/* No comment provided by engineer. */
+"Thank you for the generous tip, I really appreciate your continued support for me and the app." = "Thank you for the generous tip, I really appreciate your continued support for me and the app.";
+
+/* No comment provided by engineer. */
+"The account associated with a recurring entry was not found." = "The account associated with a recurring entry was not found.";
+
+/* No comment provided by engineer. */
+"The Account's number (last four digits) are used throughout the app to mark entries." = "The Account's number (last four digits) are used throughout the app to mark entries.";
+
+/* No comment provided by engineer. */
+"The category associated with a recurring entry was not found." = "The category associated with a recurring entry was not found.";
+
+/* No comment provided by engineer. */
+"The common group container is not accessible by this module." = "The common group container is not accessible by this module.";
+
+/* No comment provided by engineer. */
+"The issuing bank's name is optional, but useful if you need to have multiple accounts of the same type with different banks." = "The issuing bank's name is optional, but useful if you need to have multiple accounts of the same type with different banks.";
+
+/* No comment provided by engineer. */
+"The ledger currency is used for all its entries and accounts." = "The ledger currency is used for all its entries and accounts.";
+
+/* No comment provided by engineer. */
+"The ledger does not exist. Either it was deleted, or the owner of the ledger has changed permissions." = "The ledger does not exist. Either it was deleted, or the owner of the ledger has changed permissions.";
+
+/* No comment provided by engineer. */
+"The Ledger's title is used in dropdowns throughout the app." = "The Ledger's title is used in dropdowns throughout the app.";
+
+/* No comment provided by engineer. */
+"The title should be atleast 3 letters." = "The title should be atleast 3 letters.";
+
+/* Private information disclaimer */
+"This information is directly saved on your device. It is never trasmitted to another entity with your explicit action." = "This information is directly saved on your device. It is never trasmitted to another entity with your explicit action.";
+
+/* This name will be used when participating in shared ledgers. */
+"This name will be used when participating in shared ledgers." = "This name will be used when participating in shared ledgers.";
+
+/* Alert controller placeholder for ccreating new smart filter
+   Title
+   Title input title */
+"Title" = "Title";
+
+/* Title input placeholder */
+"Title for this expense" = "Title for this expense";
+
+/* No comment provided by engineer. */
+"To %@" = "To %@";
+
+/* From Account input title
+   To Account input title */
+"To Account" = "To Account";
+
+/* Tomorrow recurring subtitle */
+"Tomorrow" = "Tomorrow";
+
+/* Transfer
+   Transfer context menu title */
+"Transfer" = "Transfer";
+
+/* Transfer from Action */
+"Transfer from" = "Transfer from";
+
+/* Transfer to Action */
+"Transfer to" = "Transfer to";
+
+/* Transferred to [account name]
+   Transferred to format */
+"Transferred to %@" = "Transferred to %@";
+
+/* Account Type title */
+"Type" = "Type";
+
+/* No comment provided by engineer. */
+"Untitled" = "Untitled";
+
+/* App Logs description */
+"View app logs and share with developer for debugging issues" = "View app logs and share with developer for debugging issues";
+
+/* View your Budgets */
+"View your Budgets" = "View your Budgets";
+
+/* Week */
+"Week" = "Week";
+
+/* No comment provided by engineer. */
+"Weekday" = "Weekday";
+
+/* No comment provided by engineer. */
+"Weekly" = "Weekly";
+
+/* No comment provided by engineer. */
+"Weeks" = "Weeks";
+
+/* When enabled, Pockity will remember the last used category and account when creating a new entry. */
+"When enabled, Pockity will remember the last used category and account when creating a new entry." = "When enabled, Pockity will remember the last used category and account when creating a new entry.";
+
+/* No comment provided by engineer. */
+"When moving funds between accounts, an origin account must be selected." = "When moving funds between accounts, an origin account must be selected.";
+
+/* No comment provided by engineer. */
+"White spaces and new lines won't be considered valid data for an entry's note." = "White spaces and new lines won't be considered valid data for an entry's note.";
+
+/* No comment provided by engineer. */
+"Whites-spaces and newlines won't be considered valid data for an entry's note." = "Whites-spaces and newlines won't be considered valid data for an entry's note.";
+
+/* No comment provided by engineer. */
+"Write your message above this line" = "Write your message above this line";
+
+/* No comment provided by engineer. */
+"Year" = "Year";
+
+/* No comment provided by engineer. */
+"Yearly" = "Yearly";
+
+/* No comment provided by engineer. */
+"Years" = "Years";
+
+/* No comment provided by engineer. */
+"You can try this action again. If it continues to fail, please report the error to support@pockity.app" = "You can try this action again. If it continues to fail, please report the error to support@pockity.app";
+
+/* No comment provided by engineer. */
+"You cannot use the word \"Primary\" for the ledger. This is a reserved key." = "You cannot use the word \"Primary\" for the ledger. This is a reserved key.";
+
+/* Existing Data Found message */
+"Your existing data was found on iCloud. It’s being downloaded and synced to this device. Please wait while the syncing completes." = "Your existing data was found on iCloud. It’s being downloaded and synced to this device. Please wait while the syncing completes.";
+
+/* Your Name placeholder */
+"Your Name" = "Your Name";
+
+/* No comment provided by engineer. */
+"🎉 Thank you for purchasing Pockity+ and supporting its development 🎉" = "🎉 Thank you for purchasing Pockity+ and supporting its development 🎉";
+

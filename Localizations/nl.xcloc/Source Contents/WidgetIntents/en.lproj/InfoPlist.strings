@@ -1,0 +1,6 @@
+/* Bundle display name */
+"CFBundleDisplayName" = "Pockity";
+/* Bundle name */
+"CFBundleName" = "WidgetIntents";
+/* Copyright (human-readable) */
+"NSHumanReadableCopyright" = "© 2019-2023 Nikhil Nigade - All Rights Reserved";

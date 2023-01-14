@@ -1,0 +1,4 @@
+/* Bundle name */
+"CFBundleName" = "Pockity";
+/* Copyright (human-readable) */
+"NSHumanReadableCopyright" = "© 2019-2023 Nikhil Nigade - All Rights Reserved";

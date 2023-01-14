@@ -1,0 +1,3148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="../../DZ/UIPredicateEditor/Sources/UIPredicateEditor/Resources/en.lproj/Localizable.strings" datatype="plaintext" source-language="en" target-language="ko">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.2" build-num="14C18"/>
+    </header>
+    <body>
+      <trans-unit id="Add Filter" xml:space="preserve">
+        <source>Add Filter</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="All" xml:space="preserve">
+        <source>All</source>
+        <note>All</note>
+      </trans-unit>
+      <trans-unit id="Any" xml:space="preserve">
+        <source>Any</source>
+        <note>Any</note>
+      </trans-unit>
+      <trans-unit id="Combination" xml:space="preserve">
+        <source>Combination</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Delete" xml:space="preserve">
+        <source>Delete</source>
+        <note>Delete action under row comments</note>
+      </trans-unit>
+      <trans-unit id="New" xml:space="preserve">
+        <source>New</source>
+        <note>New Row Button Title</note>
+      </trans-unit>
+      <trans-unit id="No" xml:space="preserve">
+        <source>No</source>
+        <note>No</note>
+      </trans-unit>
+      <trans-unit id="None" xml:space="preserve">
+        <source>None</source>
+        <note>Any</note>
+      </trans-unit>
+      <trans-unit id="Row Actions" xml:space="preserve">
+        <source>Row Actions</source>
+        <note>Row Actions for a predicate template row (delete)</note>
+      </trans-unit>
+      <trans-unit id="Yes" xml:space="preserve">
+        <source>Yes</source>
+        <note>Yes</note>
+      </trans-unit>
+      <trans-unit id="begins with" xml:space="preserve">
+        <source>begins with</source>
+        <note>begins with</note>
+      </trans-unit>
+      <trans-unit id="between" xml:space="preserve">
+        <source>between</source>
+        <note>between</note>
+      </trans-unit>
+      <trans-unit id="contains" xml:space="preserve">
+        <source>contains</source>
+        <note>contains</note>
+      </trans-unit>
+      <trans-unit id="ends with" xml:space="preserve">
+        <source>ends with</source>
+        <note>ends with</note>
+      </trans-unit>
+      <trans-unit id="in" xml:space="preserve">
+        <source>in</source>
+        <note>in</note>
+      </trans-unit>
+      <trans-unit id="is" xml:space="preserve">
+        <source>is</source>
+        <note>is</note>
+      </trans-unit>
+      <trans-unit id="is greater than" xml:space="preserve">
+        <source>is greater than</source>
+        <note>greater than</note>
+      </trans-unit>
+      <trans-unit id="is greater than or equal to" xml:space="preserve">
+        <source>is greater than or equal to</source>
+        <note>greater than or equal to</note>
+      </trans-unit>
+      <trans-unit id="is less than" xml:space="preserve">
+        <source>is less than</source>
+        <note>less than</note>
+      </trans-unit>
+      <trans-unit id="is less than or equal to" xml:space="preserve">
+        <source>is less than or equal to</source>
+        <note>less than or equal to</note>
+      </trans-unit>
+      <trans-unit id="is not" xml:space="preserve">
+        <source>is not</source>
+        <note>is not</note>
+      </trans-unit>
+      <trans-unit id="like" xml:space="preserve">
+        <source>like</source>
+        <note>like</note>
+      </trans-unit>
+      <trans-unit id="matches" xml:space="preserve">
+        <source>matches</source>
+        <note>matches</note>
+      </trans-unit>
+      <trans-unit id="of the following are true" xml:space="preserve">
+        <source>of the following are true</source>
+        <note>of the following are true</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="iOS/SupportingFiles/en.lproj/AppShortcuts.strings" datatype="plaintext" source-language="en" target-language="ko">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.2" build-num="14C18"/>
+    </header>
+    <body>
+      <trans-unit id="${applicationName} Ledger" xml:space="preserve">
+        <source>${applicationName} Ledger</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="${applicationName} Ledger Overview" xml:space="preserve">
+        <source>${applicationName} Ledger Overview</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="${applicationName} Overview" xml:space="preserve">
+        <source>${applicationName} Overview</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="${applicationName} Show Ledger" xml:space="preserve">
+        <source>${applicationName} Show Ledger</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="iOS/SupportingFiles/en.lproj/Localizable.strings" source-language="en" target-language="ko" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.2" build-num="14C18"/>
+    </header>
+    <body>
+      <trans-unit id=" " xml:space="preserve">
+        <source> </source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%.2f" xml:space="preserve">
+        <source>%.2f</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@" xml:space="preserve">
+        <source>%@</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@ Entries will be deleted too" xml:space="preserve">
+        <source>%@ Entries will be deleted too</source>
+        <target>%@ 항목도 삭제됩니다</target>
+        <note>Delete Account message format
+   Delete Category message format</note>
+      </trans-unit>
+      <trans-unit id="%@ less than last period" xml:space="preserve">
+        <source>%@ less than last period</source>
+        <target>지난 기간보다 %@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@ more than last period" xml:space="preserve">
+        <source>%@ more than last period</source>
+        <target>지난 기간보다 %@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%d Days" xml:space="preserve">
+        <source>%d Days</source>
+        <target>%d 일</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%d Entries" translate="no" xml:space="preserve">
+        <source>%d Entries</source>
+        <target>%D 항목</target>
+        <note>No comment provided by engineer. (Key in .stringsdict)</note>
+      </trans-unit>
+      <trans-unit id="%lf spent" xml:space="preserve">
+        <source>%lf spent</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="@" xml:space="preserve">
+        <source>@</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="A ledger with the same title already exists. Please choose a different title." xml:space="preserve">
+        <source>A ledger with the same title already exists. Please choose a different title.</source>
+        <target>제목이 같은 원장이 이미 존재합니다.다른 제목을 선택하십시오.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="A new expense for %@ will be added to your ledger on %@" xml:space="preserve">
+        <source>A new expense for %1$@ will be added to your ledger on %2$@</source>
+        <target>%1 $@에 대한 새로운 비용은 %2 $@의 원장에 추가됩니다.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Account" xml:space="preserve">
+        <source>Account</source>
+        <target>계정</target>
+        <note>Account input title</note>
+      </trans-unit>
+      <trans-unit id="Account Balance (Optional)" xml:space="preserve">
+        <source>Account Balance (Optional)</source>
+        <target>계정 잔액 (선택 사항)</target>
+        <note>Account Balance</note>
+      </trans-unit>
+      <trans-unit id="Account Name" xml:space="preserve">
+        <source>Account Name</source>
+        <target>계정 이름</target>
+        <note>Account Name</note>
+      </trans-unit>
+      <trans-unit id="Account Not Found" xml:space="preserve">
+        <source>Account Not Found</source>
+        <target>계정을 찾지 못했습니다</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Account Number (Last 4 Digits)" xml:space="preserve">
+        <source>Account Number (Last 4 Digits)</source>
+        <target>계정 번호 (마지막 4 자리)</target>
+        <note>Account Number placeholder</note>
+      </trans-unit>
+      <trans-unit id="Accounts" xml:space="preserve">
+        <source>Accounts</source>
+        <target>계정</target>
+        <note>Accounts</note>
+      </trans-unit>
+      <trans-unit id="Action not found" xml:space="preserve">
+        <source>Action not found</source>
+        <target>액션을 찾을 수 없습니다</target>
+        <note>Action not found</note>
+      </trans-unit>
+      <trans-unit id="Add Attachments" xml:space="preserve">
+        <source>Add Attachments</source>
+        <target>첨부 파일을 추가하십시오</target>
+        <note>Add Attachments placeholder</note>
+      </trans-unit>
+      <trans-unit id="Add Entry" xml:space="preserve">
+        <source>Add Entry</source>
+        <target>항목 추가</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Add Item" xml:space="preserve">
+        <source>Add Item</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Add New Entries" xml:space="preserve">
+        <source>Add New Entries</source>
+        <target>새로운 항목을 추가하십시오</target>
+        <note>Add New Entries notification title</note>
+      </trans-unit>
+      <trans-unit id="Add a new entry" xml:space="preserve">
+        <source>Add a new entry</source>
+        <target>새 항목을 추가하십시오</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Add new entries from today?" xml:space="preserve">
+        <source>Add new entries from today?</source>
+        <target>오늘부터 새로운 항목을 추가 하시겠습니까?</target>
+        <note>Add New Entries past tense notification body</note>
+      </trans-unit>
+      <trans-unit id="Add new entries from yesterday?" xml:space="preserve">
+        <source>Add new entries from yesterday?</source>
+        <target>어제부터 새 항목을 추가 하시겠습니까?</target>
+        <note>Add New Entries past tense notification body</note>
+      </trans-unit>
+      <trans-unit id="Adding Imported Items" xml:space="preserve">
+        <source>Adding Imported Items</source>
+        <target>수입 품목 추가</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="After" xml:space="preserve">
+        <source>After</source>
+        <target>후에</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="All" xml:space="preserve">
+        <source>All</source>
+        <target>모두</target>
+        <note>All</note>
+      </trans-unit>
+      <trans-unit id="All associated entries will be deleted too." xml:space="preserve">
+        <source>All associated entries will be deleted too.</source>
+        <target>모든 관련 항목도 삭제됩니다.</target>
+        <note>Delete Mutltiple Accounts message
+   Delete Mutltiple Categories message</note>
+      </trans-unit>
+      <trans-unit id="All entries from this ledger will also be deleted." xml:space="preserve">
+        <source>All entries from this ledger will also be deleted.</source>
+        <target>이 원장의 모든 항목도 삭제됩니다.</target>
+        <note>Delete ledger warning message</note>
+      </trans-unit>
+      <trans-unit id="Amount" xml:space="preserve">
+        <source>Amount</source>
+        <target>양</target>
+        <note>Amount
+   Amount input placeholder</note>
+      </trans-unit>
+      <trans-unit id="An Account Name should help you easily identify the account. Use a short descriptive name." xml:space="preserve">
+        <source>An Account Name should help you easily identify the account. Use a short descriptive name.</source>
+        <target>계정 이름은 계정을 쉽게 식별하는 데 도움이됩니다.짧은 설명 이름을 사용하십시오.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="An Error Occurred" xml:space="preserve">
+        <source>An Error Occurred</source>
+        <target>에러 발생됨</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="An error occurred importing the entries." xml:space="preserve">
+        <source>An error occurred importing the entries.</source>
+        <target>항목을 가져 오는 오류가 발생했습니다.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="An ledger name should help you easily identify the ledger. Use a short descriptive name." xml:space="preserve">
+        <source>An ledger name should help you easily identify the ledger. Use a short descriptive name.</source>
+        <target>원장 이름은 원장을 쉽게 식별하는 데 도움이됩니다.짧은 설명 이름을 사용하십시오.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="An unknown error occurred when preparing logs" xml:space="preserve">
+        <source>An unknown error occurred when preparing logs</source>
+        <target>로그를 준비 할 때 알려지지 않은 오류가 발생했습니다</target>
+        <note>Error Preparing Logs description</note>
+      </trans-unit>
+      <trans-unit id="App" xml:space="preserve">
+        <source>App</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="App Logs" xml:space="preserve">
+        <source>App Logs</source>
+        <target>앱 로그</target>
+        <note>App Logs</note>
+      </trans-unit>
+      <trans-unit id="Archives include owned ledgers, accounts, categories and entries information and attachments data" xml:space="preserve">
+        <source>Archives include owned ledgers, accounts, categories and entries information and attachments data</source>
+        <target>아카이브에는 소유 원장, 계정, 카테고리 및 항목 정보 및 첨부 파일 데이터가 포함됩니다.</target>
+        <note>DATA_EXPORT_ARCHIVE</note>
+      </trans-unit>
+      <trans-unit id="Are you sure you want to delete the %@ category? All entries from this category will also be deleted." xml:space="preserve">
+        <source>Are you sure you want to delete the %@ category? All entries from this category will also be deleted.</source>
+        <target>%@ category를 삭제 하시겠습니까?이 범주의 모든 항목도 삭제됩니다.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Are you sure you want to delete this template?" xml:space="preserve">
+        <source>Are you sure you want to delete this template?</source>
+        <target>이 템플릿을 삭제 하시겠습니까?</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Are you sure you want to delete your existing data?" xml:space="preserve">
+        <source>Are you sure you want to delete your existing data?</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Available" xml:space="preserve">
+        <source>Available</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Average" xml:space="preserve">
+        <source>Average</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Backups" xml:space="preserve">
+        <source>Backups</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Balance" xml:space="preserve">
+        <source>Balance</source>
+        <target>균형</target>
+        <note>Balance</note>
+      </trans-unit>
+      <trans-unit id="Balance not setup" xml:space="preserve">
+        <source>Balance not setup</source>
+        <target>균형 설정되지 않습니다</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Bank" xml:space="preserve">
+        <source>Bank</source>
+        <target>은행</target>
+        <note>Bank Name title</note>
+      </trans-unit>
+      <trans-unit id="Bank Name (Optional)" xml:space="preserve">
+        <source>Bank Name (Optional)</source>
+        <target>은행 이름 (선택 사항)</target>
+        <note>Bank Name placeholder</note>
+      </trans-unit>
+      <trans-unit id="Budget" xml:space="preserve">
+        <source>Budget</source>
+        <target>예산</target>
+        <note>Budget title</note>
+      </trans-unit>
+      <trans-unit id="Budget Amount" xml:space="preserve">
+        <source>Budget Amount</source>
+        <target>예산 금액</target>
+        <note>Budget Amount title</note>
+      </trans-unit>
+      <trans-unit id="Buy" xml:space="preserve">
+        <source>Buy</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="CSV Exports are date range limited" xml:space="preserve">
+        <source>CSV Exports are date range limited</source>
+        <target>CSV 수출은 날짜 범위 제한입니다</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Cancel" xml:space="preserve">
+        <source>Cancel</source>
+        <target>취소</target>
+        <note>Cancel
+   Cancel button title
+   Cancel context menu title</note>
+      </trans-unit>
+      <trans-unit id="Categories" xml:space="preserve">
+        <source>Categories</source>
+        <target>카테고리</target>
+        <note>Categories</note>
+      </trans-unit>
+      <trans-unit id="Category" xml:space="preserve">
+        <source>Category</source>
+        <target>범주</target>
+        <note>Category input title</note>
+      </trans-unit>
+      <trans-unit id="Category Name" xml:space="preserve">
+        <source>Category Name</source>
+        <target>카테고리 이름</target>
+        <note>Category Name placeholder</note>
+      </trans-unit>
+      <trans-unit id="Category Name should help you easily identify the category. Prefixing an Emoji is recommended. It should be atleast 3 letters." xml:space="preserve">
+        <source>Category Name should help you easily identify the category. Prefixing an Emoji is recommended. It should be atleast 3 letters.</source>
+        <target>카테고리 이름을 사용하면 범주를 쉽게 식별하는 데 도움이됩니다.이모티콘 접두사가 권장됩니다.적어도 3 글자 여야합니다.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Category Not Found" xml:space="preserve">
+        <source>Category Not Found</source>
+        <target>카테고리를 찾을 수 없습니다</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Clear Filter" xml:space="preserve">
+        <source>Clear Filter</source>
+        <target>클리어 필터</target>
+        <note>Clear filter action title for Recent Filters menu</note>
+      </trans-unit>
+      <trans-unit id="Close Settings" xml:space="preserve">
+        <source>Close Settings</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Cloud Status" xml:space="preserve">
+        <source>Cloud Status</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Complete" xml:space="preserve">
+        <source>Complete</source>
+        <target>완벽한</target>
+        <note>Complete button title</note>
+      </trans-unit>
+      <trans-unit id="Contact Support" xml:space="preserve">
+        <source>Contact Support</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Could not save changes while quitting. Quit anyway?" xml:space="preserve">
+        <source>Could not save changes while quitting. Quit anyway?</source>
+        <target>종료하는 동안 변경 사항을 저장할 수 없습니다.어쨌든 그만두 셨나요?</target>
+        <note>Quit without saves error question message</note>
+      </trans-unit>
+      <trans-unit id="Create" xml:space="preserve">
+        <source>Create</source>
+        <target>창조하다</target>
+        <note>Create</note>
+      </trans-unit>
+      <trans-unit id="Create Account" xml:space="preserve">
+        <source>Create Account</source>
+        <target>계정을 만듭니다</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Create Entry" xml:space="preserve">
+        <source>Create Entry</source>
+        <target>항목 생성</target>
+        <note>Create Entry</note>
+      </trans-unit>
+      <trans-unit id="Create Repeating Entry" xml:space="preserve">
+        <source>Create Repeating Entry</source>
+        <target>반복 항목을 만듭니다</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Create a new repeating entry" xml:space="preserve">
+        <source>Create a new repeating entry</source>
+        <target>새로운 반복 항목을 만듭니다</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Create a new transfer" xml:space="preserve">
+        <source>Create a new transfer</source>
+        <target>새 전송을 만듭니다</target>
+        <note>Create a new transfer</note>
+      </trans-unit>
+      <trans-unit id="Create repeating entries from existing entries or new templates" xml:space="preserve">
+        <source>Create repeating entries from existing entries or new templates</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Currency" xml:space="preserve">
+        <source>Currency</source>
+        <target>통화</target>
+        <note>Currency input title</note>
+      </trans-unit>
+      <trans-unit id="Daily" xml:space="preserve">
+        <source>Daily</source>
+        <target>일일</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Daily Notifications" xml:space="preserve">
+        <source>Daily Notifications</source>
+        <target>매일 알림</target>
+        <note>Daily Notifications Title</note>
+      </trans-unit>
+      <trans-unit id="Data" xml:space="preserve">
+        <source>Data</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Data exports include owned ledgers, accounts, categories and entries information but does not include attachments data. Supported format is JSON." xml:space="preserve">
+        <source>Data exports include owned ledgers, accounts, categories and entries information but does not include attachments data. Supported format is JSON.</source>
+        <target>데이터 수출에는 소유 원장, 계정, 카테고리 및 항목 정보가 포함되지만 첨부 파일 데이터는 포함되지 않습니다.지원되는 형식은 JSON입니다.</target>
+        <note>DATA_EXPORT_ENTRIES</note>
+      </trans-unit>
+      <trans-unit id="Date" xml:space="preserve">
+        <source>Date</source>
+        <target>날짜</target>
+        <note>Date
+   Date input title</note>
+      </trans-unit>
+      <trans-unit id="Date Range" xml:space="preserve">
+        <source>Date Range</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Day" xml:space="preserve">
+        <source>Day</source>
+        <target>요일</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Day/Weekday" xml:space="preserve">
+        <source>Day/Weekday</source>
+        <target>요일/주일</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Days" xml:space="preserve">
+        <source>Days</source>
+        <target>날</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Default Ledger" xml:space="preserve">
+        <source>Default Ledger</source>
+        <target>기본 원장</target>
+        <note>Default Ledger title</note>
+      </trans-unit>
+      <trans-unit id="Defaults" xml:space="preserve">
+        <source>Defaults</source>
+        <target>기본값</target>
+        <note>Defaults View title</note>
+      </trans-unit>
+      <trans-unit id="Delete" xml:space="preserve">
+        <source>Delete</source>
+        <target>삭제</target>
+        <note>Delete
+   Delete Action
+   Delete context menu title
+   Delete Item</note>
+      </trans-unit>
+      <trans-unit id="Delete %@" xml:space="preserve">
+        <source>Delete %@</source>
+        <target>삭제 %@</target>
+        <note>Delete Account title format
+   Delete Category title format</note>
+      </trans-unit>
+      <trans-unit id="Delete %d Accounts" xml:space="preserve">
+        <source>Delete %d Accounts</source>
+        <target>%d 계정을 삭제합니다</target>
+        <note>Delete Multiple Accounts title format</note>
+      </trans-unit>
+      <trans-unit id="Delete %d Categories" xml:space="preserve">
+        <source>Delete %d Categories</source>
+        <target>%d 카테고리 삭제</target>
+        <note>Delete Multiple Categories title format</note>
+      </trans-unit>
+      <trans-unit id="Delete %d Entries" xml:space="preserve">
+        <source>Delete %d Entries</source>
+        <target>%d 항목을 삭제합니다</target>
+        <note>Delete Entries title format</note>
+      </trans-unit>
+      <trans-unit id="Delete Category?" xml:space="preserve">
+        <source>Delete Category?</source>
+        <target>카테고리 삭제?</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Delete Entry" xml:space="preserve">
+        <source>Delete Entry</source>
+        <target>항목 삭제</target>
+        <note>Delete Entry</note>
+      </trans-unit>
+      <trans-unit id="Delete Existing Data?" xml:space="preserve">
+        <source>Delete Existing Data?</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Delete Ledger?" xml:space="preserve">
+        <source>Delete Ledger?</source>
+        <target>원장을 삭제 하시겠습니까?</target>
+        <note>Delete ledger warning title</note>
+      </trans-unit>
+      <trans-unit id="Delete Recurring Template?" xml:space="preserve">
+        <source>Delete Recurring Template?</source>
+        <target>반복 템플릿 삭제?</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Delete Template" xml:space="preserve">
+        <source>Delete Template</source>
+        <target>템플릿 삭제</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Delete or Merge with existing data?" xml:space="preserve">
+        <source>Delete or Merge with existing data?</source>
+        <target>기존 데이터를 삭제하거나 병합 하시겠습니까?</target>
+        <note>Existing data question message</note>
+      </trans-unit>
+      <trans-unit id="Delete the selected entry" xml:space="preserve">
+        <source>Delete the selected entry</source>
+        <target>선택한 항목을 삭제합니다</target>
+        <note>Delete the selected entry</note>
+      </trans-unit>
+      <trans-unit id="Deleting Existing" xml:space="preserve">
+        <source>Deleting Existing</source>
+        <target>기존 삭제</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Does not Repeat" xml:space="preserve">
+        <source>Does not Repeat</source>
+        <target>반복하지 않습니다</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Done" xml:space="preserve">
+        <source>Done</source>
+        <target>완료</target>
+        <note>Done</note>
+      </trans-unit>
+      <trans-unit id="Drafts" xml:space="preserve">
+        <source>Drafts</source>
+        <target>체커</target>
+        <note>Drafts</note>
+      </trans-unit>
+      <trans-unit id="Duplicate" xml:space="preserve">
+        <source>Duplicate</source>
+        <target>복제하다</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Duplicate %d Entries" xml:space="preserve">
+        <source>Duplicate %d Entries</source>
+        <target>%D 항목 중복</target>
+        <note>Duplicate Entries title format</note>
+      </trans-unit>
+      <trans-unit id="Duplicate Entry" xml:space="preserve">
+        <source>Duplicate Entry</source>
+        <target>중복 항목</target>
+        <note>Duplicate Entry</note>
+      </trans-unit>
+      <trans-unit id="Duplicate the selected entry" xml:space="preserve">
+        <source>Duplicate the selected entry</source>
+        <target>선택한 항목을 복제하십시오</target>
+        <note>Duplicate the selected entry</note>
+      </trans-unit>
+      <trans-unit id="Duration" xml:space="preserve">
+        <source>Duration</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Edit" xml:space="preserve">
+        <source>Edit</source>
+        <target>편집하다</target>
+        <note>Edit
+   Edit Action
+   Edit context menu title</note>
+      </trans-unit>
+      <trans-unit id="Edit %@" xml:space="preserve">
+        <source>Edit %@</source>
+        <target>편집하다 %@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Edit Entry" xml:space="preserve">
+        <source>Edit Entry</source>
+        <target>항목 편집</target>
+        <note>Edit Entry</note>
+      </trans-unit>
+      <trans-unit id="Edit the selected entry" xml:space="preserve">
+        <source>Edit the selected entry</source>
+        <target>선택한 항목을 편집하십시오</target>
+        <note>Edit the selected entry</note>
+      </trans-unit>
+      <trans-unit id="Edit the selected transfer" xml:space="preserve">
+        <source>Edit the selected transfer</source>
+        <target>선택한 전송을 편집하십시오</target>
+        <note>Edit the selected transfer</note>
+      </trans-unit>
+      <trans-unit id="Empty Bank Name" xml:space="preserve">
+        <source>Empty Bank Name</source>
+        <target>빈 은행 이름</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="End Date" xml:space="preserve">
+        <source>End Date</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Ends" xml:space="preserve">
+        <source>Ends</source>
+        <target>끝</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Entries" xml:space="preserve">
+        <source>Entries</source>
+        <target>항목</target>
+        <note>Entries</note>
+      </trans-unit>
+      <trans-unit id="Error Creating Entry" xml:space="preserve">
+        <source>Error Creating Entry</source>
+        <target>항목 생성 오류</target>
+        <note>Error title when creating a new entry from recurring template</note>
+      </trans-unit>
+      <trans-unit id="Error Deleting Share" xml:space="preserve">
+        <source>Error Deleting Share</source>
+        <target>오류 삭제 공유</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Error Importing Entries" xml:space="preserve">
+        <source>Error Importing Entries</source>
+        <target>오류 가져 오기 항목</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Error Preparing Logs" xml:space="preserve">
+        <source>Error Preparing Logs</source>
+        <target>로그 준비 오류</target>
+        <note>Error Preparing Logs title</note>
+      </trans-unit>
+      <trans-unit id="Every" xml:space="preserve">
+        <source>Every</source>
+        <target>모든</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Existing Data" xml:space="preserve">
+        <source>Existing Data</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Existing Data?" xml:space="preserve">
+        <source>Existing Data?</source>
+        <target>기존 데이터?</target>
+        <note>Existing Data question title</note>
+      </trans-unit>
+      <trans-unit id="Expense" xml:space="preserve">
+        <source>Expense</source>
+        <target>비용</target>
+        <note>Expense</note>
+      </trans-unit>
+      <trans-unit id="Export" xml:space="preserve">
+        <source>Export</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Export Archive" xml:space="preserve">
+        <source>Export Archive</source>
+        <target>수출 아카이브</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Export CSV" xml:space="preserve">
+        <source>Export CSV</source>
+        <target>수출 CSV</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Export Entries" xml:space="preserve">
+        <source>Export Entries</source>
+        <target>수출 항목</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="FAQ" xml:space="preserve">
+        <source>FAQ</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Failed to create export directory" xml:space="preserve">
+        <source>Failed to create export directory</source>
+        <target>내보내기 디렉토리를 만들지 못했습니다</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="From %@" xml:space="preserve">
+        <source>From %@</source>
+        <target>에서 %@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="From %@ to %@" xml:space="preserve">
+        <source>From %1$@ to %2$@</source>
+        <target>%1 $@ ~ %2 $@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="From Account" xml:space="preserve">
+        <source>From Account</source>
+        <target>계좌로부터</target>
+        <note>From Account input title</note>
+      </trans-unit>
+      <trans-unit id="From Files" xml:space="preserve">
+        <source>From Files</source>
+        <target>파일에서</target>
+        <note>From Files title</note>
+      </trans-unit>
+      <trans-unit id="From Photos" xml:space="preserve">
+        <source>From Photos</source>
+        <target>사진에서</target>
+        <note>From Photos title</note>
+      </trans-unit>
+      <trans-unit id="General" xml:space="preserve">
+        <source>General</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Get Started" xml:space="preserve">
+        <source>Get Started</source>
+        <target>시작하다</target>
+        <note>Get Started Button title</note>
+      </trans-unit>
+      <trans-unit id="Go" xml:space="preserve">
+        <source>Go</source>
+        <target>가다</target>
+        <note>Go</note>
+      </trans-unit>
+      <trans-unit id="Haptics Enabled" xml:space="preserve">
+        <source>Haptics Enabled</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Has Attachment" xml:space="preserve">
+        <source>Has Attachment</source>
+        <target>첨부 파일이 있습니다</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Hi, I'm Nikhil" xml:space="preserve">
+        <source>Hi, I'm Nikhil</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="I appreciate the tips. This helps with the development of the app." xml:space="preserve">
+        <source>I appreciate the tips. This helps with the development of the app.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="If you want to mark a location, please ensure the location is atleast 3 letters." xml:space="preserve">
+        <source>If you want to mark a location, please ensure the location is atleast 3 letters.</source>
+        <target>위치를 표시하려면 위치가 3 글자인지 확인하십시오.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Import" xml:space="preserve">
+        <source>Import</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Import Archive" xml:space="preserve">
+        <source>Import Archive</source>
+        <target>아카이브 가져 오기</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Import Entries" xml:space="preserve">
+        <source>Import Entries</source>
+        <target>가져 오기 항목</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Import/Export" xml:space="preserve">
+        <source>Import/Export</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Import/Export Data" xml:space="preserve">
+        <source>Import/Export Data</source>
+        <target>가져 오기/내보내기 데이터</target>
+        <note>Import/Export Data view title</note>
+      </trans-unit>
+      <trans-unit id="In Budget" xml:space="preserve">
+        <source>In Budget</source>
+        <target>예산으로</target>
+        <note>Most spent ledger detail title</note>
+      </trans-unit>
+      <trans-unit id="In budget by %@" xml:space="preserve">
+        <source>In budget by %@</source>
+        <target>%@ 예산으로</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Income" xml:space="preserve">
+        <source>Income</source>
+        <target>소득</target>
+        <note>Income</note>
+      </trans-unit>
+      <trans-unit id="Incomplete or Invalid Location" xml:space="preserve">
+        <source>Incomplete or Invalid Location</source>
+        <target>불완전하거나 유효하지 않은 위치</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Incomplete or Invalid Title" xml:space="preserve">
+        <source>Incomplete or Invalid Title</source>
+        <target>불완전하거나 유효하지 않은 제목</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Interval" xml:space="preserve">
+        <source>Interval</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Invalid Account Name" xml:space="preserve">
+        <source>Invalid Account Name</source>
+        <target>잘못된 계정 이름</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Invalid Account Number" xml:space="preserve">
+        <source>Invalid Account Number</source>
+        <target>잘못된 계정 번호</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Invalid Account Selected" xml:space="preserve">
+        <source>Invalid Account Selected</source>
+        <target>유효하지 않은 계정이 선택되었습니다</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Invalid Account Type" xml:space="preserve">
+        <source>Invalid Account Type</source>
+        <target>잘못된 계정 유형</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Invalid Amount" xml:space="preserve">
+        <source>Invalid Amount</source>
+        <target>잘못된 금액</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Invalid Category Selected" xml:space="preserve">
+        <source>Invalid Category Selected</source>
+        <target>유효하지 않은 범주가 선택되었습니다</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Invalid Color" xml:space="preserve">
+        <source>Invalid Color</source>
+        <target>잘못된 색상</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Invalid Data" xml:space="preserve">
+        <source>Invalid Data</source>
+        <target>유효하지 않은 데이터</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Invalid Destination Account" xml:space="preserve">
+        <source>Invalid Destination Account</source>
+        <target>잘못된 대상 계정</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Invalid Ledger" xml:space="preserve">
+        <source>Invalid Ledger</source>
+        <target>잘못된 원장</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Invalid Ledger Currency" xml:space="preserve">
+        <source>Invalid Ledger Currency</source>
+        <target>잘못된 원장 통화</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Invalid Ledger Name" xml:space="preserve">
+        <source>Invalid Ledger Name</source>
+        <target>잘못된 원장 이름</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Invalid Ledger Title" xml:space="preserve">
+        <source>Invalid Ledger Title</source>
+        <target>잘못된 원장 제목</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Invalid Name" xml:space="preserve">
+        <source>Invalid Name</source>
+        <target>잘못된 이름</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Invalid Notes Data" xml:space="preserve">
+        <source>Invalid Notes Data</source>
+        <target>잘못된 메모 데이터</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Invalid Source Account" xml:space="preserve">
+        <source>Invalid Source Account</source>
+        <target>잘못된 소스 계정</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Invalid data or the data is in an invalid format." xml:space="preserve">
+        <source>Invalid data or the data is in an invalid format.</source>
+        <target>잘못된 데이터 또는 데이터는 잘못된 형식입니다.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Invalid or no color selected. Please select a valid color for the category." xml:space="preserve">
+        <source>Invalid or no color selected. Please select a valid color for the category.</source>
+        <target>유효하지 않거나 색상이 선택되지 않았습니다.범주에 대한 유효한 색상을 선택하십시오.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Iterations" xml:space="preserve">
+        <source>Iterations</source>
+        <target>반복</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Keep &amp; Merge" xml:space="preserve">
+        <source>Keep &amp; Merge</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Later today" xml:space="preserve">
+        <source>Later today</source>
+        <target>오늘 늦게</target>
+        <note>Later today recurring subtitle</note>
+      </trans-unit>
+      <trans-unit id="Latest Status" xml:space="preserve">
+        <source>Latest Status</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Ledger" xml:space="preserve">
+        <source>Ledger</source>
+        <target>원장</target>
+        <note>Ledger input title</note>
+      </trans-unit>
+      <trans-unit id="Ledger Not Found" xml:space="preserve">
+        <source>Ledger Not Found</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Ledger Overview" xml:space="preserve">
+        <source>Ledger Overview</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Ledgers" xml:space="preserve">
+        <source>Ledgers</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="List" xml:space="preserve">
+        <source>List</source>
+        <target>목록</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Location" xml:space="preserve">
+        <source>Location</source>
+        <target>위치</target>
+        <note>Location
+   Location input title</note>
+      </trans-unit>
+      <trans-unit id="Logs" xml:space="preserve">
+        <source>Logs</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Long press the widget and edit it to select a Ledger" xml:space="preserve">
+        <source>Long press the widget and edit it to select a Ledger</source>
+        <target>위젯을 길게 누르고 편집하여 원장을 선택하십시오.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Manage Participation" xml:space="preserve">
+        <source>Manage Participation</source>
+        <target>참여 관리</target>
+        <note>Manage Participation context menu title</note>
+      </trans-unit>
+      <trans-unit id="Merging Data" xml:space="preserve">
+        <source>Merging Data</source>
+        <target>데이터 병합</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Merging entries from %@" xml:space="preserve">
+        <source>Merging entries from %@</source>
+        <target>%@의 항목 병합</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Minimum Expense" xml:space="preserve">
+        <source>Minimum Expense</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Month" xml:space="preserve">
+        <source>Month</source>
+        <target>월</target>
+        <note>Month</note>
+      </trans-unit>
+      <trans-unit id="Monthly" xml:space="preserve">
+        <source>Monthly</source>
+        <target>월간 간행물</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Months" xml:space="preserve">
+        <source>Months</source>
+        <target>달</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Most Spent" xml:space="preserve">
+        <source>Most Spent</source>
+        <target>대부분의 소비</target>
+        <note>Most spent ledger detail title</note>
+      </trans-unit>
+      <trans-unit id="Name" xml:space="preserve">
+        <source>Name</source>
+        <target>이름</target>
+        <note>Account Name title
+   Category Name title
+   Your Name title</note>
+      </trans-unit>
+      <trans-unit id="Never" xml:space="preserve">
+        <source>Never</source>
+        <target>절대</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="New" xml:space="preserve">
+        <source>New</source>
+        <target>새로운</target>
+        <note>New button title</note>
+      </trans-unit>
+      <trans-unit id="New Attachment" xml:space="preserve">
+        <source>New Attachment</source>
+        <target>새로운 첨부 파일</target>
+        <note>New Attachment title</note>
+      </trans-unit>
+      <trans-unit id="New Entry" xml:space="preserve">
+        <source>New Entry</source>
+        <target>새로운 항목</target>
+        <note>New Entry
+   New Entry context menu title</note>
+      </trans-unit>
+      <trans-unit id="New Entry (Default Ledger)" xml:space="preserve">
+        <source>New Entry (Default Ledger)</source>
+        <target>새 항목 (기본 원장)</target>
+        <note>New Entry in the default ledger</note>
+      </trans-unit>
+      <trans-unit id="New Ledger" xml:space="preserve">
+        <source>New Ledger</source>
+        <target>새로운 원장</target>
+        <note>New Ledger context menu title</note>
+      </trans-unit>
+      <trans-unit id="New Smart Filter" xml:space="preserve">
+        <source>New Smart Filter</source>
+        <target>새로운 스마트 필터</target>
+        <note>Alert controller title for creating new smart filter</note>
+      </trans-unit>
+      <trans-unit id="New Template: %@" xml:space="preserve">
+        <source>New Template: %@</source>
+        <target>새로운 템플릿 : %@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Next Ledger" xml:space="preserve">
+        <source>Next Ledger</source>
+        <target>다음 원장</target>
+        <note>Next Ledger</note>
+      </trans-unit>
+      <trans-unit id="Next on %@" xml:space="preserve">
+        <source>Next on %@</source>
+        <target>다음에 %@</target>
+        <note>Next on %@ recurring subtitle</note>
+      </trans-unit>
+      <trans-unit id="Next on: %@" xml:space="preserve">
+        <source>Next on: %@</source>
+        <target>다음으로 : %@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Account Selected" xml:space="preserve">
+        <source>No Account Selected</source>
+        <target>선택된 계정이 없습니다</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Accounts" xml:space="preserve">
+        <source>No Accounts</source>
+        <target>계정 없음</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Budget" xml:space="preserve">
+        <source>No Budget</source>
+        <target>예산 없음</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Categories" xml:space="preserve">
+        <source>No Categories</source>
+        <target>카테고리가 없습니다</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Category Selected" xml:space="preserve">
+        <source>No Category Selected</source>
+        <target>선택된 카테고리가 없습니다</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Entries" xml:space="preserve">
+        <source>No Entries</source>
+        <target>항목이 없습니다</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Expenses" xml:space="preserve">
+        <source>No Expenses</source>
+        <target>비용 없음</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Ledger Selected" xml:space="preserve">
+        <source>No Ledger Selected</source>
+        <target>원장이 선택되지 않았습니다</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Limits" xml:space="preserve">
+        <source>No Limits</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Reverse Account Selected" xml:space="preserve">
+        <source>No Reverse Account Selected</source>
+        <target>리버스 계정이 선택되지 않았습니다</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No accounts were found in this export." xml:space="preserve">
+        <source>No accounts were found in this export.</source>
+        <target>이 수출에는 계정이 발견되지 않았습니다.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No backups exist at the moment. The first backup will be ready once you have at least one entry in any of ledgers." xml:space="preserve">
+        <source>No backups exist at the moment. The first backup will be ready once you have at least one entry in any of ledgers.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No categories were found in this export." xml:space="preserve">
+        <source>No categories were found in this export.</source>
+        <target>이 수출에는 범주가 발견되지 않았습니다.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No data to display" xml:space="preserve">
+        <source>No data to display</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No entries were found in this export." xml:space="preserve">
+        <source>No entries were found in this export.</source>
+        <target>이 수출에는 출품작이 발견되지 않았습니다.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No limits on number of ledgers, accounts and categories" xml:space="preserve">
+        <source>No limits on number of ledgers, accounts and categories</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Notifications" xml:space="preserve">
+        <source>Notifications</source>
+        <target>알림</target>
+        <note>Notifications View title</note>
+      </trans-unit>
+      <trans-unit id="Number" xml:space="preserve">
+        <source>Number</source>
+        <target>숫자</target>
+        <note>Account Number title</note>
+      </trans-unit>
+      <trans-unit id="Ok" xml:space="preserve">
+        <source>Ok</source>
+        <target>확인</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="On Date" xml:space="preserve">
+        <source>On Date</source>
+        <target>날짜에</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Opens the scanner to scan a receipt for creating an entry" xml:space="preserve">
+        <source>Opens the scanner to scan a receipt for creating an entry</source>
+        <target>스캐너를 열어 게 항목 생성 영수증을 스캔합니다.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Optional" xml:space="preserve">
+        <source>Optional</source>
+        <target>선택 과목</target>
+        <note>Optional</note>
+      </trans-unit>
+      <trans-unit id="Overbudget" xml:space="preserve">
+        <source>Overbudget</source>
+        <target>예산 초과</target>
+        <note>Most spent ledger detail title</note>
+      </trans-unit>
+      <trans-unit id="Overbudget by %@" xml:space="preserve">
+        <source>Overbudget by %@</source>
+        <target>%@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please contact the developer at support@pockity.app with a screenshot of this error." xml:space="preserve">
+        <source>Please contact the developer at support@pockity.app with a screenshot of this error.</source>
+        <target>이 오류의 스크린 샷을 통해 개발자에게 support@pockity.app에 문의하십시오.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please create an account before creating an entry" xml:space="preserve">
+        <source>Please create an account before creating an entry</source>
+        <target>항목을 작성하기 전에 계정을 작성하십시오</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please enter a non-zero amount. Amounts cannot be negative." xml:space="preserve">
+        <source>Please enter a non-zero amount. Amounts cannot be negative.</source>
+        <target>0이 아닌 금액을 입력하십시오.금액은 음수 일 수 없습니다.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please enter a valid transfer amount." xml:space="preserve">
+        <source>Please enter a valid transfer amount.</source>
+        <target>유효한 전송 금액을 입력하십시오.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please select a Ledger" xml:space="preserve">
+        <source>Please select a Ledger</source>
+        <target>원장을 선택하십시오</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please select a category to add this entry to." xml:space="preserve">
+        <source>Please select a category to add this entry to.</source>
+        <target>이 항목을 추가하려면 범주를 선택하십시오.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please select a ledger for this category." xml:space="preserve">
+        <source>Please select a ledger for this category.</source>
+        <target>이 카테고리의 원장을 선택하십시오.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please select a ledger for this entry" xml:space="preserve">
+        <source>Please select a ledger for this entry</source>
+        <target>이 항목의 원장을 선택하십시오</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please select a ledger to add this entry to." xml:space="preserve">
+        <source>Please select a ledger to add this entry to.</source>
+        <target>이 항목을 추가 할 원장을 선택하십시오.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please select an account to attach this entry to." xml:space="preserve">
+        <source>Please select an account to attach this entry to.</source>
+        <target>이 항목을 첨부하려면 계정을 선택하십시오.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please select an account to transfer from." xml:space="preserve">
+        <source>Please select an account to transfer from.</source>
+        <target>송금 할 계정을 선택하십시오.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please select an account to transfer to." xml:space="preserve">
+        <source>Please select an account to transfer to.</source>
+        <target>송금 할 계정을 선택하십시오.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Pockity" xml:space="preserve">
+        <source>Pockity</source>
+        <target>Pockity</target>
+        <note>App Name</note>
+      </trans-unit>
+      <trans-unit id="Pockity is built by a single Developer. Purchasing Pockity+ helps me keep working on the app and support its future development." xml:space="preserve">
+        <source>Pockity is built by a single Developer. Purchasing Pockity+ helps me keep working on the app and support its future development.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Pockity+" xml:space="preserve">
+        <source>Pockity+</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Previous Ledger" xml:space="preserve">
+        <source>Previous Ledger</source>
+        <target>이전 원장</target>
+        <note>Previous Ledger</note>
+      </trans-unit>
+      <trans-unit id="Primary" xml:space="preserve">
+        <source>Primary</source>
+        <target>주요한</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Processing..." xml:space="preserve">
+        <source>Processing...</source>
+        <target>처리 ...</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Product not found" xml:space="preserve">
+        <source>Product not found</source>
+        <target>제품을 찾을 수 없습니다</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Purchased" xml:space="preserve">
+        <source>Purchased</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Purchasing..." xml:space="preserve">
+        <source>Purchasing...</source>
+        <target>구매 ...</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Quarter" xml:space="preserve">
+        <source>Quarter</source>
+        <target>4분의 1</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Quit anyway" xml:space="preserve">
+        <source>Quit anyway</source>
+        <target>어쨌든 그만 두십시오</target>
+        <note>Quit anyway button title</note>
+      </trans-unit>
+      <trans-unit id="Quitting now will lose any changes you have made since the last successful save" xml:space="preserve">
+        <source>Quitting now will lose any changes you have made since the last successful save</source>
+        <target>이제 종료하면 마지막 성공을 거두어 변경 한 이후 변경 사항이 없습니다.</target>
+        <note>Quit without saves error question info</note>
+      </trans-unit>
+      <trans-unit id="Receive daily notifications at the specified time as a reminder to add entries from the previous day or today" xml:space="preserve">
+        <source>Receive daily notifications at the specified time as a reminder to add entries from the previous day or today</source>
+        <target>전날 또는 오늘의 항목을 추가하라는 알림으로 지정된 시간에 매일 알림을받습니다.</target>
+        <note>Daily Notifications Subtitle</note>
+      </trans-unit>
+      <trans-unit id="Receive reminders a day before a subscription is due" xml:space="preserve">
+        <source>Receive reminders a day before a subscription is due</source>
+        <target>구독이 마감되기 하루 전에 알림을받습니다</target>
+        <note>Subscription Reminders Subtitle</note>
+      </trans-unit>
+      <trans-unit id="Recent Filters" xml:space="preserve">
+        <source>Recent Filters</source>
+        <target>최근 필터</target>
+        <note>Recent Filters menu title</note>
+      </trans-unit>
+      <trans-unit id="Recurring" xml:space="preserve">
+        <source>Recurring</source>
+        <target>반복</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Recurring expense due tomorrow" xml:space="preserve">
+        <source>Recurring expense due tomorrow</source>
+        <target>내일 반복 비용</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Reimburse" xml:space="preserve">
+        <source>Reimburse</source>
+        <target>상환</target>
+        <note>Reimburse Action
+   Reimburse context menu title</note>
+      </trans-unit>
+      <trans-unit id="Reimbursement" xml:space="preserve">
+        <source>Reimbursement</source>
+        <target>반제</target>
+        <note>Reimbursement</note>
+      </trans-unit>
+      <trans-unit id="Reimbursements" xml:space="preserve">
+        <source>Reimbursements</source>
+        <target>상환</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Remember Last Used" xml:space="preserve">
+        <source>Remember Last Used</source>
+        <target>마지막으로 사용 된 것을 기억하십시오</target>
+        <note>Remember Last Used title</note>
+      </trans-unit>
+      <trans-unit id="Repeat" xml:space="preserve">
+        <source>Repeat</source>
+        <target>반복하다</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Repeat Entry" xml:space="preserve">
+        <source>Repeat Entry</source>
+        <target>항목을 반복하십시오</target>
+        <note>Repeat Entry</note>
+      </trans-unit>
+      <trans-unit id="Repeat the selected entry" xml:space="preserve">
+        <source>Repeat the selected entry</source>
+        <target>선택한 항목을 반복하십시오</target>
+        <note>Repeat the selected entry</note>
+      </trans-unit>
+      <trans-unit id="Repeating Entries" xml:space="preserve">
+        <source>Repeating Entries</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Repeating Expense" xml:space="preserve">
+        <source>Repeating Expense</source>
+        <target>반복 비용</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Restore" xml:space="preserve">
+        <source>Restore</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Restore your previous purchases if they haven't been synced automatically." xml:space="preserve">
+        <source>Restore your previous purchases if they haven't been synced automatically.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Restoring from iCloud" xml:space="preserve">
+        <source>Restoring from iCloud</source>
+        <target>iCloud에서 복원</target>
+        <note>Restoring from iCloud</note>
+      </trans-unit>
+      <trans-unit id="Restoring..." xml:space="preserve">
+        <source>Restoring...</source>
+        <target>복원 ...</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Scan Receipt" xml:space="preserve">
+        <source>Scan Receipt</source>
+        <target>스캔 영수증</target>
+        <note>Scan Receipt title</note>
+      </trans-unit>
+      <trans-unit id="Search Accounts" xml:space="preserve">
+        <source>Search Accounts</source>
+        <target>검색 계정</target>
+        <note>Search Accounts</note>
+      </trans-unit>
+      <trans-unit id="Search Categories" xml:space="preserve">
+        <source>Search Categories</source>
+        <target>검색 범주</target>
+        <note>Search Categories</note>
+      </trans-unit>
+      <trans-unit id="Search Currency" xml:space="preserve">
+        <source>Search Currency</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Search Entries" xml:space="preserve">
+        <source>Search Entries</source>
+        <target>검색 항목</target>
+        <note>Search Entries</note>
+      </trans-unit>
+      <trans-unit id="Search Nearby" xml:space="preserve">
+        <source>Search Nearby</source>
+        <target>근처에서 검색하십시오</target>
+        <note>Search Nearby local search subtitle</note>
+      </trans-unit>
+      <trans-unit id="Select Amount" xml:space="preserve">
+        <source>Select Amount</source>
+        <target>금액을 선택하십시오</target>
+        <note>Select Amount button title</note>
+      </trans-unit>
+      <trans-unit id="Select Currency" xml:space="preserve">
+        <source>Select Currency</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Select Date" xml:space="preserve">
+        <source>Select Date</source>
+        <target>날짜를 선택하십시오</target>
+        <note>Select Date button title</note>
+      </trans-unit>
+      <trans-unit id="Select Location" xml:space="preserve">
+        <source>Select Location</source>
+        <target>위치를 선택하십시오</target>
+        <note>Select Location button title
+   Select Location View Title</note>
+      </trans-unit>
+      <trans-unit id="Select an account type to help identify entires easily." xml:space="preserve">
+        <source>Select an account type to help identify entires easily.</source>
+        <target>ENTIRE를 쉽게 식별 할 수 있도록 계정 유형을 선택하십시오.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Select visible ledgers when focus is active" xml:space="preserve">
+        <source>Select visible ledgers when focus is active</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Selected account does not belong to this ledger." xml:space="preserve">
+        <source>Selected account does not belong to this ledger.</source>
+        <target>선택된 계정은이 원장에 속하지 않습니다.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Selected category does not belong to this ledger." xml:space="preserve">
+        <source>Selected category does not belong to this ledger.</source>
+        <target>선택된 카테고리는이 원장에 속하지 않습니다.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Settings" xml:space="preserve">
+        <source>Settings</source>
+        <target>설정</target>
+        <note>Settings
+   Settings View title</note>
+      </trans-unit>
+      <trans-unit id="Setup Budget" xml:space="preserve">
+        <source>Setup Budget</source>
+        <target>설정 예산</target>
+        <note>Setup Budget Button Title</note>
+      </trans-unit>
+      <trans-unit id="Share" xml:space="preserve">
+        <source>Share</source>
+        <target>공유하다</target>
+        <note>Share context menu title</note>
+      </trans-unit>
+      <trans-unit id="Show Ledger" xml:space="preserve">
+        <source>Show Ledger</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Simple Budgeting &amp; Expense Tracker" xml:space="preserve">
+        <source>Simple Budgeting &amp; Expense Tracker</source>
+        <target>간단한 예산 및 비용 추적기</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Something went wrong. Please perform the action again." xml:space="preserve">
+        <source>Something went wrong. Please perform the action again.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Sounds Enabled" xml:space="preserve">
+        <source>Sounds Enabled</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Start Date" xml:space="preserve">
+        <source>Start Date</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Starts" xml:space="preserve">
+        <source>Starts</source>
+        <target>시작</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Subscription Reminders" xml:space="preserve">
+        <source>Subscription Reminders</source>
+        <target>가입 알림</target>
+        <note>Subscription Reminders Title</note>
+      </trans-unit>
+      <trans-unit id="Subscriptions are automatically renewed unless you cancel them a day before the next renewal cycle." xml:space="preserve">
+        <source>Subscriptions are automatically renewed unless you cancel them a day before the next renewal cycle.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Support Development" xml:space="preserve">
+        <source>Support Development</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Table" xml:space="preserve">
+        <source>Table</source>
+        <target>테이블</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Thank You" xml:space="preserve">
+        <source>Thank You</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Thank you for the generous tip, I really appreciate it." xml:space="preserve">
+        <source>Thank you for the generous tip, I really appreciate it.</source>
+        <target>관대 한 팁에 감사드립니다. 정말 감사합니다.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Thank you for the generous tip, I really appreciate your continued support for me and the app." xml:space="preserve">
+        <source>Thank you for the generous tip, I really appreciate your continued support for me and the app.</source>
+        <target>관대 한 팁에 감사드립니다. 저와 앱에 대한 지속적인 지원에 감사드립니다.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The Account's number (last four digits) are used throughout the app to mark entries." xml:space="preserve">
+        <source>The Account's number (last four digits) are used throughout the app to mark entries.</source>
+        <target>계정 번호 (마지막 4 자리)는 앱 전체에서 항목을 표시하는 데 사용됩니다.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The Ledger's title is used in dropdowns throughout the app." xml:space="preserve">
+        <source>The Ledger's title is used in dropdowns throughout the app.</source>
+        <target>원장의 제목은 앱 전체의 드롭 다운에 사용됩니다.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The account associated with a recurring entry was not found." xml:space="preserve">
+        <source>The account associated with a recurring entry was not found.</source>
+        <target>반복 항목과 관련된 계정은 찾을 수 없었습니다.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The category associated with a recurring entry was not found." xml:space="preserve">
+        <source>The category associated with a recurring entry was not found.</source>
+        <target>반복 항목과 관련된 카테고리는 찾을 수 없었습니다.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The common group container is not accessible by this module." xml:space="preserve">
+        <source>The common group container is not accessible by this module.</source>
+        <target>이 모듈에서는 공통 그룹 컨테이너가 액세스 할 수 없습니다.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The issuing bank's name is optional, but useful if you need to have multiple accounts of the same type with different banks." xml:space="preserve">
+        <source>The issuing bank's name is optional, but useful if you need to have multiple accounts of the same type with different banks.</source>
+        <target>발행 은행의 이름은 선택 사항이지만 은행과 동일한 유형의 여러 계정이 필요한 경우 유용합니다.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The ledger currency is used for all its entries and accounts." xml:space="preserve">
+        <source>The ledger currency is used for all its entries and accounts.</source>
+        <target>원장 통화는 모든 항목 및 계정에 사용됩니다.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The ledger does not exist. Either it was deleted, or the owner of the ledger has changed permissions." xml:space="preserve">
+        <source>The ledger does not exist. Either it was deleted, or the owner of the ledger has changed permissions.</source>
+        <target>원장은 존재하지 않습니다.삭제되었거나 원장의 소유자가 권한을 변경했습니다.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The number of backups to retain over a period. The higher the number, the more storage will be used on your device. Recommended: 5 days" xml:space="preserve">
+        <source>The number of backups to retain over a period. The higher the number, the more storage will be used on your device. Recommended: 5 days</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The title should be atleast 3 letters." xml:space="preserve">
+        <source>The title should be atleast 3 letters.</source>
+        <target>제목은 적당한 3 글자 여야합니다.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="This Month" xml:space="preserve">
+        <source>This Month</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="This Quarter" xml:space="preserve">
+        <source>This Quarter</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="This Year" xml:space="preserve">
+        <source>This Year</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="This information is directly saved on your device. It is never trasmitted to another entity with your explicit action." xml:space="preserve">
+        <source>This information is directly saved on your device. It is never trasmitted to another entity with your explicit action.</source>
+        <target>이 정보는 장치에 직접 저장됩니다.그것은 당신의 명시적인 행동으로 다른 엔티티로 전달되지 않습니다.</target>
+        <note>Private information disclaimer</note>
+      </trans-unit>
+      <trans-unit id="This name will be used when participating in shared ledgers." xml:space="preserve">
+        <source>This name will be used when participating in shared ledgers.</source>
+        <target>이 이름은 공유 원장에 참여할 때 사용됩니다.</target>
+        <note>This name will be used when participating in shared ledgers.</note>
+      </trans-unit>
+      <trans-unit id="This purchase is only valid for iOS and iPadOS. The macOS app is unlocked separately." xml:space="preserve">
+        <source>This purchase is only valid for iOS and iPadOS. The macOS app is unlocked separately.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Tip Jar" xml:space="preserve">
+        <source>Tip Jar</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Tips do not unlock any additional functionality in the app." xml:space="preserve">
+        <source>Tips do not unlock any additional functionality in the app.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Title" xml:space="preserve">
+        <source>Title</source>
+        <target>제목</target>
+        <note>Alert controller placeholder for ccreating new smart filter
+   Title
+   Title input title</note>
+      </trans-unit>
+      <trans-unit id="Title for this expense" xml:space="preserve">
+        <source>Title for this expense</source>
+        <target>이 비용에 대한 제목</target>
+        <note>Title input placeholder</note>
+      </trans-unit>
+      <trans-unit id="To %@" xml:space="preserve">
+        <source>To %@</source>
+        <target>에게 %@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="To Account" xml:space="preserve">
+        <source>To Account</source>
+        <target>계정에</target>
+        <note>From Account input title
+   To Account input title</note>
+      </trans-unit>
+      <trans-unit id="Tomorrow" xml:space="preserve">
+        <source>Tomorrow</source>
+        <target>내일</target>
+        <note>Tomorrow recurring subtitle</note>
+      </trans-unit>
+      <trans-unit id="Total Expense" xml:space="preserve">
+        <source>Total Expense</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Transfer" xml:space="preserve">
+        <source>Transfer</source>
+        <target>옮기다</target>
+        <note>Transfer
+   Transfer context menu title</note>
+      </trans-unit>
+      <trans-unit id="Transfer from" xml:space="preserve">
+        <source>Transfer from</source>
+        <target>전송</target>
+        <note>Transfer from Action</note>
+      </trans-unit>
+      <trans-unit id="Transfer to" xml:space="preserve">
+        <source>Transfer to</source>
+        <target>로 전송</target>
+        <note>Transfer to Action</note>
+      </trans-unit>
+      <trans-unit id="Transferred to %@" xml:space="preserve">
+        <source>Transferred to %@</source>
+        <target>로 전송 %@</target>
+        <note>Transferred to [account name]
+   Transferred to format</note>
+      </trans-unit>
+      <trans-unit id="Type" xml:space="preserve">
+        <source>Type</source>
+        <target>유형</target>
+        <note>Account Type title</note>
+      </trans-unit>
+      <trans-unit id="Untitled" xml:space="preserve">
+        <source>Untitled</source>
+        <target>제목없는</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Version" xml:space="preserve">
+        <source>Version</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="View app logs and share with developer for debugging issues" xml:space="preserve">
+        <source>View app logs and share with developer for debugging issues</source>
+        <target>앱 로그를보고 디버깅 문제를 위해 개발자와 공유</target>
+        <note>App Logs description</note>
+      </trans-unit>
+      <trans-unit id="View your Budgets" xml:space="preserve">
+        <source>View your Budgets</source>
+        <target>예산을보십시오</target>
+        <note>View your Budgets</note>
+      </trans-unit>
+      <trans-unit id="Visible Ledgers" xml:space="preserve">
+        <source>Visible Ledgers</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Week" xml:space="preserve">
+        <source>Week</source>
+        <target>주</target>
+        <note>Week</note>
+      </trans-unit>
+      <trans-unit id="Weekday" xml:space="preserve">
+        <source>Weekday</source>
+        <target>주일</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Weekly" xml:space="preserve">
+        <source>Weekly</source>
+        <target>주간</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Weeks" xml:space="preserve">
+        <source>Weeks</source>
+        <target>주</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="What would you like to do with the existing data on your device?" xml:space="preserve">
+        <source>What would you like to do with the existing data on your device?</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="When enabled, Pockity will remember the last used category and account when creating a new entry." xml:space="preserve">
+        <source>When enabled, Pockity will remember the last used category and account when creating a new entry.</source>
+        <target>활성화되면 Pockity는 새 항목을 만들 때 마지막으로 사용 된 카테고리 및 계정을 기억합니다.</target>
+        <note>When enabled, Pockity will remember the last used category and account when creating a new entry.</note>
+      </trans-unit>
+      <trans-unit id="When moving funds between accounts, an origin account must be selected." xml:space="preserve">
+        <source>When moving funds between accounts, an origin account must be selected.</source>
+        <target>계정간에 자금을 이동할 때는 원산지 계정을 선택해야합니다.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="White spaces and new lines won't be considered valid data for an entry's note." xml:space="preserve">
+        <source>White spaces and new lines won't be considered valid data for an entry's note.</source>
+        <target>흰색 공간과 새로운 라인은 항목 메모에 대한 유효한 데이터로 간주되지 않습니다.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Whites-spaces and newlines won't be considered valid data for an entry's note." xml:space="preserve">
+        <source>Whites-spaces and newlines won't be considered valid data for an entry's note.</source>
+        <target>백인 공간과 신생은 항목 메모에 대한 유효한 데이터로 간주되지 않습니다.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Write your message above this line" xml:space="preserve">
+        <source>Write your message above this line</source>
+        <target>이 줄 위에 메시지를 작성하십시오</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Year" xml:space="preserve">
+        <source>Year</source>
+        <target>년도</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Yearly" xml:space="preserve">
+        <source>Yearly</source>
+        <target>매년</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Years" xml:space="preserve">
+        <source>Years</source>
+        <target>연령</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="You can try this action again. If it continues to fail, please report the error to support@pockity.app" xml:space="preserve">
+        <source>You can try this action again. If it continues to fail, please report the error to support@pockity.app</source>
+        <target>이 조치를 다시 시도 할 수 있습니다.계속 실패한 경우 ruversic@pockity.app에 오류를보고하십시오.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="You cannot use the word &quot;Primary&quot; for the ledger. This is a reserved key." xml:space="preserve">
+        <source>You cannot use the word "Primary" for the ledger. This is a reserved key.</source>
+        <target>원장에는  "기본 "라는 단어를 사용할 수 없습니다.이것은 예약 키입니다.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Your Name" xml:space="preserve">
+        <source>Your Name</source>
+        <target>당신의 이름</target>
+        <note>Your Name placeholder</note>
+      </trans-unit>
+      <trans-unit id="Your existing data was found on iCloud. It’s being downloaded and synced to this device. Please wait while the syncing completes." xml:space="preserve">
+        <source>Your existing data was found on iCloud. It’s being downloaded and synced to this device. Please wait while the syncing completes.</source>
+        <target>기존 데이터는 iCloud에서 발견되었습니다.이 장치에 다운로드 및 동기화됩니다.동기화가 완료되는 동안 기다려주세요.</target>
+        <note>Existing Data Found message</note>
+      </trans-unit>
+      <trans-unit id="date" xml:space="preserve">
+        <source>date</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="day" xml:space="preserve">
+        <source>day</source>
+        <target>요일</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="iCloud" xml:space="preserve">
+        <source>iCloud</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="last" xml:space="preserve">
+        <source>last</source>
+        <target>마지막</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="value" xml:space="preserve">
+        <source>value</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="🎉 Thank you for purchasing Pockity+ and supporting its development 🎉" xml:space="preserve">
+        <source>🎉 Thank you for purchasing Pockity+ and supporting its development 🎉</source>
+        <target>Pockity+를 구매하고 개발을 지원해 주셔서 감사합니다.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="iOS/SupportingFiles/en.lproj/Localizable.stringsdict" source-language="en" target-language="ko" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.2" build-num="14C18"/>
+    </header>
+    <body>
+      <trans-unit id="/%d Entries:dict/NSStringLocalizedFormatKey:dict/:string" xml:space="preserve">
+        <source>%#@entries@</source>
+        <target>%#@entries@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="/%d Entries:dict/entries:dict/other:dict/:string" xml:space="preserve">
+        <source>%d Entries</source>
+        <target>%d Entries</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="/%d Entries:dict/entries:dict/zero:dict/:string" xml:space="preserve">
+        <source>No Entries</source>
+        <target>No Entries</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="iOS/SupportingFiles/en.lproj/Pockity-InfoPlist.strings" source-language="en" target-language="ko" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.2" build-num="14C18"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>Pockity</source>
+        <target>Pockity</target>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSCameraUsageDescription" xml:space="preserve">
+        <source>The camera is used to scan receipts for quick entry</source>
+        <note>Privacy - Camera Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
+        <source>© 2019-2023 Nikhil Nigade - All Rights Reserved</source>
+        <note>Copyright (human-readable)</note>
+      </trans-unit>
+      <trans-unit id="NSLocationWhenInUseUsageDescription" xml:space="preserve">
+        <source>Location information is used to provide improved auto-complete suggestions when creating an entry.</source>
+        <note>Privacy - Location When In Use Usage Description</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="iOS/Widgets/en.lproj/InfoPlist.strings" source-language="en" target-language="ko" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.2" build-num="14C18"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>Pockity</source>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>WidgetsExtension</source>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
+        <source>© 2019-2023 Nikhil Nigade - All Rights Reserved</source>
+        <target>© 2019-2023 Nikhil Nigade - All Rights Reserved</target>
+        <note>Copyright (human-readable)</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="iOS/Widgets/en.lproj/Localizable.strings" datatype="plaintext" source-language="en" target-language="ko">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.2" build-num="14C18"/>
+    </header>
+    <body>
+      <trans-unit id="%.2f" xml:space="preserve">
+        <source>%.2f</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Budgets" xml:space="preserve">
+        <source>Budgets</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Earned" xml:space="preserve">
+        <source>Earned</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Highest" xml:space="preserve">
+        <source>Highest</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Launch the app to quickly create a new entry" xml:space="preserve">
+        <source>Launch the app to quickly create a new entry</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Long press the widget and edit it to select a Ledger" xml:space="preserve">
+        <source>Long press the widget and edit it to select a Ledger</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No data to display" xml:space="preserve">
+        <source>No data to display</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Not available" xml:space="preserve">
+        <source>Not available</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please select a Ledger" xml:space="preserve">
+        <source>Please select a Ledger</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Pockity" xml:space="preserve">
+        <source>Pockity</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Spent" xml:space="preserve">
+        <source>Spent</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="This Month" xml:space="preserve">
+        <source>This Month</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="This Week" xml:space="preserve">
+        <source>This Week</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="View budgets and expenses for selected categories" xml:space="preserve">
+        <source>View budgets and expenses for selected categories</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="View expenses and income for the current month" xml:space="preserve">
+        <source>View expenses and income for the current month</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="View expenses and income for the current week" xml:space="preserve">
+        <source>View expenses and income for the current week</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="View expenses and income for the current week and month" xml:space="preserve">
+        <source>View expenses and income for the current week and month</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="View your Budgets" xml:space="preserve">
+        <source>View your Budgets</source>
+        <note>View your Budgets</note>
+      </trans-unit>
+      <trans-unit id="Weekly &amp; Monthly Overview" xml:space="preserve">
+        <source>Weekly &amp; Monthly Overview</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="macOS/en.lproj/AppShortcuts.strings" datatype="plaintext" source-language="en" target-language="ko">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.2" build-num="14C18"/>
+    </header>
+    <body>
+      <trans-unit id="${applicationName} Ledger" xml:space="preserve">
+        <source>${applicationName} Ledger</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="${applicationName} Ledger Overview" xml:space="preserve">
+        <source>${applicationName} Ledger Overview</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="${applicationName} Overview" xml:space="preserve">
+        <source>${applicationName} Overview</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="${applicationName} Show Ledger" xml:space="preserve">
+        <source>${applicationName} Show Ledger</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="macOS/en.lproj/Localizable.strings" datatype="plaintext" source-language="en" target-language="ko">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.2" build-num="14C18"/>
+    </header>
+    <body>
+      <trans-unit id="%@" xml:space="preserve">
+        <source>%@</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@ Entries will be deleted too" xml:space="preserve">
+        <source>%@ Entries will be deleted too</source>
+        <note>Delete Account message format
+   Delete Category message format</note>
+      </trans-unit>
+      <trans-unit id="%@ less than last period" xml:space="preserve">
+        <source>%@ less than last period</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@ more than last period" xml:space="preserve">
+        <source>%@ more than last period</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%d Entries" xml:space="preserve">
+        <source>%d Entries</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%lf spent" xml:space="preserve">
+        <source>%lf spent</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="A ledger with the same title already exists. Please choose a different title." xml:space="preserve">
+        <source>A ledger with the same title already exists. Please choose a different title.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="A new expense for %@ will be added to your ledger on %@" xml:space="preserve">
+        <source>A new expense for %1$@ will be added to your ledger on %2$@</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Account Not Found" xml:space="preserve">
+        <source>Account Not Found</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Action not found" xml:space="preserve">
+        <source>Action not found</source>
+        <note>Action not found</note>
+      </trans-unit>
+      <trans-unit id="Add Item" xml:space="preserve">
+        <source>Add Item</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Add New Entries" xml:space="preserve">
+        <source>Add New Entries</source>
+        <note>Add New Entries notification title</note>
+      </trans-unit>
+      <trans-unit id="Add new entries from today?" xml:space="preserve">
+        <source>Add new entries from today?</source>
+        <note>Add New Entries past tense notification body</note>
+      </trans-unit>
+      <trans-unit id="Add new entries from yesterday?" xml:space="preserve">
+        <source>Add new entries from yesterday?</source>
+        <note>Add New Entries past tense notification body</note>
+      </trans-unit>
+      <trans-unit id="Adding Imported Items" xml:space="preserve">
+        <source>Adding Imported Items</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="After" xml:space="preserve">
+        <source>After</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="All associated entries will be deleted too." xml:space="preserve">
+        <source>All associated entries will be deleted too.</source>
+        <note>Delete Mutltiple Accounts message
+   Delete Mutltiple Categories message</note>
+      </trans-unit>
+      <trans-unit id="An Account Name should help you easily identify the account. Use a short descriptive name." xml:space="preserve">
+        <source>An Account Name should help you easily identify the account. Use a short descriptive name.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="An error occurred importing the entries." xml:space="preserve">
+        <source>An error occurred importing the entries.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="An ledger name should help you easily identify the ledger. Use a short descriptive name." xml:space="preserve">
+        <source>An ledger name should help you easily identify the ledger. Use a short descriptive name.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Average" xml:space="preserve">
+        <source>Average</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Buy" xml:space="preserve">
+        <source>Buy</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Cancel" xml:space="preserve">
+        <source>Cancel</source>
+        <note>Cancel button title</note>
+      </trans-unit>
+      <trans-unit id="Category" xml:space="preserve">
+        <source>Category</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Category Name should help you easily identify the category. Prefixing an Emoji is recommended. It should be atleast 3 letters." xml:space="preserve">
+        <source>Category Name should help you easily identify the category. Prefixing an Emoji is recommended. It should be atleast 3 letters.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Category Not Found" xml:space="preserve">
+        <source>Category Not Found</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Cloud Status" xml:space="preserve">
+        <source>Cloud Status</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Could not save changes while quitting. Quit anyway?" xml:space="preserve">
+        <source>Could not save changes while quitting. Quit anyway?</source>
+        <note>Quit without saves error question message</note>
+      </trans-unit>
+      <trans-unit id="Create repeating entries from existing entries or new templates" xml:space="preserve">
+        <source>Create repeating entries from existing entries or new templates</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Daily" xml:space="preserve">
+        <source>Daily</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Date Range" xml:space="preserve">
+        <source>Date Range</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Delete" xml:space="preserve">
+        <source>Delete</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Delete %@" xml:space="preserve">
+        <source>Delete %@</source>
+        <note>Delete Account title format
+   Delete Category title format</note>
+      </trans-unit>
+      <trans-unit id="Delete %d Accounts" xml:space="preserve">
+        <source>Delete %d Accounts</source>
+        <note>Delete Multiple Accounts title format</note>
+      </trans-unit>
+      <trans-unit id="Delete %d Categories" xml:space="preserve">
+        <source>Delete %d Categories</source>
+        <note>Delete Multiple Categories title format</note>
+      </trans-unit>
+      <trans-unit id="Delete %d Entries" xml:space="preserve">
+        <source>Delete %d Entries</source>
+        <note>Delete Entries title format</note>
+      </trans-unit>
+      <trans-unit id="Delete or Merge with existing data?" xml:space="preserve">
+        <source>Delete or Merge with existing data?</source>
+        <note>Existing data question message</note>
+      </trans-unit>
+      <trans-unit id="Deleting Existing" xml:space="preserve">
+        <source>Deleting Existing</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Duplicate" xml:space="preserve">
+        <source>Duplicate</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Duplicate %d Entries" xml:space="preserve">
+        <source>Duplicate %d Entries</source>
+        <note>Duplicate Entries title format</note>
+      </trans-unit>
+      <trans-unit id="Duration" xml:space="preserve">
+        <source>Duration</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Edit" xml:space="preserve">
+        <source>Edit</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Empty Bank Name" xml:space="preserve">
+        <source>Empty Bank Name</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Error Deleting Share" xml:space="preserve">
+        <source>Error Deleting Share</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Error Importing Entries" xml:space="preserve">
+        <source>Error Importing Entries</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Existing Data?" xml:space="preserve">
+        <source>Existing Data?</source>
+        <note>Existing Data question title</note>
+      </trans-unit>
+      <trans-unit id="Expense" xml:space="preserve">
+        <source>Expense</source>
+        <note>Expense</note>
+      </trans-unit>
+      <trans-unit id="Failed to create export directory" xml:space="preserve">
+        <source>Failed to create export directory</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Hi, I'm Nikhil" xml:space="preserve">
+        <source>Hi, I'm Nikhil</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="I appreciate the tips. This helps with the development of the app." xml:space="preserve">
+        <source>I appreciate the tips. This helps with the development of the app.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="If you want to mark a location, please ensure the location is atleast 3 letters." xml:space="preserve">
+        <source>If you want to mark a location, please ensure the location is atleast 3 letters.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="In Budget" xml:space="preserve">
+        <source>In Budget</source>
+        <note>Most spent ledger detail title</note>
+      </trans-unit>
+      <trans-unit id="In budget by %@" xml:space="preserve">
+        <source>In budget by %@</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Income" xml:space="preserve">
+        <source>Income</source>
+        <note>Income</note>
+      </trans-unit>
+      <trans-unit id="Incomplete or Invalid Location" xml:space="preserve">
+        <source>Incomplete or Invalid Location</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Incomplete or Invalid Title" xml:space="preserve">
+        <source>Incomplete or Invalid Title</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Interval" xml:space="preserve">
+        <source>Interval</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Invalid Account Name" xml:space="preserve">
+        <source>Invalid Account Name</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Invalid Account Number" xml:space="preserve">
+        <source>Invalid Account Number</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Invalid Account Selected" xml:space="preserve">
+        <source>Invalid Account Selected</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Invalid Account Type" xml:space="preserve">
+        <source>Invalid Account Type</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Invalid Amount" xml:space="preserve">
+        <source>Invalid Amount</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Invalid Category Selected" xml:space="preserve">
+        <source>Invalid Category Selected</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Invalid Color" xml:space="preserve">
+        <source>Invalid Color</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Invalid Data" xml:space="preserve">
+        <source>Invalid Data</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Invalid Destination Account" xml:space="preserve">
+        <source>Invalid Destination Account</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Invalid Ledger" xml:space="preserve">
+        <source>Invalid Ledger</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Invalid Ledger Currency" xml:space="preserve">
+        <source>Invalid Ledger Currency</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Invalid Ledger Name" xml:space="preserve">
+        <source>Invalid Ledger Name</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Invalid Ledger Title" xml:space="preserve">
+        <source>Invalid Ledger Title</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Invalid Name" xml:space="preserve">
+        <source>Invalid Name</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Invalid Notes Data" xml:space="preserve">
+        <source>Invalid Notes Data</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Invalid Source Account" xml:space="preserve">
+        <source>Invalid Source Account</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Invalid data or the data is in an invalid format." xml:space="preserve">
+        <source>Invalid data or the data is in an invalid format.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Invalid or no color selected. Please select a valid color for the category." xml:space="preserve">
+        <source>Invalid or no color selected. Please select a valid color for the category.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Ledger" xml:space="preserve">
+        <source>Ledger</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Ledger Not Found" xml:space="preserve">
+        <source>Ledger Not Found</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Ledger Overview" xml:space="preserve">
+        <source>Ledger Overview</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Ledgers" xml:space="preserve">
+        <source>Ledgers</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="List" xml:space="preserve">
+        <source>List</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Merging Data" xml:space="preserve">
+        <source>Merging Data</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Merging entries from %@" xml:space="preserve">
+        <source>Merging entries from %@</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Minimum Expense" xml:space="preserve">
+        <source>Minimum Expense</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Month" xml:space="preserve">
+        <source>Month</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Monthly" xml:space="preserve">
+        <source>Monthly</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Most Spent" xml:space="preserve">
+        <source>Most Spent</source>
+        <note>Most spent ledger detail title</note>
+      </trans-unit>
+      <trans-unit id="Never" xml:space="preserve">
+        <source>Never</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Account Selected" xml:space="preserve">
+        <source>No Account Selected</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Accounts" xml:space="preserve">
+        <source>No Accounts</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Categories" xml:space="preserve">
+        <source>No Categories</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Category Selected" xml:space="preserve">
+        <source>No Category Selected</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Entries" xml:space="preserve">
+        <source>No Entries</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Expenses" xml:space="preserve">
+        <source>No Expenses</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Ledger Selected" xml:space="preserve">
+        <source>No Ledger Selected</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Limits" xml:space="preserve">
+        <source>No Limits</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Reverse Account Selected" xml:space="preserve">
+        <source>No Reverse Account Selected</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No accounts were found in this export." xml:space="preserve">
+        <source>No accounts were found in this export.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No categories were found in this export." xml:space="preserve">
+        <source>No categories were found in this export.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No entries were found in this export." xml:space="preserve">
+        <source>No entries were found in this export.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No limits on number of ledgers, accounts and categories" xml:space="preserve">
+        <source>No limits on number of ledgers, accounts and categories</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="On Date" xml:space="preserve">
+        <source>On Date</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Overbudget" xml:space="preserve">
+        <source>Overbudget</source>
+        <note>Most spent ledger detail title</note>
+      </trans-unit>
+      <trans-unit id="Overbudget by %@" xml:space="preserve">
+        <source>Overbudget by %@</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please contact the developer at support@pockity.app with a screenshot of this error." xml:space="preserve">
+        <source>Please contact the developer at support@pockity.app with a screenshot of this error.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please enter a non-zero amount. Amounts cannot be negative." xml:space="preserve">
+        <source>Please enter a non-zero amount. Amounts cannot be negative.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please enter a valid transfer amount." xml:space="preserve">
+        <source>Please enter a valid transfer amount.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please select a category to add this entry to." xml:space="preserve">
+        <source>Please select a category to add this entry to.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please select a ledger for this category." xml:space="preserve">
+        <source>Please select a ledger for this category.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please select a ledger for this entry" xml:space="preserve">
+        <source>Please select a ledger for this entry</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please select a ledger to add this entry to." xml:space="preserve">
+        <source>Please select a ledger to add this entry to.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please select an account to attach this entry to." xml:space="preserve">
+        <source>Please select an account to attach this entry to.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please select an account to transfer from." xml:space="preserve">
+        <source>Please select an account to transfer from.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please select an account to transfer to." xml:space="preserve">
+        <source>Please select an account to transfer to.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Pockity is built by a single Developer. Purchasing Pockity+ helps me keep working on the app and support its future development." xml:space="preserve">
+        <source>Pockity is built by a single Developer. Purchasing Pockity+ helps me keep working on the app and support its future development.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Primary" xml:space="preserve">
+        <source>Primary</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Product not found" xml:space="preserve">
+        <source>Product not found</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Purchased" xml:space="preserve">
+        <source>Purchased</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Purchasing..." xml:space="preserve">
+        <source>Purchasing...</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Quarter" xml:space="preserve">
+        <source>Quarter</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Quit anyway" xml:space="preserve">
+        <source>Quit anyway</source>
+        <note>Quit anyway button title</note>
+      </trans-unit>
+      <trans-unit id="Quitting now will lose any changes you have made since the last successful save" xml:space="preserve">
+        <source>Quitting now will lose any changes you have made since the last successful save</source>
+        <note>Quit without saves error question info</note>
+      </trans-unit>
+      <trans-unit id="Recurring expense due tomorrow" xml:space="preserve">
+        <source>Recurring expense due tomorrow</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Reimburse" xml:space="preserve">
+        <source>Reimburse</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Reimbursement" xml:space="preserve">
+        <source>Reimbursement</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Reimbursements" xml:space="preserve">
+        <source>Reimbursements</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Repeat" xml:space="preserve">
+        <source>Repeat</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Repeating Entries" xml:space="preserve">
+        <source>Repeating Entries</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Restore" xml:space="preserve">
+        <source>Restore</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Restore your previous purchases if they haven't been synced automatically." xml:space="preserve">
+        <source>Restore your previous purchases if they haven't been synced automatically.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Restoring..." xml:space="preserve">
+        <source>Restoring...</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Search Currency" xml:space="preserve">
+        <source>Search Currency</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Select Currency" xml:space="preserve">
+        <source>Select Currency</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Select an account type to help identify entires easily." xml:space="preserve">
+        <source>Select an account type to help identify entires easily.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Select visible ledgers when focus is active" xml:space="preserve">
+        <source>Select visible ledgers when focus is active</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Selected account does not belong to this ledger." xml:space="preserve">
+        <source>Selected account does not belong to this ledger.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Selected category does not belong to this ledger." xml:space="preserve">
+        <source>Selected category does not belong to this ledger.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Show Ledger" xml:space="preserve">
+        <source>Show Ledger</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Subscriptions are automatically renewed unless you cancel them a day before the next renewal cycle." xml:space="preserve">
+        <source>Subscriptions are automatically renewed unless you cancel them a day before the next renewal cycle.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Support Development" xml:space="preserve">
+        <source>Support Development</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Table" xml:space="preserve">
+        <source>Table</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Thank You" xml:space="preserve">
+        <source>Thank You</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Thank you for the generous tip, I really appreciate it." xml:space="preserve">
+        <source>Thank you for the generous tip, I really appreciate it.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Thank you for the generous tip, I really appreciate your continued support for me and the app." xml:space="preserve">
+        <source>Thank you for the generous tip, I really appreciate your continued support for me and the app.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The Account's number (last four digits) are used throughout the app to mark entries." xml:space="preserve">
+        <source>The Account's number (last four digits) are used throughout the app to mark entries.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The Ledger's title is used in dropdowns throughout the app." xml:space="preserve">
+        <source>The Ledger's title is used in dropdowns throughout the app.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The account associated with a recurring entry was not found." xml:space="preserve">
+        <source>The account associated with a recurring entry was not found.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The category associated with a recurring entry was not found." xml:space="preserve">
+        <source>The category associated with a recurring entry was not found.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The common group container is not accessible by this module." xml:space="preserve">
+        <source>The common group container is not accessible by this module.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The issuing bank's name is optional, but useful if you need to have multiple accounts of the same type with different banks." xml:space="preserve">
+        <source>The issuing bank's name is optional, but useful if you need to have multiple accounts of the same type with different banks.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The ledger currency is used for all its entries and accounts." xml:space="preserve">
+        <source>The ledger currency is used for all its entries and accounts.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The ledger does not exist. Either it was deleted, or the owner of the ledger has changed permissions." xml:space="preserve">
+        <source>The ledger does not exist. Either it was deleted, or the owner of the ledger has changed permissions.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The title should be atleast 3 letters." xml:space="preserve">
+        <source>The title should be atleast 3 letters.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="This Month" xml:space="preserve">
+        <source>This Month</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="This Quarter" xml:space="preserve">
+        <source>This Quarter</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="This Year" xml:space="preserve">
+        <source>This Year</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="This purchase is only valid for iOS and iPadOS. The macOS app is unlocked separately." xml:space="preserve">
+        <source>This purchase is only valid for iOS and iPadOS. The macOS app is unlocked separately.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Tips do not unlock any additional functionality in the app." xml:space="preserve">
+        <source>Tips do not unlock any additional functionality in the app.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Total Expense" xml:space="preserve">
+        <source>Total Expense</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Total Expenses" xml:space="preserve">
+        <source>Total Expenses</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Transfer" xml:space="preserve">
+        <source>Transfer</source>
+        <note>Transfer</note>
+      </trans-unit>
+      <trans-unit id="Transfer from" xml:space="preserve">
+        <source>Transfer from</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Transfer to" xml:space="preserve">
+        <source>Transfer to</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Transferred to %@" xml:space="preserve">
+        <source>Transferred to %@</source>
+        <note>Transferred to format</note>
+      </trans-unit>
+      <trans-unit id="Untitled" xml:space="preserve">
+        <source>Untitled</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Visible Ledgers" xml:space="preserve">
+        <source>Visible Ledgers</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Weekly" xml:space="preserve">
+        <source>Weekly</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="When moving funds between accounts, an origin account must be selected." xml:space="preserve">
+        <source>When moving funds between accounts, an origin account must be selected.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="White spaces and new lines won't be considered valid data for an entry's note." xml:space="preserve">
+        <source>White spaces and new lines won't be considered valid data for an entry's note.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Whites-spaces and newlines won't be considered valid data for an entry's note." xml:space="preserve">
+        <source>Whites-spaces and newlines won't be considered valid data for an entry's note.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Year" xml:space="preserve">
+        <source>Year</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Yearly" xml:space="preserve">
+        <source>Yearly</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="You can try this action again. If it continues to fail, please report the error to support@pockity.app" xml:space="preserve">
+        <source>You can try this action again. If it continues to fail, please report the error to support@pockity.app</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="You cannot use the word &quot;Primary&quot; for the ledger. This is a reserved key." xml:space="preserve">
+        <source>You cannot use the word "Primary" for the ledger. This is a reserved key.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="date" xml:space="preserve">
+        <source>date</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="day" xml:space="preserve">
+        <source>day</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="last" xml:space="preserve">
+        <source>last</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="value" xml:space="preserve">
+        <source>value</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="🎉 Thank you for purchasing Pockity+ and supporting its development 🎉" xml:space="preserve">
+        <source>🎉 Thank you for purchasing Pockity+ and supporting its development 🎉</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="macOS/en.lproj/Pockity-InfoPlist.strings" datatype="plaintext" source-language="en" target-language="ko">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.2" build-num="14C18"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>Pockity</source>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
+        <source>© 2019-2023 Nikhil Nigade - All Rights Reserved</source>
+        <note>Copyright (human-readable)</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="macOS/Widgets/en.lproj/InfoPlist.strings" source-language="en" target-language="ko" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.2" build-num="14C18"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>Pockity</source>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>WidgetsExtensionMac</source>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
+        <source>© 2019-2023 Nikhil Nigade - All Rights Reserved</source>
+        <target>© 2019-2023 Nikhil Nigade - All Rights Reserved</target>
+        <note>Copyright (human-readable)</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="macOS/Widgets/en.lproj/Localizable.strings" datatype="plaintext" source-language="en" target-language="ko">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.2" build-num="14C18"/>
+    </header>
+    <body>
+      <trans-unit id="%.2f" xml:space="preserve">
+        <source>%.2f</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Budgets" xml:space="preserve">
+        <source>Budgets</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Earned" xml:space="preserve">
+        <source>Earned</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Highest" xml:space="preserve">
+        <source>Highest</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Long press the widget and edit it to select a Ledger" xml:space="preserve">
+        <source>Long press the widget and edit it to select a Ledger</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No data to display" xml:space="preserve">
+        <source>No data to display</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Not available" xml:space="preserve">
+        <source>Not available</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please select a Ledger" xml:space="preserve">
+        <source>Please select a Ledger</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Spent" xml:space="preserve">
+        <source>Spent</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="This Month" xml:space="preserve">
+        <source>This Month</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="This Week" xml:space="preserve">
+        <source>This Week</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="View budgets and expenses for selected categories" xml:space="preserve">
+        <source>View budgets and expenses for selected categories</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="View expenses and income for the current month" xml:space="preserve">
+        <source>View expenses and income for the current month</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="View expenses and income for the current week" xml:space="preserve">
+        <source>View expenses and income for the current week</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="View expenses and income for the current week and month" xml:space="preserve">
+        <source>View expenses and income for the current week and month</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="View your Budgets" xml:space="preserve">
+        <source>View your Budgets</source>
+        <note>View your Budgets</note>
+      </trans-unit>
+      <trans-unit id="Weekly &amp; Monthly Overview" xml:space="preserve">
+        <source>Weekly &amp; Monthly Overview</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="SelectAccountIntent/en.lproj/InfoPlist.strings" source-language="en" target-language="ko" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.2" build-num="14C18"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>Pockity</source>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>SelectCategoryIntent</source>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
+        <source>© 2019-2023 Nikhil Nigade - All Rights Reserved</source>
+        <target>© 2019-2023 Nikhil Nigade - All Rights Reserved</target>
+        <note>Copyright (human-readable)</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="SelectLedgerIntent/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="ko">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.2" build-num="14C18"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>Pockity</source>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>SelectLedgerIntent</source>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
+        <source>© 2019-2023 Nikhil Nigade - All Rights Reserved</source>
+        <note>Copyright (human-readable)</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="SelectLedgerIntentMac/en.lproj/InfoPlist.strings" source-language="en" target-language="ko" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.2" build-num="14C18"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>Pockity</source>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>SelectLedgerIntentMac</source>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
+        <source>© 2019-2023 Nikhil Nigade - All Rights Reserved</source>
+        <target>© 2019-2023 Nikhil Nigade - All Rights Reserved</target>
+        <note>Copyright (human-readable)</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Shared/Widgets/Base.lproj/Widgets.intentdefinition" source-language="en" target-language="ko" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.2" build-num="14C18"/>
+    </header>
+    <body>
+      <trans-unit id="4WTG5p" xml:space="preserve">
+        <source>Categories</source>
+        <target>Categories</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="5sdUo7" xml:space="preserve">
+        <source>Ledger</source>
+        <target>Ledger</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="6Njfgr" xml:space="preserve">
+        <source>Just to confirm, you wanted ‘${ledger}’?</source>
+        <target>Just to confirm, you wanted ‘${ledger}’?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="6XINJh" xml:space="preserve">
+        <source>Ledger overview of Expenses and Income</source>
+        <target>Ledger overview of Expenses and Income</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="C63TeO" xml:space="preserve">
+        <source>Budget Type</source>
+        <target>Budget Type</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="D4GhGX" xml:space="preserve">
+        <source>Ledger</source>
+        <target>Ledger</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="FYXWUy" xml:space="preserve">
+        <source>There are ${count} options matching ‘${ledger}’.</source>
+        <target>There are ${count} options matching ‘${ledger}’.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="GDlrol" xml:space="preserve">
+        <source>Expense</source>
+        <target>Expense</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="PnDFuS" xml:space="preserve">
+        <source>Overview</source>
+        <target>Overview</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="SuXzUr" xml:space="preserve">
+        <source>Currency</source>
+        <target>Currency</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="VWKyaE" xml:space="preserve">
+        <source>Visible Accounts</source>
+        <target>Visible Accounts</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="gheh3W" xml:space="preserve">
+        <source>Budgets</source>
+        <target>Budgets</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="gwixeU" xml:space="preserve">
+        <source>Category</source>
+        <target>Category</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="h22dqt" xml:space="preserve">
+        <source>Budget</source>
+        <target>Budget</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="o5bAT5" xml:space="preserve">
+        <source>View your budgets from selected categories</source>
+        <target>View your budgets from selected categories</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="yrmQZg" xml:space="preserve">
+        <source>Color Name</source>
+        <target>Color Name</target>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="TodayExtension/Base.lproj/MainInterface.storyboard" source-language="en" target-language="ko" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.2" build-num="14C18"/>
+    </header>
+    <body>
+      <trans-unit id="2ZV-X0-FwZ.normalTitle" xml:space="preserve">
+        <source>0</source>
+        <target>0</target>
+        <note>Class = "UIButton"; normalTitle = "0"; ObjectID = "2ZV-X0-FwZ";</note>
+      </trans-unit>
+      <trans-unit id="D5b-zq-XHd.normalTitle" xml:space="preserve">
+        <source>7</source>
+        <target>7</target>
+        <note>Class = "UIButton"; normalTitle = "7"; ObjectID = "D5b-zq-XHd";</note>
+      </trans-unit>
+      <trans-unit id="QRs-24-98k.normalTitle" xml:space="preserve">
+        <source>5</source>
+        <target>5</target>
+        <note>Class = "UIButton"; normalTitle = "5"; ObjectID = "QRs-24-98k";</note>
+      </trans-unit>
+      <trans-unit id="QWc-2q-i16.normalTitle" xml:space="preserve">
+        <source>4</source>
+        <target>4</target>
+        <note>Class = "UIButton"; normalTitle = "4"; ObjectID = "QWc-2q-i16";</note>
+      </trans-unit>
+      <trans-unit id="S0e-2b-BkX.normalTitle" xml:space="preserve">
+        <source>.</source>
+        <target>.</target>
+        <note>Class = "UIButton"; normalTitle = "."; ObjectID = "S0e-2b-BkX";</note>
+      </trans-unit>
+      <trans-unit id="VIi-O7-PdM.placeholder" xml:space="preserve">
+        <source>Amount</source>
+        <target>Amount</target>
+        <note>Class = "UITextField"; placeholder = "Amount"; ObjectID = "VIi-O7-PdM";</note>
+      </trans-unit>
+      <trans-unit id="XCH-ST-zIZ.normalTitle" xml:space="preserve">
+        <source>2</source>
+        <target>2</target>
+        <note>Class = "UIButton"; normalTitle = "2"; ObjectID = "XCH-ST-zIZ";</note>
+      </trans-unit>
+      <trans-unit id="daq-36-aSm.normalTitle" xml:space="preserve">
+        <source>x</source>
+        <target>x</target>
+        <note>Class = "UIButton"; normalTitle = "x"; ObjectID = "daq-36-aSm";</note>
+      </trans-unit>
+      <trans-unit id="hwV-6r-JuD.normalTitle" xml:space="preserve">
+        <source>1</source>
+        <target>1</target>
+        <note>Class = "UIButton"; normalTitle = "1"; ObjectID = "hwV-6r-JuD";</note>
+      </trans-unit>
+      <trans-unit id="iPW-vg-urj.normalTitle" xml:space="preserve">
+        <source>6</source>
+        <target>6</target>
+        <note>Class = "UIButton"; normalTitle = "6"; ObjectID = "iPW-vg-urj";</note>
+      </trans-unit>
+      <trans-unit id="jun-8y-wLU.normalTitle" xml:space="preserve">
+        <source>+</source>
+        <target>+</target>
+        <note>Class = "UIButton"; normalTitle = "+"; ObjectID = "jun-8y-wLU";</note>
+      </trans-unit>
+      <trans-unit id="nFE-OQ-HsO.normalTitle" xml:space="preserve">
+        <source>9</source>
+        <target>9</target>
+        <note>Class = "UIButton"; normalTitle = "9"; ObjectID = "nFE-OQ-HsO";</note>
+      </trans-unit>
+      <trans-unit id="qkY-Xi-LTx.normalTitle" xml:space="preserve">
+        <source>3</source>
+        <target>3</target>
+        <note>Class = "UIButton"; normalTitle = "3"; ObjectID = "qkY-Xi-LTx";</note>
+      </trans-unit>
+      <trans-unit id="qvh-6j-UeC.normalTitle" xml:space="preserve">
+        <source>-</source>
+        <target>-</target>
+        <note>Class = "UIButton"; normalTitle = "-"; ObjectID = "qvh-6j-UeC";</note>
+      </trans-unit>
+      <trans-unit id="sHv-o3-V0r.normalTitle" xml:space="preserve">
+        <source>8</source>
+        <target>8</target>
+        <note>Class = "UIButton"; normalTitle = "8"; ObjectID = "sHv-o3-V0r";</note>
+      </trans-unit>
+      <trans-unit id="x3l-zu-mwo.normalTitle" xml:space="preserve">
+        <source>÷</source>
+        <target>÷</target>
+        <note>Class = "UIButton"; normalTitle = "÷"; ObjectID = "x3l-zu-mwo";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="TodayExtension/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="ko">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.2" build-num="14C18"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>Pockity</source>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>TodayExtension</source>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSLocationWhenInUseUsageDescription" xml:space="preserve">
+        <source>The location information is used to provide improved auto-complete suggestions when finalising the entry in the app.</source>
+        <note>Privacy - Location When In Use Usage Description</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="WidgetIntents/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="ko">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.2" build-num="14C18"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>Pockity</source>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>WidgetIntents</source>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
+        <source>© 2019-2023 Nikhil Nigade - All Rights Reserved</source>
+        <note>Copyright (human-readable)</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
