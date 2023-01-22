@@ -587,6 +587,10 @@
         <source>Delete Existing Data?</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Delete Ledger" xml:space="preserve">
+        <source>Delete Ledger</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Delete Ledger?" xml:space="preserve">
         <source>Delete Ledger?</source>
         <target>원장을 삭제 하시겠습니까?</target>
@@ -1083,10 +1087,18 @@
         <target>새로운</target>
         <note>New button title</note>
       </trans-unit>
+      <trans-unit id="New Account" xml:space="preserve">
+        <source>New Account</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="New Attachment" xml:space="preserve">
         <source>New Attachment</source>
         <target>새로운 첨부 파일</target>
         <note>New Attachment title</note>
+      </trans-unit>
+      <trans-unit id="New Category" xml:space="preserve">
+        <source>New Category</source>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="New Entry" xml:space="preserve">
         <source>New Entry</source>
@@ -1103,6 +1115,10 @@
         <source>New Ledger</source>
         <target>새로운 원장</target>
         <note>New Ledger context menu title</note>
+      </trans-unit>
+      <trans-unit id="New Recurring Item" xml:space="preserve">
+        <source>New Recurring Item</source>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="New Smart Filter" xml:space="preserve">
         <source>New Smart Filter</source>
@@ -1949,6 +1965,10 @@
         <source>%.2f</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Budget" xml:space="preserve">
+        <source>Budget</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Budgets" xml:space="preserve">
         <source>Budgets</source>
         <note>No comment provided by engineer.</note>
@@ -1983,6 +2003,10 @@
       </trans-unit>
       <trans-unit id="Pockity" xml:space="preserve">
         <source>Pockity</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Remaining" xml:space="preserve">
+        <source>Remaining</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Spent" xml:space="preserve">
@@ -2051,6 +2075,10 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.2" build-num="14C18"/>
     </header>
     <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>Pockity</source>
+        <note>Bundle display name</note>
+      </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>Pockity</source>
         <note>Bundle name</note>
@@ -2090,6 +2118,10 @@
         <source>%.2f</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Budget" xml:space="preserve">
+        <source>Budget</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Budgets" xml:space="preserve">
         <source>Budgets</source>
         <note>No comment provided by engineer.</note>
@@ -2116,6 +2148,10 @@
       </trans-unit>
       <trans-unit id="Please select a Ledger" xml:space="preserve">
         <source>Please select a Ledger</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Remaining" xml:space="preserve">
+        <source>Remaining</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Spent" xml:space="preserve">
