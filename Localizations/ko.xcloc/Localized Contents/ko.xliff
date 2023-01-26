@@ -159,6 +159,10 @@
         <target>지난 기간보다 %@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="%@%@" xml:space="preserve">
+        <source>%@%@</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="%d Days" xml:space="preserve">
         <source>%d Days</source>
         <target>%d 일</target>
@@ -383,6 +387,10 @@
         <target>예산 금액</target>
         <note>Budget Amount title</note>
       </trans-unit>
+      <trans-unit id="Budgets" xml:space="preserve">
+        <source>Budgets</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Buy" xml:space="preserve">
         <source>Buy</source>
         <note>No comment provided by engineer.</note>
@@ -422,6 +430,10 @@
       <trans-unit id="Category Not Found" xml:space="preserve">
         <source>Category Not Found</source>
         <target>카테고리를 찾을 수 없습니다</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Chart" xml:space="preserve">
+        <source>Chart</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Clear Filter" xml:space="preserve">
@@ -1419,6 +1431,10 @@
         <target>상환</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Remaining" xml:space="preserve">
+        <source>Remaining</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Remember Last Used" xml:space="preserve">
         <source>Remember Last Used</source>
         <target>마지막으로 사용 된 것을 기억하십시오</target>
@@ -1565,6 +1581,10 @@
       </trans-unit>
       <trans-unit id="Sounds Enabled" xml:space="preserve">
         <source>Sounds Enabled</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Spent" xml:space="preserve">
+        <source>Spent</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Start Date" xml:space="preserve">
@@ -1861,6 +1881,10 @@
         <target>기존 데이터는 iCloud에서 발견되었습니다.이 장치에 다운로드 및 동기화됩니다.동기화가 완료되는 동안 기다려주세요.</target>
         <note>Existing Data Found message</note>
       </trans-unit>
+      <trans-unit id="account" xml:space="preserve">
+        <source>account</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="date" xml:space="preserve">
         <source>date</source>
         <note>No comment provided by engineer.</note>
@@ -1870,8 +1894,16 @@
         <target>요일</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="expense" xml:space="preserve">
+        <source>expense</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="iCloud" xml:space="preserve">
         <source>iCloud</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="income" xml:space="preserve">
+        <source>income</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="last" xml:space="preserve">
