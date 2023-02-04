@@ -1039,7 +1039,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Long press the widget and edit it to select a Ledger" xml:space="preserve">
-        <source>Long press the widget and edit it to select a Ledger</source>
+        <source>Touch and hold the widget and edit it to select a Ledger</source>
         <target>ウィジェットを長く押して編集して元帳を選択します</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
@@ -2018,7 +2018,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Long press the widget and edit it to select a Ledger" xml:space="preserve">
-        <source>Long press the widget and edit it to select a Ledger</source>
+        <source>Touch and hold the widget and edit it to select a Ledger</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No data to display" xml:space="preserve">
@@ -2167,7 +2167,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Long press the widget and edit it to select a Ledger" xml:space="preserve">
-        <source>Long press the widget and edit it to select a Ledger</source>
+        <source>Touch and hold the widget and edit it to select a Ledger</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No data to display" xml:space="preserve">

@@ -23,6 +23,9 @@
 "%d Entries" = "%d Entries";
 
 /* No comment provided by engineer. */
+"🎉 Thank you for purchasing Pockity+ and supporting its development 🎉" = "🎉 Thank you for purchasing Pockity+ and supporting its development 🎉";
+
+/* No comment provided by engineer. */
 "A ledger with the same title already exists. Please choose a different title." = "A ledger with the same title already exists. Please choose a different title.";
 
 /* No comment provided by engineer. */
@@ -464,7 +467,7 @@
 "Location" = "Location";
 
 /* No comment provided by engineer. */
-"Long press the widget and edit it to select a Ledger" = "Long press the widget and edit it to select a Ledger";
+"Long press the widget and edit it to select a Ledger" = "Touch and hold the widget and edit it to select a Ledger";
 
 /* Manage Participation context menu title */
 "Manage Participation" = "Manage Participation";
@@ -881,7 +884,4 @@
 
 /* Your Name placeholder */
 "Your Name" = "Your Name";
-
-/* No comment provided by engineer. */
-"🎉 Thank you for purchasing Pockity+ and supporting its development 🎉" = "🎉 Thank you for purchasing Pockity+ and supporting its development 🎉";
 

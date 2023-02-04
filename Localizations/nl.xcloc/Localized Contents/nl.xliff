@@ -159,6 +159,10 @@
         <target>%@ meer dan vorige periode</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="%@%@" xml:space="preserve">
+        <source>%@%@</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="%d Days" xml:space="preserve">
         <source>%d Days</source>
         <target>%d dagen</target>
@@ -383,6 +387,10 @@
         <target>Budget bedrag</target>
         <note>Budget Amount title</note>
       </trans-unit>
+      <trans-unit id="Budgets" xml:space="preserve">
+        <source>Budgets</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Buy" xml:space="preserve">
         <source>Buy</source>
         <note>No comment provided by engineer.</note>
@@ -422,6 +430,10 @@
       <trans-unit id="Category Not Found" xml:space="preserve">
         <source>Category Not Found</source>
         <target>Categorie niet gevonden</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Chart" xml:space="preserve">
+        <source>Chart</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Clear Filter" xml:space="preserve">
@@ -1027,7 +1039,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Long press the widget and edit it to select a Ledger" xml:space="preserve">
-        <source>Long press the widget and edit it to select a Ledger</source>
+        <source>Touch and hold the widget and edit it to select a Ledger</source>
         <target>Druk lang op de widget en bewerk deze om een grootboek te selecteren</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
@@ -1419,6 +1431,10 @@
         <target>Vergoedingen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Remaining" xml:space="preserve">
+        <source>Remaining</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Remember Last Used" xml:space="preserve">
         <source>Remember Last Used</source>
         <target>Onthoud het laatst gebruikt</target>
@@ -1565,6 +1581,10 @@
       </trans-unit>
       <trans-unit id="Sounds Enabled" xml:space="preserve">
         <source>Sounds Enabled</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Spent" xml:space="preserve">
+        <source>Spent</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Start Date" xml:space="preserve">
@@ -1861,6 +1881,10 @@
         <target>Uw bestaande gegevens zijn gevonden op iCloud.Het wordt gedownload en gesynchroniseerd met dit apparaat.Wacht terwijl de synchronisatie is voltooid.</target>
         <note>Existing Data Found message</note>
       </trans-unit>
+      <trans-unit id="account" xml:space="preserve">
+        <source>account</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="date" xml:space="preserve">
         <source>date</source>
         <note>No comment provided by engineer.</note>
@@ -1870,8 +1894,16 @@
         <target>dag</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="expense" xml:space="preserve">
+        <source>expense</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="iCloud" xml:space="preserve">
         <source>iCloud</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="income" xml:space="preserve">
+        <source>income</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="last" xml:space="preserve">
@@ -1991,7 +2023,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Long press the widget and edit it to select a Ledger" xml:space="preserve">
-        <source>Long press the widget and edit it to select a Ledger</source>
+        <source>Touch and hold the widget and edit it to select a Ledger</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No data to display" xml:space="preserve">
@@ -2140,7 +2172,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Long press the widget and edit it to select a Ledger" xml:space="preserve">
-        <source>Long press the widget and edit it to select a Ledger</source>
+        <source>Touch and hold the widget and edit it to select a Ledger</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No data to display" xml:space="preserve">
