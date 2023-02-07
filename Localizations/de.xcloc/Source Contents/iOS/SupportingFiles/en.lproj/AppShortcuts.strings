@@ -2,10 +2,10 @@
 "${applicationName} Ledger" = "${applicationName} Ledger";
 
 /* No comment provided by engineer. */
-"${applicationName} Ledger Overview" = "${applicationName} Ledger Overview";
+"${applicationName} Ledger Overview" = "Überblick über ${applicationName} Ledger";
 
 /* No comment provided by engineer. */
-"${applicationName} Overview" = "${applicationName} Overview";
+"${applicationName} Overview" = "${applicationName} im Überblick";
 
 /* No comment provided by engineer. */
 "${applicationName} Show Ledger" = "${applicationName} Show Ledger";

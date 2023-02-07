@@ -432,11 +432,6 @@
         <target>Budgets</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Buy" xml:space="preserve">
-        <source>Buy</source>
-        <target>Buy</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
       <trans-unit id="CSV Exports are date range limited" xml:space="preserve">
         <source>CSV Exports are date range limited</source>
         <target>CSV Exports are date range limited</target>
@@ -483,6 +478,11 @@
         <source>Clear Filter</source>
         <target>Clear Filter</target>
         <note>Clear filter action title for Recent Filters menu</note>
+      </trans-unit>
+      <trans-unit id="Close" xml:space="preserve">
+        <source>Close</source>
+        <target>Close</target>
+        <note>Close</note>
       </trans-unit>
       <trans-unit id="Close Settings" xml:space="preserve">
         <source>Close Settings</source>
@@ -736,10 +736,25 @@
         <target>Edit %@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Edit Account" xml:space="preserve">
+        <source>Edit Account</source>
+        <target>Edit Account</target>
+        <note>Edit Account</note>
+      </trans-unit>
+      <trans-unit id="Edit Category" xml:space="preserve">
+        <source>Edit Category</source>
+        <target>Edit Category</target>
+        <note>Edit Category</note>
+      </trans-unit>
       <trans-unit id="Edit Entry" xml:space="preserve">
         <source>Edit Entry</source>
         <target>Edit Entry</target>
         <note>Edit Entry</note>
+      </trans-unit>
+      <trans-unit id="Edit Template" xml:space="preserve">
+        <source>Edit Template</source>
+        <target>Edit Template</target>
+        <note>Edit Template</note>
       </trans-unit>
       <trans-unit id="Edit the selected entry" xml:space="preserve">
         <source>Edit the selected entry</source>
@@ -1172,7 +1187,7 @@
       <trans-unit id="New Account" xml:space="preserve">
         <source>New Account</source>
         <target>New Account</target>
-        <note>No comment provided by engineer.</note>
+        <note>New Account</note>
       </trans-unit>
       <trans-unit id="New Attachment" xml:space="preserve">
         <source>New Attachment</source>
@@ -1182,7 +1197,7 @@
       <trans-unit id="New Category" xml:space="preserve">
         <source>New Category</source>
         <target>New Category</target>
-        <note>No comment provided by engineer.</note>
+        <note>New Category</note>
       </trans-unit>
       <trans-unit id="New Entry" xml:space="preserve">
         <source>New Entry</source>
@@ -1204,6 +1219,11 @@
         <source>New Recurring Item</source>
         <target>New Recurring Item</target>
         <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="New Repeating Entry" xml:space="preserve">
+        <source>New Repeating Entry</source>
+        <target>New Repeating Entry</target>
+        <note>New Repeating Entry</note>
       </trans-unit>
       <trans-unit id="New Smart Filter" xml:space="preserve">
         <source>New Smart Filter</source>
@@ -1303,6 +1323,11 @@
       <trans-unit id="No entries were found in this export." xml:space="preserve">
         <source>No entries were found in this export.</source>
         <target>No entries were found in this export.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No entries%@ for the interval of %@" xml:space="preserve">
+        <source>No entries%1$@ for the interval of %2$@</source>
+        <target>No entries%1$@ for the interval of %2$@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No limits on number of ledgers, accounts and categories" xml:space="preserve">
@@ -2219,33 +2244,6 @@
       <trans-unit id="Weekly &amp; Monthly Overview" xml:space="preserve">
         <source>Weekly &amp; Monthly Overview</source>
         <target>Weekly &amp; Monthly Overview</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-    </body>
-  </file>
-  <file original="macOS/en.lproj/AppShortcuts.strings" source-language="en" target-language="en" datatype="plaintext">
-    <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.2" build-num="14C18"/>
-    </header>
-    <body>
-      <trans-unit id="${applicationName} Ledger" xml:space="preserve">
-        <source>${applicationName} Ledger</source>
-        <target>${applicationName} Ledger</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="${applicationName} Ledger Overview" xml:space="preserve">
-        <source>${applicationName} Ledger Overview</source>
-        <target>${applicationName} Ledger Overview</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="${applicationName} Overview" xml:space="preserve">
-        <source>${applicationName} Overview</source>
-        <target>${applicationName} Overview</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="${applicationName} Show Ledger" xml:space="preserve">
-        <source>${applicationName} Show Ledger</source>
-        <target>${applicationName} Show Ledger</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
     </body>
