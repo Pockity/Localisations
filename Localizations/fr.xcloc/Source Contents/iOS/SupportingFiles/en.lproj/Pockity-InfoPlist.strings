@@ -1,3 +1,8 @@
 /* Bundle name */
 "CFBundleName" = "Pockity";
-
+/* Privacy - Camera Usage Description */
+"NSCameraUsageDescription" = "The camera is used to scan receipts for quick entry";
+/* Copyright (human-readable) */
+"NSHumanReadableCopyright" = "© 2019-2023 Nikhil Nigade - All Rights Reserved";
+/* Privacy - Location When In Use Usage Description */
+"NSLocationWhenInUseUsageDescription" = "Location information is used to provide improved auto-complete suggestions when creating an entry.";
