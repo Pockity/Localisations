@@ -2,6 +2,8 @@
 "CFBundleName" = "Pockity";
 /* Privacy - Camera Usage Description */
 "NSCameraUsageDescription" = "The camera is used to scan receipts for quick entry";
+/* Privacy - Contacts Usage Description */
+"NSContactsUsageDescription" = "Contacts information is used to display avatars of participants in shared ledgers. Contacts are always accessed locally and never synced to any external service.";
 /* Copyright (human-readable) */
 "NSHumanReadableCopyright" = "© 2019-2023 Nikhil Nigade - All Rights Reserved";
 /* Privacy - Location When In Use Usage Description */

@@ -1,6 +1,0 @@
-/* Bundle display name */
-"CFBundleDisplayName" = "Pockity";
-/* Bundle name */
-"CFBundleName" = "TodayExtension";
-/* Privacy - Location When In Use Usage Description */
-"NSLocationWhenInUseUsageDescription" = "The location information is used to provide improved auto-complete suggestions when finalising the entry in the app.";

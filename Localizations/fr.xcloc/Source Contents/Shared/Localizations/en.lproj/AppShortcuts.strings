@@ -10,3 +10,9 @@
 /* No comment provided by engineer. */
 "${applicationName} Show Ledger" = "${applicationName} Show Ledger";
 
+"${applicationName} Expenses" = "${applicationName} Expenses";
+
+"${applicationName} Spending" = "${applicationName} Spending";
+
+"${applicationName} Spent" = "${applicationName} Spent";
+

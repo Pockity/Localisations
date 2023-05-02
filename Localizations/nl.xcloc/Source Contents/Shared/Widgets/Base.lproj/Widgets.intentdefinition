@@ -9,11 +9,11 @@
 	<key>INIntentDefinitionNamespace</key>
 	<string>88xZPY</string>
 	<key>INIntentDefinitionSystemVersion</key>
-	<string>22C65</string>
+	<string>22D68</string>
 	<key>INIntentDefinitionToolsBuildVersion</key>
-	<string>14C18</string>
+	<string>14E5197f</string>
 	<key>INIntentDefinitionToolsVersion</key>
-	<string>14.2</string>
+	<string>14.3</string>
 	<key>INIntents</key>
 	<array>
 		<dict>
@@ -50,13 +50,13 @@
 						</dict>
 						<dict>
 							<key>INIntentParameterArraySizeSize</key>
-							<integer>4</integer>
+							<integer>1</integer>
 							<key>INIntentParameterArraySizeSizeClass</key>
 							<string>Large</string>
 						</dict>
 						<dict>
 							<key>INIntentParameterArraySizeSize</key>
-							<integer>12</integer>
+							<integer>1</integer>
 							<key>INIntentParameterArraySizeSizeClass</key>
 							<string>ExtraLarge</string>
 						</dict>
@@ -200,26 +200,6 @@
 							<true/>
 							<key>INIntentParameterPromptDialogType</key>
 							<string>Primary</string>
-						</dict>
-						<dict>
-							<key>INIntentParameterPromptDialogCustom</key>
-							<true/>
-							<key>INIntentParameterPromptDialogFormatString</key>
-							<string>There are ${count} options matching ‘${ledger}’.</string>
-							<key>INIntentParameterPromptDialogFormatStringID</key>
-							<string>FYXWUy</string>
-							<key>INIntentParameterPromptDialogType</key>
-							<string>DisambiguationIntroduction</string>
-						</dict>
-						<dict>
-							<key>INIntentParameterPromptDialogCustom</key>
-							<true/>
-							<key>INIntentParameterPromptDialogFormatString</key>
-							<string>Just to confirm, you wanted ‘${ledger}’?</string>
-							<key>INIntentParameterPromptDialogFormatStringID</key>
-							<string>6Njfgr</string>
-							<key>INIntentParameterPromptDialogType</key>
-							<string>Confirmation</string>
 						</dict>
 					</array>
 					<key>INIntentParameterSupportsDynamicEnumeration</key>
