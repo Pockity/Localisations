@@ -26,7 +26,7 @@
         <note>Delete action under row comments</note>
       </trans-unit>
       <trans-unit id="New" xml:space="preserve">
-        <source>New</source>
+        <source>New</source><target>新規</target>
         <note>New Row Button Title</note>
       </trans-unit>
       <trans-unit id="No" xml:space="preserve">
@@ -110,23 +110,23 @@
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>Pockity</source>
-        <target>Pockity</target>
+        <target>ポキティー</target>
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSCameraUsageDescription" xml:space="preserve">
-        <source>The camera is used to scan receipts for quick entry</source>
+        <source>The camera is used to scan receipts for quick entry</source><target>レシートをスキャンして素早く入力するためのカメラです</target>
         <note>Privacy - Camera Usage Description</note>
       </trans-unit>
       <trans-unit id="NSContactsUsageDescription" xml:space="preserve">
-        <source>Contacts information is used to display avatars of participants in shared ledgers. Contacts are always accessed locally and never synced to any external service.</source>
+        <source>Contacts information is used to display avatars of participants in shared ledgers. Contacts are always accessed locally and never synced to any external service.</source><target>連絡先情報は、共有台帳に参加者のアバターを表示するために使用されます。連絡先は常にローカルでアクセスされ、外部サービスに同期されることはありません。</target>
         <note>Privacy - Contacts Usage Description</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
-        <source>© 2019-2023 Nikhil Nigade - All Rights Reserved</source>
+        <source>© 2019-2023 Nikhil Nigade - All Rights Reserved</source><target>© 2019-2023 Nikhil Nigade - All Rights Reserved.</target>
         <note>Copyright (human-readable)</note>
       </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription" xml:space="preserve">
-        <source>Location information is used to provide improved auto-complete suggestions when creating an entry.</source>
+        <source>Location information is used to provide improved auto-complete suggestions when creating an entry.</source><target>位置情報は、エントリーを作成する際のオートコンプリートの候補を改善するために使用されます。</target>
         <note>Privacy - Location When In Use Usage Description</note>
       </trans-unit>
     </body>
@@ -137,7 +137,7 @@
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
-        <source>Pockity</source>
+        <source>Pockity</source><target>ポキティー</target>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -146,7 +146,7 @@
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
         <source>© 2019-2023 Nikhil Nigade - All Rights Reserved</source>
-        <target>© 2019-2023 Nikhil Nigade - All Rights Reserved</target>
+        <target>© 2019-2023 Nikhil Nigade - All Rights Reserved.</target>
         <note>Copyright (human-readable)</note>
       </trans-unit>
     </body>
@@ -157,75 +157,75 @@
     </header>
     <body>
       <trans-unit id="%.2f" xml:space="preserve">
-        <source>%.2f</source>
+        <source>%.2f</source><target>%.2f</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@ Budget, Total: %@, Spent: %@, Overspend %@" xml:space="preserve">
-        <source>%1$@ Budget, Total: %2$@, Spent: %3$@, Overspend %4$@</source>
+        <source>%1$@ Budget, Total: %2$@, Spent: %3$@, Overspend %4$@</source><target>%1$@予算、合計：%2$@、使用した %3$@, オーバーシュート %4$@</target>
         <note>Overspent Budget widget label for VoiceOVer</note>
       </trans-unit>
       <trans-unit id="%@ Budget, Total: %@, Spent: %@, Remaining %@" xml:space="preserve">
-        <source>%1$@ Budget, Total: %2$@, Spent: %3$@, Remaining %4$@</source>
+        <source>%1$@ Budget, Total: %2$@, Spent: %3$@, Remaining %4$@</source><target>%1$@予算、合計：%2$@、使用した： %3$@、残り%4$@</target>
         <note>Budgets widget label for VoiceOVer</note>
       </trans-unit>
       <trans-unit id="Budget" xml:space="preserve">
-        <source>Budget</source>
+        <source>Budget</source><target>予算</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Budgets" xml:space="preserve">
-        <source>Budgets</source>
+        <source>Budgets</source><target>予算</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Earned" xml:space="preserve">
-        <source>Earned</source>
+        <source>Earned</source><target>獲得した</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Highest" xml:space="preserve">
-        <source>Highest</source>
+        <source>Highest</source><target>最高</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Launch the app to quickly create a new entry" xml:space="preserve">
-        <source>Launch the app to quickly create a new entry</source>
+        <source>Launch the app to quickly create a new entry</source><target>アプリを起動し、素早く新規エントリーを作成</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Long press the widget and edit it to select a Ledger" xml:space="preserve">
-        <source>Touch and hold the widget and edit it to select a Ledger</source>
+        <source>Touch and hold the widget and edit it to select a Ledger</source><target>ウィジェットをタッチ＆ホールドして編集し、Ledgerを選択します</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No data to display" xml:space="preserve">
-        <source>No data to display</source>
+        <source>No data to display</source><target>表示するデータがない</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Not Available" xml:space="preserve">
-        <source>Not Available</source>
+        <source>Not Available</source><target>使用不可</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Please select a Ledger" xml:space="preserve">
-        <source>Please select a Ledger</source>
+        <source>Please select a Ledger</source><target>レジャーを選択してください</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Please select a category to display in this widget" xml:space="preserve">
-        <source>Please select a category to display in this widget</source>
+        <source>Please select a category to display in this widget</source><target>このウィジェットに表示するカテゴリーを選択してください。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Please select categories to display in this widget" xml:space="preserve">
-        <source>Please select categories to display in this widget</source>
+        <source>Please select categories to display in this widget</source><target>このウィジェットに表示するカテゴリーを選択してください</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Pockity" xml:space="preserve">
-        <source>Pockity</source>
+        <source>Pockity</source><target>ポキティー</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Remaining" xml:space="preserve">
-        <source>Remaining</source>
+        <source>Remaining</source><target>残っている</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Spent" xml:space="preserve">
-        <source>Spent</source>
+        <source>Spent</source><target>使用済み</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="This Month" xml:space="preserve">
-        <source>This Month</source>
+        <source>This Month</source><target>今月は</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="This Week" xml:space="preserve">
@@ -233,27 +233,27 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="View budgets and expenses for selected categories" xml:space="preserve">
-        <source>View budgets and expenses for selected categories</source>
+        <source>View budgets and expenses for selected categories</source><target>選択したカテゴリの予算と支出を表示</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="View expenses and income for the current month" xml:space="preserve">
-        <source>View expenses and income for the current month</source>
+        <source>View expenses and income for the current month</source><target>当月の支出・収入を確認する</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="View expenses and income for the current week" xml:space="preserve">
-        <source>View expenses and income for the current week</source>
+        <source>View expenses and income for the current week</source><target>当週の支出や収入を表示する</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="View expenses and income for the current week and month" xml:space="preserve">
-        <source>View expenses and income for the current week and month</source>
+        <source>View expenses and income for the current week and month</source><target>当月・当週の支出・収入を確認できる</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="View your Budgets" xml:space="preserve">
-        <source>View your Budgets</source>
+        <source>View your Budgets</source><target>バジェット（予算）を見る</target>
         <note>View your Budgets</note>
       </trans-unit>
       <trans-unit id="Weekly &amp; Monthly Overview" xml:space="preserve">
-        <source>Weekly &amp; Monthly Overview</source>
+        <source>Weekly &amp; Monthly Overview</source><target>週次・月次の概要</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
     </body>
@@ -264,16 +264,16 @@
     </header>
     <body>
       <trans-unit id="%@" xml:space="preserve">
-        <source>%@</source>
+        <source>%@</source><target>%@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@ Entries will be deleted too" xml:space="preserve">
-        <source>%@ Entries will be deleted too</source>
+        <source>%@ Entries will be deleted too</source><target>%@ エントリーも削除されます</target>
         <note>Delete Account message format
    Delete Category message format</note>
       </trans-unit>
       <trans-unit id="%@%@" xml:space="preserve">
-        <source>%@%@</source>
+        <source>%@%@</source><target>%@%@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%d Entries" xml:space="preserve">
@@ -281,7 +281,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%lf spent" xml:space="preserve">
-        <source>%lf spent</source>
+        <source>%lf spent</source><target>%lfを使用</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="(year)" xml:space="preserve">
@@ -305,7 +305,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Add Item" xml:space="preserve">
-        <source>Add Item</source>
+        <source>Add Item</source><target>項目追加</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Add New Entries" xml:space="preserve">
@@ -329,7 +329,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="All associated entries will be deleted too." xml:space="preserve">
-        <source>All associated entries will be deleted too.</source>
+        <source>All associated entries will be deleted too.</source><target>関連するすべてのエントリも削除されます。</target>
         <note>Delete Mutltiple Accounts message
    Delete Mutltiple Categories message</note>
       </trans-unit>
@@ -350,15 +350,15 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Average" xml:space="preserve">
-        <source>Average</source>
+        <source>Average</source><target>平均</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Budget" xml:space="preserve">
-        <source>Budget</source>
+        <source>Budget</source><target>予算</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Budgets" xml:space="preserve">
-        <source>Budgets</source>
+        <source>Budgets</source><target>予算</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Buy %@" xml:space="preserve">
@@ -378,7 +378,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Chart" xml:space="preserve">
-        <source>Chart</source>
+        <source>Chart</source><target>チャート</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Check for Updates..." xml:space="preserve">
@@ -386,7 +386,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Cloud Status" xml:space="preserve">
-        <source>Cloud Status</source>
+        <source>Cloud Status</source><target>クラウド状況</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Could not save changes while quitting. Quit anyway?" xml:space="preserve">
@@ -394,7 +394,7 @@
         <note>Quit without saves error question message</note>
       </trans-unit>
       <trans-unit id="Create repeating entries from existing entries or new templates" xml:space="preserve">
-        <source>Create repeating entries from existing entries or new templates</source>
+        <source>Create repeating entries from existing entries or new templates</source><target>既存のエントリーや新しいテンプレートから繰り返しエントリーを作成する</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Daily" xml:space="preserve">
@@ -402,7 +402,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Date Range" xml:space="preserve">
-        <source>Date Range</source>
+        <source>Date Range</source><target>日付範囲</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Debug" xml:space="preserve">
@@ -455,7 +455,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Duplicate" xml:space="preserve">
-        <source>Duplicate</source>
+        <source>Duplicate</source><target>デュプリケート</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Duplicate %d Entries" xml:space="preserve">
@@ -463,7 +463,7 @@
         <note>Duplicate Entries title format</note>
       </trans-unit>
       <trans-unit id="Duration" xml:space="preserve">
-        <source>Duration</source>
+        <source>Duration</source><target>期間</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Edit" xml:space="preserve">
@@ -535,11 +535,11 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Hi, I'm Nikhil" xml:space="preserve">
-        <source>Hi, I'm Nikhil</source>
+        <source>Hi, I'm Nikhil</source><target>こんにちは、私はNikhilです。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="I appreciate the tips. This helps with the development of the app." xml:space="preserve">
-        <source>I appreciate the tips. This helps with the development of the app.</source>
+        <source>I appreciate the tips. This helps with the development of the app.</source><target>ヒントはありがたいですね。アプリの開発に役立っています。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Income" xml:space="preserve">
@@ -547,11 +547,11 @@
         <note>Income</note>
       </trans-unit>
       <trans-unit id="Interval" xml:space="preserve">
-        <source>Interval</source>
+        <source>Interval</source><target>インターバル</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Invalid Data" xml:space="preserve">
-        <source>Invalid Data</source>
+        <source>Invalid Data</source><target>無効なデータ</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Invalid Destination Account" xml:space="preserve">
@@ -575,15 +575,15 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Ledger Not Found" xml:space="preserve">
-        <source>Ledger Not Found</source>
+        <source>Ledger Not Found</source><target>Ledger Not Found</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Ledger Overview" xml:space="preserve">
-        <source>Ledger Overview</source>
+        <source>Ledger Overview</source><target>レッジャーの概要</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Ledgers" xml:space="preserve">
-        <source>Ledgers</source>
+        <source>Ledgers</source><target>レジャー</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="List" xml:space="preserve">
@@ -603,7 +603,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Minimum Expense" xml:space="preserve">
-        <source>Minimum Expense</source>
+        <source>Minimum Expense</source><target>ミニマムエクスペンス</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Month" xml:space="preserve">
@@ -623,11 +623,11 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="New Account" xml:space="preserve">
-        <source>New Account</source>
+        <source>New Account</source><target>新規アカウント</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="New Category" xml:space="preserve">
-        <source>New Category</source>
+        <source>New Category</source><target>新カテゴリー</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="New Entry" xml:space="preserve">
@@ -667,7 +667,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No Limits" xml:space="preserve">
-        <source>No Limits</source>
+        <source>No Limits</source><target>ノーリミッツ</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No Reimbursement Category" xml:space="preserve">
@@ -695,7 +695,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No limits on number of ledgers, accounts and categories" xml:space="preserve">
-        <source>No limits on number of ledgers, accounts and categories</source>
+        <source>No limits on number of ledgers, accounts and categories</source><target>台帳、勘定科目、カテゴリの数に制限はありません。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="On Date" xml:space="preserve">
@@ -719,11 +719,11 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Pockity is built by a single Developer. Purchasing Pockity+ helps me keep working on the app and support its future development." xml:space="preserve">
-        <source>Pockity is built by a single Developer. Purchasing Pockity+ helps me keep working on the app and support its future development.</source>
+        <source>Pockity is built by a single Developer. Purchasing Pockity+ helps me keep working on the app and support its future development.</source><target>Pockityは一人のデベロッパーによって作られています。Pockity+を購入することで、私はこのアプリに取り組み続け、将来の開発をサポートすることができます。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Pockity+" xml:space="preserve">
-        <source>Pockity+</source>
+        <source>Pockity+</source><target>Pockity+（ポクシティプラス</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Pockity+ for Family" xml:space="preserve">
@@ -739,7 +739,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Primary" xml:space="preserve">
-        <source>Primary</source>
+        <source>Primary</source><target>プライマリー</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Privacy Policy" xml:space="preserve">
@@ -751,7 +751,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Purchased" xml:space="preserve">
-        <source>Purchased</source>
+        <source>Purchased</source><target>購入した</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Purchasing..." xml:space="preserve">
@@ -791,7 +791,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Remaining" xml:space="preserve">
-        <source>Remaining</source>
+        <source>Remaining</source><target>残っている</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Repeat" xml:space="preserve">
@@ -799,15 +799,15 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Repeating Entries" xml:space="preserve">
-        <source>Repeating Entries</source>
+        <source>Repeating Entries</source><target>リピートエントリ</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Restore" xml:space="preserve">
-        <source>Restore</source>
+        <source>Restore</source><target>リストア</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Restore your previous purchases if they haven't been synced automatically." xml:space="preserve">
-        <source>Restore your previous purchases if they haven't been synced automatically.</source>
+        <source>Restore your previous purchases if they haven't been synced automatically.</source><target>購入した商品が自動で同期されていない場合は、以前の購入商品を復元することができます。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Restoring..." xml:space="preserve">
@@ -815,15 +815,15 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Search Currency" xml:space="preserve">
-        <source>Search Currency</source>
+        <source>Search Currency</source><target>通貨を検索する</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Select Currency" xml:space="preserve">
-        <source>Select Currency</source>
+        <source>Select Currency</source><target>通貨を選択する</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Select visible ledgers when focus is active" xml:space="preserve">
-        <source>Select visible ledgers when focus is active</source>
+        <source>Select visible ledgers when focus is active</source><target>フォーカスがアクティブなときに見える台帳を選択する</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Share Ledger" xml:space="preserve">
@@ -839,19 +839,19 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Show Ledger" xml:space="preserve">
-        <source>Show Ledger</source>
+        <source>Show Ledger</source><target>ショー・レジャー</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Spent" xml:space="preserve">
-        <source>Spent</source>
+        <source>Spent</source><target>使用済み</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Subscriptions are automatically renewed unless you cancel them a day before the next renewal cycle." xml:space="preserve">
-        <source>Subscriptions are automatically renewed unless you cancel them a day before the next renewal cycle.</source>
+        <source>Subscriptions are automatically renewed unless you cancel them a day before the next renewal cycle.</source><target>サブスクリプションは、次の更新サイクルの前日にキャンセルしない限り、自動的に更新されます。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Support Development" xml:space="preserve">
-        <source>Support Development</source>
+        <source>Support Development</source><target>開発サポート</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Table" xml:space="preserve">
@@ -863,7 +863,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Thank You" xml:space="preserve">
-        <source>Thank You</source>
+        <source>Thank You</source><target>ありがとうございます</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Thank you for the generous tip, I really appreciate it." xml:space="preserve">
@@ -879,7 +879,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The common group container is not accessible by this module." xml:space="preserve">
-        <source>The common group container is not accessible by this module.</source>
+        <source>The common group container is not accessible by this module.</source><target>共通グループコンテナは、このモジュールからはアクセスできません。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="This Fortnight" xml:space="preserve">
@@ -887,11 +887,11 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="This Month" xml:space="preserve">
-        <source>This Month</source>
+        <source>This Month</source><target>今月は</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="This Quarter" xml:space="preserve">
-        <source>This Quarter</source>
+        <source>This Quarter</source><target>この四半期</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="This Week" xml:space="preserve">
@@ -899,7 +899,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="This Year" xml:space="preserve">
-        <source>This Year</source>
+        <source>This Year</source><target>今年度</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="This information is directly saved on your device. It is never trasmitted to another entity with your explicit action." xml:space="preserve">
@@ -907,11 +907,11 @@
         <note>Private information disclaimer</note>
       </trans-unit>
       <trans-unit id="This purchase is only valid for iOS and iPadOS. The macOS app is unlocked separately." xml:space="preserve">
-        <source>This purchase is only valid for iOS and iPadOS. The macOS app is unlocked separately.</source>
+        <source>This purchase is only valid for iOS and iPadOS. The macOS app is unlocked separately.</source><target>本購入は、iOS、iPadOSのみ有効です。macOSアプリは別途アンロックされます。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Tips do not unlock any additional functionality in the app." xml:space="preserve">
-        <source>Tips do not unlock any additional functionality in the app.</source>
+        <source>Tips do not unlock any additional functionality in the app.</source><target>チップはアプリの追加機能を解除するものではありません。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="To %@" xml:space="preserve">
@@ -923,7 +923,7 @@
         <note>Tomorrow recurring subtitle</note>
       </trans-unit>
       <trans-unit id="Total Expense" xml:space="preserve">
-        <source>Total Expense</source>
+        <source>Total Expense</source><target>総支出</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Total Expenses" xml:space="preserve">
@@ -963,7 +963,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Visible Ledgers" xml:space="preserve">
-        <source>Visible Ledgers</source>
+        <source>Visible Ledgers</source><target>ビジブルレジャー</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Week" xml:space="preserve">
@@ -987,11 +987,11 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="account" xml:space="preserve">
-        <source>account</source>
+        <source>account</source><target>アカウント</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="date" xml:space="preserve">
-        <source>date</source>
+        <source>date</source><target>日付</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="day" xml:space="preserve">
@@ -999,11 +999,11 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="expense" xml:space="preserve">
-        <source>expense</source>
+        <source>expense</source><target>費用</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="income" xml:space="preserve">
-        <source>income</source>
+        <source>income</source><target>所得</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="last" xml:space="preserve">
@@ -1011,7 +1011,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="value" xml:space="preserve">
-        <source>value</source>
+        <source>value</source><target>価値</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="🎉 Thank you for purchasing Pockity+ and supporting its development 🎉" xml:space="preserve">
@@ -1026,11 +1026,11 @@
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
-        <source>Pockity</source>
+        <source>Pockity</source><target>ポキティー</target>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
-        <source>Pockity</source>
+        <source>Pockity</source><target>ポキティー</target>
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSContactsUsageDescription" xml:space="preserve">
@@ -1038,7 +1038,7 @@
         <note>Privacy - Contacts Usage Description</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
-        <source>© 2019-2023 Nikhil Nigade - All Rights Reserved</source>
+        <source>© 2019-2023 Nikhil Nigade - All Rights Reserved</source><target>© 2019-2023 Nikhil Nigade - All Rights Reserved.</target>
         <note>Copyright (human-readable)</note>
       </trans-unit>
       <trans-unit id="NSLocationAlwaysAndWhenInUseUsageDescription" xml:space="preserve">
@@ -1057,7 +1057,7 @@
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
-        <source>Pockity</source>
+        <source>Pockity</source><target>ポキティー</target>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -1066,7 +1066,7 @@
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
         <source>© 2019-2023 Nikhil Nigade - All Rights Reserved</source>
-        <target>© 2019-2023 Nikhil Nigade - All Rights Reserved</target>
+        <target>© 2019-2023 Nikhil Nigade - All Rights Reserved.</target>
         <note>Copyright (human-readable)</note>
       </trans-unit>
     </body>
@@ -1077,67 +1077,67 @@
     </header>
     <body>
       <trans-unit id="%.2f" xml:space="preserve">
-        <source>%.2f</source>
+        <source>%.2f</source><target>%.2f</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@ Budget, Total: %@, Spent: %@, Overspend %@" xml:space="preserve">
-        <source>%1$@ Budget, Total: %2$@, Spent: %3$@, Overspend %4$@</source>
+        <source>%1$@ Budget, Total: %2$@, Spent: %3$@, Overspend %4$@</source><target>%1$@予算、合計：%2$@、使用した %3$@, オーバーシュート %4$@</target>
         <note>Overspent Budget widget label for VoiceOVer</note>
       </trans-unit>
       <trans-unit id="%@ Budget, Total: %@, Spent: %@, Remaining %@" xml:space="preserve">
-        <source>%1$@ Budget, Total: %2$@, Spent: %3$@, Remaining %4$@</source>
+        <source>%1$@ Budget, Total: %2$@, Spent: %3$@, Remaining %4$@</source><target>%1$@予算、合計：%2$@、使用した： %3$@、残り%4$@</target>
         <note>Budgets widget label for VoiceOVer</note>
       </trans-unit>
       <trans-unit id="Budget" xml:space="preserve">
-        <source>Budget</source>
+        <source>Budget</source><target>予算</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Budgets" xml:space="preserve">
-        <source>Budgets</source>
+        <source>Budgets</source><target>予算</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Earned" xml:space="preserve">
-        <source>Earned</source>
+        <source>Earned</source><target>獲得した</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Highest" xml:space="preserve">
-        <source>Highest</source>
+        <source>Highest</source><target>最高</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Long press the widget and edit it to select a Ledger" xml:space="preserve">
-        <source>Touch and hold the widget and edit it to select a Ledger</source>
+        <source>Touch and hold the widget and edit it to select a Ledger</source><target>ウィジェットをタッチ＆ホールドして編集し、Ledgerを選択します</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No data to display" xml:space="preserve">
-        <source>No data to display</source>
+        <source>No data to display</source><target>表示するデータがない</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Not Available" xml:space="preserve">
-        <source>Not Available</source>
+        <source>Not Available</source><target>使用不可</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Please select a Ledger" xml:space="preserve">
-        <source>Please select a Ledger</source>
+        <source>Please select a Ledger</source><target>レジャーを選択してください</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Please select a category to display in this widget" xml:space="preserve">
-        <source>Please select a category to display in this widget</source>
+        <source>Please select a category to display in this widget</source><target>このウィジェットに表示するカテゴリーを選択してください。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Please select categories to display in this widget" xml:space="preserve">
-        <source>Please select categories to display in this widget</source>
+        <source>Please select categories to display in this widget</source><target>このウィジェットに表示するカテゴリーを選択してください</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Remaining" xml:space="preserve">
-        <source>Remaining</source>
+        <source>Remaining</source><target>残っている</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Spent" xml:space="preserve">
-        <source>Spent</source>
+        <source>Spent</source><target>使用済み</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="This Month" xml:space="preserve">
-        <source>This Month</source>
+        <source>This Month</source><target>今月は</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="This Week" xml:space="preserve">
@@ -1145,27 +1145,27 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="View budgets and expenses for selected categories" xml:space="preserve">
-        <source>View budgets and expenses for selected categories</source>
+        <source>View budgets and expenses for selected categories</source><target>選択したカテゴリの予算と支出を表示</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="View expenses and income for the current month" xml:space="preserve">
-        <source>View expenses and income for the current month</source>
+        <source>View expenses and income for the current month</source><target>当月の支出・収入を確認する</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="View expenses and income for the current week" xml:space="preserve">
-        <source>View expenses and income for the current week</source>
+        <source>View expenses and income for the current week</source><target>当週の支出や収入を表示する</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="View expenses and income for the current week and month" xml:space="preserve">
-        <source>View expenses and income for the current week and month</source>
+        <source>View expenses and income for the current week and month</source><target>当月・当週の支出・収入を確認できる</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="View your Budgets" xml:space="preserve">
-        <source>View your Budgets</source>
+        <source>View your Budgets</source><target>バジェット（予算）を見る</target>
         <note>View your Budgets</note>
       </trans-unit>
       <trans-unit id="Weekly &amp; Monthly Overview" xml:space="preserve">
-        <source>Weekly &amp; Monthly Overview</source>
+        <source>Weekly &amp; Monthly Overview</source><target>週次・月次の概要</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
     </body>
@@ -1176,7 +1176,7 @@
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
-        <source>Pockity</source>
+        <source>Pockity</source><target>ポキティー</target>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -1185,7 +1185,7 @@
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
         <source>© 2019-2023 Nikhil Nigade - All Rights Reserved</source>
-        <target>© 2019-2023 Nikhil Nigade - All Rights Reserved</target>
+        <target>© 2019-2023 Nikhil Nigade - All Rights Reserved.</target>
         <note>Copyright (human-readable)</note>
       </trans-unit>
     </body>
@@ -1196,7 +1196,7 @@
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
-        <source>Pockity</source>
+        <source>Pockity</source><target>ポキティー</target>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -1204,7 +1204,7 @@
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
-        <source>© 2019-2023 Nikhil Nigade - All Rights Reserved</source>
+        <source>© 2019-2023 Nikhil Nigade - All Rights Reserved</source><target>© 2019-2023 Nikhil Nigade - All Rights Reserved.</target>
         <note>Copyright (human-readable)</note>
       </trans-unit>
     </body>
@@ -1215,7 +1215,7 @@
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
-        <source>Pockity</source>
+        <source>Pockity</source><target>ポキティー</target>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -1224,7 +1224,7 @@
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
         <source>© 2019-2023 Nikhil Nigade - All Rights Reserved</source>
-        <target>© 2019-2023 Nikhil Nigade - All Rights Reserved</target>
+        <target>© 2019-2023 Nikhil Nigade - All Rights Reserved.</target>
         <note>Copyright (human-readable)</note>
       </trans-unit>
     </body>
@@ -1278,16 +1278,16 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%.2f" xml:space="preserve">
-        <source>%.2f</source>
+        <source>%.2f</source><target>%.2f</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@" xml:space="preserve">
-        <source>%@</source>
+        <source>%@</source><target>%@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@ Entries will be deleted too" xml:space="preserve">
         <source>%@ Entries will be deleted too</source>
-        <target>%@エントリも削除されます</target>
+        <target>%@ エントリーも削除されます</target>
         <note>Delete Account message format
    Delete Category message format</note>
       </trans-unit>
@@ -1302,7 +1302,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@%@" xml:space="preserve">
-        <source>%@%@</source>
+        <source>%@%@</source><target>%@%@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%d Days" xml:space="preserve">
@@ -1316,11 +1316,11 @@
         <note>No comment provided by engineer. (Key in .stringsdict)</note>
       </trans-unit>
       <trans-unit id="%lf spent" xml:space="preserve">
-        <source>%lf spent</source>
+        <source>%lf spent</source><target>%lfを使用</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="@" xml:space="preserve">
-        <source>@</source>
+        <source>@</source><target>@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="A ledger with the same title already exists. Please choose a different title." xml:space="preserve">
@@ -1387,7 +1387,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Add Item" xml:space="preserve">
-        <source>Add Item</source>
+        <source>Add Item</source><target>項目追加</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Add New Entries" xml:space="preserve">
@@ -1476,7 +1476,7 @@
         <note>Error Preparing Logs description</note>
       </trans-unit>
       <trans-unit id="App" xml:space="preserve">
-        <source>App</source>
+        <source>App</source><target>アプリ</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="App Logs" xml:space="preserve">
@@ -1500,19 +1500,19 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Are you sure you want to delete your existing data?" xml:space="preserve">
-        <source>Are you sure you want to delete your existing data?</source>
+        <source>Are you sure you want to delete your existing data?</source><target>本当に今までのデータを削除していいのか？</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Available" xml:space="preserve">
-        <source>Available</source>
+        <source>Available</source><target>使用可能</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Average" xml:space="preserve">
-        <source>Average</source>
+        <source>Average</source><target>平均</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Backups" xml:space="preserve">
-        <source>Backups</source>
+        <source>Backups</source><target>バックアップ</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Balance" xml:space="preserve">
@@ -1537,7 +1537,7 @@
       </trans-unit>
       <trans-unit id="Budget" xml:space="preserve">
         <source>Budget</source>
-        <target>バジェット</target>
+        <target>予算</target>
         <note>Budget title</note>
       </trans-unit>
       <trans-unit id="Budget Amount" xml:space="preserve">
@@ -1546,7 +1546,7 @@
         <note>Budget Amount title</note>
       </trans-unit>
       <trans-unit id="Budgets" xml:space="preserve">
-        <source>Budgets</source>
+        <source>Budgets</source><target>予算</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="CSV Exports are date range limited" xml:space="preserve">
@@ -1587,7 +1587,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Chart" xml:space="preserve">
-        <source>Chart</source>
+        <source>Chart</source><target>チャート</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Clear Filter" xml:space="preserve">
@@ -1596,24 +1596,24 @@
         <note>Clear filter action title for Recent Filters menu</note>
       </trans-unit>
       <trans-unit id="Close" xml:space="preserve">
-        <source>Close</source>
+        <source>Close</source><target>閉じる</target>
         <note>Close</note>
       </trans-unit>
       <trans-unit id="Close Settings" xml:space="preserve">
-        <source>Close Settings</source>
+        <source>Close Settings</source><target>設定を閉じる</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Cloud Status" xml:space="preserve">
-        <source>Cloud Status</source>
+        <source>Cloud Status</source><target>クラウド状況</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Complete" xml:space="preserve">
         <source>Complete</source>
-        <target>完了</target>
+        <target>コンプリート</target>
         <note>Complete button title</note>
       </trans-unit>
       <trans-unit id="Contact Support" xml:space="preserve">
-        <source>Contact Support</source>
+        <source>Contact Support</source><target>お問い合わせ先</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Could not save changes while quitting. Quit anyway?" xml:space="preserve">
@@ -1652,7 +1652,7 @@
         <note>Create a new transfer</note>
       </trans-unit>
       <trans-unit id="Create repeating entries from existing entries or new templates" xml:space="preserve">
-        <source>Create repeating entries from existing entries or new templates</source>
+        <source>Create repeating entries from existing entries or new templates</source><target>既存のエントリーや新しいテンプレートから繰り返しエントリーを作成する</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Currency" xml:space="preserve">
@@ -1671,12 +1671,12 @@
         <note>Daily Notifications Title</note>
       </trans-unit>
       <trans-unit id="Data" xml:space="preserve">
-        <source>Data</source>
+        <source>Data</source><target>データ</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Data exports include owned ledgers, accounts, categories and entries information but does not include attachments data. Supported format is JSON." xml:space="preserve">
         <source>Data exports include owned ledgers, accounts, categories and entries information but does not include attachments data. Supported format is JSON.</source>
-        <target>データのエクスポートには、所有の元帳、アカウント、カテゴリ、エントリ情報が含まれますが、添付ファイルデータは含まれません。サポートされている形式はJSONです。</target>
+        <target>データエクスポートには、所有する台帳、勘定科目、カテゴリー、エントリーの情報が含まれますが、添付ファイルのデータは含まれません。サポートするフォーマットはJSONです。</target>
         <note>DATA_EXPORT_ENTRIES</note>
       </trans-unit>
       <trans-unit id="Date" xml:space="preserve">
@@ -1686,7 +1686,7 @@
    Date input title</note>
       </trans-unit>
       <trans-unit id="Date Range" xml:space="preserve">
-        <source>Date Range</source>
+        <source>Date Range</source><target>日付範囲</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Day" xml:space="preserve">
@@ -1758,7 +1758,7 @@
         <note>Delete Entry</note>
       </trans-unit>
       <trans-unit id="Delete Existing Data?" xml:space="preserve">
-        <source>Delete Existing Data?</source>
+        <source>Delete Existing Data?</source><target>既存のデータを削除しますか？</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Delete Ledger?" xml:space="preserve">
@@ -1802,7 +1802,7 @@
       </trans-unit>
       <trans-unit id="Done" xml:space="preserve">
         <source>Done</source>
-        <target>終わり</target>
+        <target>完了</target>
         <note>Done</note>
       </trans-unit>
       <trans-unit id="Drafts" xml:space="preserve">
@@ -1812,7 +1812,7 @@
       </trans-unit>
       <trans-unit id="Duplicate" xml:space="preserve">
         <source>Duplicate</source>
-        <target>複製</target>
+        <target>デュプリケート</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Duplicate %d Entries" xml:space="preserve">
@@ -1831,7 +1831,7 @@
         <note>Duplicate the selected entry</note>
       </trans-unit>
       <trans-unit id="Duration" xml:space="preserve">
-        <source>Duration</source>
+        <source>Duration</source><target>期間</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Edit" xml:space="preserve">
@@ -1847,11 +1847,11 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Edit Account" xml:space="preserve">
-        <source>Edit Account</source>
+        <source>Edit Account</source><target>アカウントを編集する</target>
         <note>Edit Account</note>
       </trans-unit>
       <trans-unit id="Edit Category" xml:space="preserve">
-        <source>Edit Category</source>
+        <source>Edit Category</source><target>カテゴリーを編集する</target>
         <note>Edit Category</note>
       </trans-unit>
       <trans-unit id="Edit Entry" xml:space="preserve">
@@ -1864,7 +1864,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Edit Template" xml:space="preserve">
-        <source>Edit Template</source>
+        <source>Edit Template</source><target>テンプレートを編集する</target>
         <note>Edit Template</note>
       </trans-unit>
       <trans-unit id="Edit the selected entry" xml:space="preserve">
@@ -1883,7 +1883,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="End Date" xml:space="preserve">
-        <source>End Date</source>
+        <source>End Date</source><target>終了日</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Ends" xml:space="preserve">
@@ -1922,7 +1922,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Existing Data" xml:space="preserve">
-        <source>Existing Data</source>
+        <source>Existing Data</source><target>既存データ</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Existing Data?" xml:space="preserve">
@@ -1940,7 +1940,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Export" xml:space="preserve">
-        <source>Export</source>
+        <source>Export</source><target>輸出</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Export Archive" xml:space="preserve">
@@ -1959,7 +1959,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="FAQ" xml:space="preserve">
-        <source>FAQ</source>
+        <source>FAQ</source><target>よくあるご質問</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Failed to Share" xml:space="preserve">
@@ -2009,7 +2009,7 @@
         <note>From Photos title</note>
       </trans-unit>
       <trans-unit id="General" xml:space="preserve">
-        <source>General</source>
+        <source>General</source><target>一般</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Get Started" xml:space="preserve">
@@ -2023,7 +2023,7 @@
         <note>Go</note>
       </trans-unit>
       <trans-unit id="Haptics Enabled" xml:space="preserve">
-        <source>Haptics Enabled</source>
+        <source>Haptics Enabled</source><target>ハプティクス有効</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Has Attachment" xml:space="preserve">
@@ -2032,7 +2032,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Hi, I'm Nikhil" xml:space="preserve">
-        <source>Hi, I'm Nikhil</source>
+        <source>Hi, I'm Nikhil</source><target>こんにちは、私はNikhilです。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="High Level" xml:space="preserve">
@@ -2040,7 +2040,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="I appreciate the tips. This helps with the development of the app." xml:space="preserve">
-        <source>I appreciate the tips. This helps with the development of the app.</source>
+        <source>I appreciate the tips. This helps with the development of the app.</source><target>ヒントはありがたいですね。アプリの開発に役立っています。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="If you want to mark a location, please ensure the location is atleast 3 letters." xml:space="preserve">
@@ -2049,7 +2049,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Import" xml:space="preserve">
-        <source>Import</source>
+        <source>Import</source><target>インポート</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Import Archive" xml:space="preserve">
@@ -2063,7 +2063,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Import/Export" xml:space="preserve">
-        <source>Import/Export</source>
+        <source>Import/Export</source><target>インポート/エクスポート</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Import/Export Data" xml:space="preserve">
@@ -2097,7 +2097,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Interval" xml:space="preserve">
-        <source>Interval</source>
+        <source>Interval</source><target>インターバル</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Invalid Account Name" xml:space="preserve">
@@ -2196,7 +2196,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Keep &amp; Merge" xml:space="preserve">
-        <source>Keep &amp; Merge</source>
+        <source>Keep &amp; Merge</source><target>キープ＆マージ</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Later today" xml:space="preserve">
@@ -2205,7 +2205,7 @@
         <note>Later today recurring subtitle</note>
       </trans-unit>
       <trans-unit id="Latest Status" xml:space="preserve">
-        <source>Latest Status</source>
+        <source>Latest Status</source><target>最新ステータス</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Ledger" xml:space="preserve">
@@ -2214,15 +2214,15 @@
         <note>Ledger input title</note>
       </trans-unit>
       <trans-unit id="Ledger Not Found" xml:space="preserve">
-        <source>Ledger Not Found</source>
+        <source>Ledger Not Found</source><target>Ledger Not Found</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Ledger Overview" xml:space="preserve">
-        <source>Ledger Overview</source>
+        <source>Ledger Overview</source><target>レッジャーの概要</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Ledgers" xml:space="preserve">
-        <source>Ledgers</source>
+        <source>Ledgers</source><target>レジャー</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="List" xml:space="preserve">
@@ -2237,12 +2237,12 @@
    Location input title</note>
       </trans-unit>
       <trans-unit id="Logs" xml:space="preserve">
-        <source>Logs</source>
+        <source>Logs</source><target>ログ</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Long press the widget and edit it to select a Ledger" xml:space="preserve">
         <source>Touch and hold the widget and edit it to select a Ledger</source>
-        <target>ウィジェットを長く押して編集して元帳を選択します</target>
+        <target>ウィジェットをタッチ＆ホールドして編集し、Ledgerを選択します</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Manage Participation" xml:space="preserve">
@@ -2269,7 +2269,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Minimum Expense" xml:space="preserve">
-        <source>Minimum Expense</source>
+        <source>Minimum Expense</source><target>ミニマムエクスペンス</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Month" xml:space="preserve">
@@ -2306,11 +2306,11 @@
       </trans-unit>
       <trans-unit id="New" xml:space="preserve">
         <source>New</source>
-        <target>新しい</target>
+        <target>新規</target>
         <note>New button title</note>
       </trans-unit>
       <trans-unit id="New Account" xml:space="preserve">
-        <source>New Account</source>
+        <source>New Account</source><target>新規アカウント</target>
         <note>New Account</note>
       </trans-unit>
       <trans-unit id="New Attachment" xml:space="preserve">
@@ -2319,7 +2319,7 @@
         <note>New Attachment title</note>
       </trans-unit>
       <trans-unit id="New Category" xml:space="preserve">
-        <source>New Category</source>
+        <source>New Category</source><target>新カテゴリー</target>
         <note>New Category</note>
       </trans-unit>
       <trans-unit id="New Entry" xml:space="preserve">
@@ -2339,7 +2339,7 @@
         <note>New Ledger context menu title</note>
       </trans-unit>
       <trans-unit id="New Repeating Entry" xml:space="preserve">
-        <source>New Repeating Entry</source>
+        <source>New Repeating Entry</source><target>新リピートエントリー</target>
         <note>New Repeating Entry</note>
       </trans-unit>
       <trans-unit id="New Smart Filter" xml:space="preserve">
@@ -2416,7 +2416,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No Limits" xml:space="preserve">
-        <source>No Limits</source>
+        <source>No Limits</source><target>ノーリミッツ</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No Reimbursement Category" xml:space="preserve">
@@ -2438,7 +2438,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No backups exist at the moment. The first backup will be ready once you have at least one entry in any of ledgers." xml:space="preserve">
-        <source>No backups exist at the moment. The first backup will be ready once you have at least one entry in any of ledgers.</source>
+        <source>No backups exist at the moment. The first backup will be ready once you have at least one entry in any of ledgers.</source><target>現時点ではバックアップは存在しません。最初のバックアップは、いずれかの台帳に少なくとも1つのエントリーがあれば準備完了です。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No categories were found in this export." xml:space="preserve">
@@ -2447,7 +2447,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No data to display" xml:space="preserve">
-        <source>No data to display</source>
+        <source>No data to display</source><target>表示するデータがない</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No entries were found in this export." xml:space="preserve">
@@ -2456,7 +2456,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No entries%@ for the interval of %@" xml:space="preserve">
-        <source>No entries%1$@ for the interval of %2$@</source>
+        <source>No entries%1$@ for the interval of %2$@</source><target>2$@の間隔にエントリ%1$@がありません。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No ledger was found on the associated entry or its accounts." xml:space="preserve">
@@ -2464,7 +2464,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No limits on number of ledgers, accounts and categories" xml:space="preserve">
-        <source>No limits on number of ledgers, accounts and categories</source>
+        <source>No limits on number of ledgers, accounts and categories</source><target>台帳、勘定科目、カテゴリの数に制限はありません。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No matching transactions found" xml:space="preserve">
@@ -2477,7 +2477,7 @@
       </trans-unit>
       <trans-unit id="Notifications" xml:space="preserve">
         <source>Notifications</source>
-        <target>通知</target>
+        <target>お知らせ</target>
         <note>Notifications View title</note>
       </trans-unit>
       <trans-unit id="Number" xml:space="preserve">
@@ -2497,7 +2497,7 @@
       </trans-unit>
       <trans-unit id="Opens the scanner to scan a receipt for creating an entry" xml:space="preserve">
         <source>Opens the scanner to scan a receipt for creating an entry</source>
-        <target>スキャナーを開き、エントリを作成するために領収書をスキャンします</target>
+        <target>エントリーを作成するためのレシートをスキャンするためのスキャナーを開く</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Optional" xml:space="preserve">
@@ -2541,7 +2541,7 @@
       </trans-unit>
       <trans-unit id="Please select a Ledger" xml:space="preserve">
         <source>Please select a Ledger</source>
-        <target>元帳を選択してください</target>
+        <target>レジャーを選択してください</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Please select a category to add this entry to." xml:space="preserve">
@@ -2581,15 +2581,15 @@
       </trans-unit>
       <trans-unit id="Pockity" xml:space="preserve">
         <source>Pockity</source>
-        <target>pockity</target>
+        <target>ポキティー</target>
         <note>App Name</note>
       </trans-unit>
       <trans-unit id="Pockity is built by a single Developer. Purchasing Pockity+ helps me keep working on the app and support its future development." xml:space="preserve">
-        <source>Pockity is built by a single Developer. Purchasing Pockity+ helps me keep working on the app and support its future development.</source>
+        <source>Pockity is built by a single Developer. Purchasing Pockity+ helps me keep working on the app and support its future development.</source><target>Pockityは一人のデベロッパーによって作られています。Pockity+を購入することで、私はこのアプリに取り組み続け、将来の開発をサポートすることができます。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Pockity+" xml:space="preserve">
-        <source>Pockity+</source>
+        <source>Pockity+</source><target>Pockity+（ポクシティプラス</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Pockity+ for Family" xml:space="preserve">
@@ -2615,7 +2615,7 @@
       </trans-unit>
       <trans-unit id="Primary" xml:space="preserve">
         <source>Primary</source>
-        <target>主要な</target>
+        <target>プライマリー</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Privacy Policy" xml:space="preserve">
@@ -2637,7 +2637,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Purchased" xml:space="preserve">
-        <source>Purchased</source>
+        <source>Purchased</source><target>購入した</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Purchasing..." xml:space="preserve">
@@ -2702,7 +2702,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Remaining" xml:space="preserve">
-        <source>Remaining</source>
+        <source>Remaining</source><target>残っている</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Remember Last Used" xml:space="preserve">
@@ -2726,7 +2726,7 @@
         <note>Repeat the selected entry</note>
       </trans-unit>
       <trans-unit id="Repeating Entries" xml:space="preserve">
-        <source>Repeating Entries</source>
+        <source>Repeating Entries</source><target>リピートエントリ</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Repeating Expense" xml:space="preserve">
@@ -2735,11 +2735,11 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Restore" xml:space="preserve">
-        <source>Restore</source>
+        <source>Restore</source><target>リストア</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Restore your previous purchases if they haven't been synced automatically." xml:space="preserve">
-        <source>Restore your previous purchases if they haven't been synced automatically.</source>
+        <source>Restore your previous purchases if they haven't been synced automatically.</source><target>購入した商品が自動で同期されていない場合は、以前の購入商品を復元することができます。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Restoring from iCloud" xml:space="preserve">
@@ -2768,17 +2768,17 @@
         <note>Search Categories</note>
       </trans-unit>
       <trans-unit id="Search Currency" xml:space="preserve">
-        <source>Search Currency</source>
+        <source>Search Currency</source><target>通貨を検索する</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Search Entries" xml:space="preserve">
         <source>Search Entries</source>
-        <target>エントリを検索します</target>
+        <target>検索エントリー</target>
         <note>Search Entries</note>
       </trans-unit>
       <trans-unit id="Search Nearby" xml:space="preserve">
         <source>Search Nearby</source>
-        <target>近くで検索してください</target>
+        <target>近くで探す</target>
         <note>Search Nearby local search subtitle</note>
       </trans-unit>
       <trans-unit id="Search Recurring" xml:space="preserve">
@@ -2791,7 +2791,7 @@
         <note>Select Amount button title</note>
       </trans-unit>
       <trans-unit id="Select Currency" xml:space="preserve">
-        <source>Select Currency</source>
+        <source>Select Currency</source><target>通貨を選択する</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Select Date" xml:space="preserve">
@@ -2811,7 +2811,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Select visible ledgers when focus is active" xml:space="preserve">
-        <source>Select visible ledgers when focus is active</source>
+        <source>Select visible ledgers when focus is active</source><target>フォーカスがアクティブなときに見える台帳を選択する</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Selected account does not belong to this ledger." xml:space="preserve">
@@ -2849,7 +2849,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Show Ledger" xml:space="preserve">
-        <source>Show Ledger</source>
+        <source>Show Ledger</source><target>ショー・レジャー</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Show Total" xml:space="preserve">
@@ -2862,15 +2862,15 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Something went wrong. Please perform the action again." xml:space="preserve">
-        <source>Something went wrong. Please perform the action again.</source>
+        <source>Something went wrong. Please perform the action again.</source><target>何か問題が発生しました。もう一度操作してください。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Sounds Enabled" xml:space="preserve">
-        <source>Sounds Enabled</source>
+        <source>Sounds Enabled</source><target>サウンドを有効にする</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Spent" xml:space="preserve">
-        <source>Spent</source>
+        <source>Spent</source><target>使用済み</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Spent this year" xml:space="preserve">
@@ -2878,7 +2878,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Start Date" xml:space="preserve">
-        <source>Start Date</source>
+        <source>Start Date</source><target>開始日</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Starts" xml:space="preserve">
@@ -2892,11 +2892,11 @@
         <note>Subscription Reminders Title</note>
       </trans-unit>
       <trans-unit id="Subscriptions are automatically renewed unless you cancel them a day before the next renewal cycle." xml:space="preserve">
-        <source>Subscriptions are automatically renewed unless you cancel them a day before the next renewal cycle.</source>
+        <source>Subscriptions are automatically renewed unless you cancel them a day before the next renewal cycle.</source><target>サブスクリプションは、次の更新サイクルの前日にキャンセルしない限り、自動的に更新されます。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Support Development" xml:space="preserve">
-        <source>Support Development</source>
+        <source>Support Development</source><target>開発サポート</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Table" xml:space="preserve">
@@ -2913,7 +2913,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Thank You" xml:space="preserve">
-        <source>Thank You</source>
+        <source>Thank You</source><target>ありがとうございます</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Thank you for the generous tip, I really appreciate it." xml:space="preserve">
@@ -2952,7 +2952,7 @@
       </trans-unit>
       <trans-unit id="The common group container is not accessible by this module." xml:space="preserve">
         <source>The common group container is not accessible by this module.</source>
-        <target>一般的なグループコンテナは、このモジュールからアクセスできません。</target>
+        <target>共通グループコンテナは、このモジュールからはアクセスできません。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The issuing bank's name is optional, but useful if you need to have multiple accounts of the same type with different banks." xml:space="preserve">
@@ -2971,7 +2971,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The number of backups to retain over a period. The higher the number, the more storage will be used on your device. Recommended: 5 days" xml:space="preserve">
-        <source>The number of backups to retain over a period. The higher the number, the more storage will be used on your device. Recommended: 5 days</source>
+        <source>The number of backups to retain over a period. The higher the number, the more storage will be used on your device. Recommended: 5 days</source><target>一定期間保持するバックアップの数です。数値が高いほど、デバイスでより多くのストレージが使用されます。推奨します： 5日間</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The title should be atleast 3 letters." xml:space="preserve">
@@ -2984,11 +2984,11 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="This Month" xml:space="preserve">
-        <source>This Month</source>
+        <source>This Month</source><target>今月は</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="This Quarter" xml:space="preserve">
-        <source>This Quarter</source>
+        <source>This Quarter</source><target>この四半期</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="This Week" xml:space="preserve">
@@ -2996,7 +2996,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="This Year" xml:space="preserve">
-        <source>This Year</source>
+        <source>This Year</source><target>今年度</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="This information is directly saved on your device. It is never trasmitted to another entity with your explicit action." xml:space="preserve">
@@ -3010,7 +3010,7 @@
         <note>This name will be used when participating in shared ledgers.</note>
       </trans-unit>
       <trans-unit id="This purchase is only valid for iOS and iPadOS. The macOS app is unlocked separately." xml:space="preserve">
-        <source>This purchase is only valid for iOS and iPadOS. The macOS app is unlocked separately.</source>
+        <source>This purchase is only valid for iOS and iPadOS. The macOS app is unlocked separately.</source><target>本購入は、iOS、iPadOSのみ有効です。macOSアプリは別途アンロックされます。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Timeline" xml:space="preserve">
@@ -3018,11 +3018,11 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Tip Jar" xml:space="preserve">
-        <source>Tip Jar</source>
+        <source>Tip Jar</source><target>チップジャー</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Tips do not unlock any additional functionality in the app." xml:space="preserve">
-        <source>Tips do not unlock any additional functionality in the app.</source>
+        <source>Tips do not unlock any additional functionality in the app.</source><target>チップはアプリの追加機能を解除するものではありません。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Title" xml:space="preserve">
@@ -3054,7 +3054,7 @@
         <note>Tomorrow recurring subtitle</note>
       </trans-unit>
       <trans-unit id="Total Expense" xml:space="preserve">
-        <source>Total Expense</source>
+        <source>Total Expense</source><target>総支出</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Total Income" xml:space="preserve">
@@ -3110,7 +3110,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Version" xml:space="preserve">
-        <source>Version</source>
+        <source>Version</source><target>バージョン</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="View app logs and share with developer for debugging issues" xml:space="preserve">
@@ -3120,11 +3120,11 @@
       </trans-unit>
       <trans-unit id="View your Budgets" xml:space="preserve">
         <source>View your Budgets</source>
-        <target>予算を表示します</target>
+        <target>バジェット（予算）を見る</target>
         <note>View your Budgets</note>
       </trans-unit>
       <trans-unit id="Visible Ledgers" xml:space="preserve">
-        <source>Visible Ledgers</source>
+        <source>Visible Ledgers</source><target>ビジブルレジャー</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Week" xml:space="preserve">
@@ -3148,7 +3148,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="What would you like to do with the existing data on your device?" xml:space="preserve">
-        <source>What would you like to do with the existing data on your device?</source>
+        <source>What would you like to do with the existing data on your device?</source><target>端末の既存データをどうしたいのか？</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="When enabled, Pockity will remember the last used category and account when creating a new entry." xml:space="preserve">
@@ -3220,11 +3220,11 @@
         <note>Existing Data Found message</note>
       </trans-unit>
       <trans-unit id="account" xml:space="preserve">
-        <source>account</source>
+        <source>account</source><target>アカウント</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="date" xml:space="preserve">
-        <source>date</source>
+        <source>date</source><target>日付</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="day" xml:space="preserve">
@@ -3233,15 +3233,15 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="expense" xml:space="preserve">
-        <source>expense</source>
+        <source>expense</source><target>費用</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="iCloud" xml:space="preserve">
-        <source>iCloud</source>
+        <source>iCloud</source><target>iCloud</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="income" xml:space="preserve">
-        <source>income</source>
+        <source>income</source><target>所得</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="last" xml:space="preserve">
@@ -3250,7 +3250,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="value" xml:space="preserve">
-        <source>value</source>
+        <source>value</source><target>価値</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="🎉 Thank you for purchasing Pockity+ and supporting its development 🎉" xml:space="preserve">
@@ -3334,7 +3334,7 @@
       </trans-unit>
       <trans-unit id="gheh3W" xml:space="preserve">
         <source>Budgets</source>
-        <target>Budgets</target>
+        <target>予算</target>
         <note/>
       </trans-unit>
       <trans-unit id="gwixeU" xml:space="preserve">
@@ -3344,7 +3344,7 @@
       </trans-unit>
       <trans-unit id="h22dqt" xml:space="preserve">
         <source>Budget</source>
-        <target>Budget</target>
+        <target>予算</target>
         <note/>
       </trans-unit>
       <trans-unit id="o5bAT5" xml:space="preserve">
@@ -3365,7 +3365,7 @@
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
-        <source>Pockity</source>
+        <source>Pockity</source><target>ポキティー</target>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -3373,7 +3373,7 @@
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
-        <source>© 2019-2023 Nikhil Nigade - All Rights Reserved</source>
+        <source>© 2019-2023 Nikhil Nigade - All Rights Reserved</source><target>© 2019-2023 Nikhil Nigade - All Rights Reserved.</target>
         <note>Copyright (human-readable)</note>
       </trans-unit>
     </body>
