@@ -327,7 +327,7 @@
         <note>Action not found</note>
       </trans-unit>
       <trans-unit id="Active" xml:space="preserve">
-        <source>Active</source>
+        <source>Active</source><target>Actif</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Add Item" xml:space="preserve">
@@ -368,7 +368,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="An error occurred when processing this ledger for sharing. Please try again after sometime." xml:space="preserve">
-        <source>An error occurred when processing this ledger for sharing. Please try again after sometime.</source>
+        <source>An error occurred when processing this ledger for sharing. Please try again after sometime.</source><target>Une erreur s'est produite lors du traitement de ce grand livre pour le partage. Veuillez réessayer après un certain temps.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Are you sure you want to delete the smart filter? This operation is not recoverable." xml:space="preserve">
@@ -525,11 +525,11 @@
         <note>Expense</note>
       </trans-unit>
       <trans-unit id="Expenses" xml:space="preserve">
-        <source>Expenses</source>
+        <source>Expenses</source><target>Dépenses</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Failed to Share" xml:space="preserve">
-        <source>Failed to Share</source>
+        <source>Failed to Share</source><target>Échec du partage</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Failed to create export directory" xml:space="preserve">
@@ -537,11 +537,11 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Family" xml:space="preserve">
-        <source>Family</source>
+        <source>Family</source><target>Famille</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Fortnight" xml:space="preserve">
-        <source>Fortnight</source>
+        <source>Fortnight</source><target>Quinzaine</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Freq. Account" xml:space="preserve">
@@ -617,7 +617,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Manage Share" xml:space="preserve">
-        <source>Manage Share</source>
+        <source>Manage Share</source><target>Gérer le partage</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Merging Data" xml:space="preserve">
@@ -689,7 +689,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No Ledger" xml:space="preserve">
-        <source>No Ledger</source>
+        <source>No Ledger</source><target>Pas de grand livre</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No Limits" xml:space="preserve">
@@ -697,7 +697,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No Reimbursement Category" xml:space="preserve">
-        <source>No Reimbursement Category</source>
+        <source>No Reimbursement Category</source><target>Pas de catégorie de remboursement</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No accounts were found in this export." xml:space="preserve">
@@ -717,7 +717,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No ledger was found on the associated entry or its accounts." xml:space="preserve">
-        <source>No ledger was found on the associated entry or its accounts.</source>
+        <source>No ledger was found on the associated entry or its accounts.</source><target>Aucun grand livre n'a été trouvé pour l'écriture associée ou ses comptes.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No limits on number of ledgers, accounts and categories" xml:space="preserve">
@@ -729,7 +729,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Personal" xml:space="preserve">
-        <source>Personal</source>
+        <source>Personal</source><target>Personnel</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Please contact the developer at support@pockity.app with a screenshot of this error." xml:space="preserve">
@@ -754,15 +754,15 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Pockity+ for Family" xml:space="preserve">
-        <source>Pockity+ for Family</source>
+        <source>Pockity+ for Family</source><target>Pockity+ pour la famille</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Preparing" xml:space="preserve">
-        <source>Preparing</source>
+        <source>Preparing</source><target>Préparation</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Preparing the ledger for sharing" xml:space="preserve">
-        <source>Preparing the ledger for sharing</source>
+        <source>Preparing the ledger for sharing</source><target>Préparer le grand livre pour le partage</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Primary" xml:space="preserve">
@@ -770,7 +770,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Privacy Policy" xml:space="preserve">
-        <source>Privacy Policy</source>
+        <source>Privacy Policy</source><target>Politique de confidentialité</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Product not found" xml:space="preserve">
@@ -858,7 +858,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Share Pockity+ with all members added to your family under your Apple ID." xml:space="preserve">
-        <source>Share Pockity+ with all members added to your family under your Apple ID.</source>
+        <source>Share Pockity+ with all members added to your family under your Apple ID.</source><target>Partagez Pockity+ avec tous les membres ajoutés à votre famille sous votre identifiant Apple.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Shared Ledger" xml:space="preserve">
@@ -886,7 +886,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Terms" xml:space="preserve">
-        <source>Terms</source>
+        <source>Terms</source><target>Conditions</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Thank You" xml:space="preserve">
@@ -902,7 +902,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The Reimbursement category was not found on this ledger." xml:space="preserve">
-        <source>The Reimbursement category was not found on this ledger.</source>
+        <source>The Reimbursement category was not found on this ledger.</source><target>La catégorie Remboursement n'a pas été trouvée dans ce grand livre.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The common group container is not accessible by this module." xml:space="preserve">
@@ -910,7 +910,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="This Fortnight" xml:space="preserve">
-        <source>This Fortnight</source>
+        <source>This Fortnight</source><target>Cette quinzaine</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="This Month" xml:space="preserve">
@@ -922,7 +922,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="This Week" xml:space="preserve">
-        <source>This Week</source>
+        <source>This Week</source><target>Cette semaine</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="This Year" xml:space="preserve">
@@ -958,11 +958,11 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Total Income" xml:space="preserve">
-        <source>Total Income</source>
+        <source>Total Income</source><target>Revenu total</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Total expenses this %@: %@" xml:space="preserve">
-        <source>Total expenses this %1$@: %2$@</source>
+        <source>Total expenses this %1$@: %2$@</source><target>Dépenses totales ce %1$@ : %2$@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Total: %@" xml:space="preserve">
@@ -1173,7 +1173,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="This Week" xml:space="preserve">
-        <source>This Week</source>
+        <source>This Week</source><target>Cette semaine</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="View budgets and expenses for selected categories" xml:space="preserve">
@@ -1405,7 +1405,7 @@
         <note>Accounts</note>
       </trans-unit>
       <trans-unit id="Acknowledgements" xml:space="preserve">
-        <source>Acknowledgements</source>
+        <source>Acknowledgements</source><target>Remerciements</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Action not found" xml:space="preserve">
@@ -1414,7 +1414,7 @@
         <note>Action not found</note>
       </trans-unit>
       <trans-unit id="Active" xml:space="preserve">
-        <source>Active</source>
+        <source>Active</source><target>Actif</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Add Attachments" xml:space="preserve">
@@ -1463,7 +1463,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="After expense: %@" xml:space="preserve">
-        <source>After expense: %@</source>
+        <source>After expense: %@</source><target>Après la dépense : %@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="All" xml:space="preserve">
@@ -1504,7 +1504,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="An error occurred when processing this ledger for sharing. Please try again after sometime." xml:space="preserve">
-        <source>An error occurred when processing this ledger for sharing. Please try again after sometime.</source>
+        <source>An error occurred when processing this ledger for sharing. Please try again after sometime.</source><target>Une erreur s'est produite lors du traitement de ce grand livre pour le partage. Veuillez réessayer après un certain temps.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="An ledger name should help you easily identify the ledger. Use a short descriptive name." xml:space="preserve">
@@ -1761,7 +1761,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Default" xml:space="preserve">
-        <source>Default</source>
+        <source>Default</source><target>Défaut</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Default Ledger" xml:space="preserve">
@@ -1849,7 +1849,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Document scanning is not supported on this device" xml:space="preserve">
-        <source>Document scanning is not supported on this device</source>
+        <source>Document scanning is not supported on this device</source><target>La numérisation de documents n'est pas prise en charge par cet appareil.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Does not Repeat" xml:space="preserve">
@@ -1920,7 +1920,7 @@
         <note>Edit Entry</note>
       </trans-unit>
       <trans-unit id="Edit Ledger" xml:space="preserve">
-        <source>Edit Ledger</source>
+        <source>Edit Ledger</source><target>Editer le grand livre</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Edit Template" xml:space="preserve">
@@ -1999,7 +1999,7 @@
         <note>Expense</note>
       </trans-unit>
       <trans-unit id="Expenses" xml:space="preserve">
-        <source>Expenses</source>
+        <source>Expenses</source><target>Dépenses</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Export" xml:space="preserve">
@@ -2028,7 +2028,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Failed to Share" xml:space="preserve">
-        <source>Failed to Share</source>
+        <source>Failed to Share</source><target>Échec du partage</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Failed to create export directory" xml:space="preserve">
@@ -2037,15 +2037,15 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Family" xml:space="preserve">
-        <source>Family</source>
+        <source>Family</source><target>Famille</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="First Date" xml:space="preserve">
-        <source>First Date</source>
+        <source>First Date</source><target>Première date</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Fortnight" xml:space="preserve">
-        <source>Fortnight</source>
+        <source>Fortnight</source><target>Quinzaine</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="From %@" xml:space="preserve">
@@ -2104,7 +2104,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="High Level" xml:space="preserve">
-        <source>High Level</source>
+        <source>High Level</source><target>Haut niveau</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="I appreciate the tips. This helps with the development of the app." xml:space="preserve">
@@ -2329,11 +2329,11 @@
         <note>Manage Participation context menu title</note>
       </trans-unit>
       <trans-unit id="Manage Share" xml:space="preserve">
-        <source>Manage Share</source>
+        <source>Manage Share</source><target>Gérer le partage</target>
         <note>Manage Share context menu title</note>
       </trans-unit>
       <trans-unit id="Medium Level" xml:space="preserve">
-        <source>Medium Level</source>
+        <source>Medium Level</source><target>Niveau moyen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Merging Data" xml:space="preserve">
@@ -2440,7 +2440,7 @@
         <note>Next Ledger</note>
       </trans-unit>
       <trans-unit id="Next on" xml:space="preserve">
-        <source>Next on</source>
+        <source>Next on</source><target>Suivant sur</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Next on %@" xml:space="preserve">
@@ -2489,7 +2489,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No Ledger" xml:space="preserve">
-        <source>No Ledger</source>
+        <source>No Ledger</source><target>Pas de grand livre</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No Ledger Selected" xml:space="preserve">
@@ -2503,7 +2503,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No Reimbursement Category" xml:space="preserve">
-        <source>No Reimbursement Category</source>
+        <source>No Reimbursement Category</source><target>Pas de catégorie de remboursement</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No Reverse Account Selected" xml:space="preserve">
@@ -2512,7 +2512,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No Stroke" xml:space="preserve">
-        <source>No Stroke</source>
+        <source>No Stroke</source><target>Pas d'accident vasculaire cérébral</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No accounts were found in this export." xml:space="preserve">
@@ -2546,7 +2546,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No ledger was found on the associated entry or its accounts." xml:space="preserve">
-        <source>No ledger was found on the associated entry or its accounts.</source>
+        <source>No ledger was found on the associated entry or its accounts.</source><target>Aucun grand livre n'a été trouvé pour l'écriture associée ou ses comptes.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No limits on number of ledgers, accounts and categories" xml:space="preserve">
@@ -2555,11 +2555,11 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No matching transactions found" xml:space="preserve">
-        <source>No matching transactions found</source>
+        <source>No matching transactions found</source><target>Aucune transaction correspondante n'a été trouvée</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Not Supported" xml:space="preserve">
-        <source>Not Supported</source>
+        <source>Not Supported</source><target>Non pris en charge</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Notifications" xml:space="preserve">
@@ -2603,7 +2603,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Personal" xml:space="preserve">
-        <source>Personal</source>
+        <source>Personal</source><target>Personnel</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Please contact the developer at support@pockity.app with a screenshot of this error." xml:space="preserve">
@@ -2682,19 +2682,19 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Pockity+ for Family" xml:space="preserve">
-        <source>Pockity+ for Family</source>
+        <source>Pockity+ for Family</source><target>Pockity+ pour la famille</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Preparing" xml:space="preserve">
-        <source>Preparing</source>
+        <source>Preparing</source><target>Préparation</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Preparing the ledger for sharing" xml:space="preserve">
-        <source>Preparing the ledger for sharing</source>
+        <source>Preparing the ledger for sharing</source><target>Préparer le grand livre pour le partage</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Preparing to add shared ledger" xml:space="preserve">
-        <source>Preparing to add shared ledger</source>
+        <source>Preparing to add shared ledger</source><target>Préparation à l'ajout d'un grand livre partagé</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Previous Ledger" xml:space="preserve">
@@ -2708,7 +2708,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Privacy Policy" xml:space="preserve">
-        <source>Privacy Policy</source>
+        <source>Privacy Policy</source><target>Politique de confidentialité</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Processing..." xml:space="preserve">
@@ -2722,7 +2722,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Projected" xml:space="preserve">
-        <source>Projected</source>
+        <source>Projected</source><target>Projeté</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Purchased" xml:space="preserve">
@@ -2877,7 +2877,7 @@
         <note>Search Nearby local search subtitle</note>
       </trans-unit>
       <trans-unit id="Search Recurring" xml:space="preserve">
-        <source>Search Recurring</source>
+        <source>Search Recurring</source><target>Recherche récurrente</target>
         <note>Search Recurring</note>
       </trans-unit>
       <trans-unit id="Select Amount" xml:space="preserve">
@@ -2938,11 +2938,11 @@
         <note>Share context menu title</note>
       </trans-unit>
       <trans-unit id="Share Pockity+ with all members added to your family under your Apple ID." xml:space="preserve">
-        <source>Share Pockity+ with all members added to your family under your Apple ID.</source>
+        <source>Share Pockity+ with all members added to your family under your Apple ID.</source><target>Partagez Pockity+ avec tous les membres ajoutés à votre famille sous votre identifiant Apple.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Show Category Budget" xml:space="preserve">
-        <source>Show Category Budget</source>
+        <source>Show Category Budget</source><target>Afficher le budget par catégorie</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Show Ledger" xml:space="preserve">
@@ -2951,7 +2951,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Show Total" xml:space="preserve">
-        <source>Show Total</source>
+        <source>Show Total</source><target>Total du spectacle</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Simple Budgeting &amp; Expense Tracker" xml:space="preserve">
@@ -2975,7 +2975,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Spent this year" xml:space="preserve">
-        <source>Spent this year</source>
+        <source>Spent this year</source><target>Dépensé cette année</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Start Date" xml:space="preserve">
@@ -3009,11 +3009,11 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Tap to view past transactions" xml:space="preserve">
-        <source>Tap to view past transactions</source>
+        <source>Tap to view past transactions</source><target>Touchez pour afficher les transactions passées</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Terms" xml:space="preserve">
-        <source>Terms</source>
+        <source>Terms</source><target>Conditions</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Thank You" xml:space="preserve">
@@ -3042,7 +3042,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The Reimbursement category was not found on this ledger." xml:space="preserve">
-        <source>The Reimbursement category was not found on this ledger.</source>
+        <source>The Reimbursement category was not found on this ledger.</source><target>La catégorie Remboursement n'a pas été trouvée dans ce grand livre.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The account associated with a recurring entry was not found." xml:space="preserve">
@@ -3086,7 +3086,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="This Fortnight" xml:space="preserve">
-        <source>This Fortnight</source>
+        <source>This Fortnight</source><target>Cette quinzaine</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="This Month" xml:space="preserve">
@@ -3100,7 +3100,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="This Week" xml:space="preserve">
-        <source>This Week</source>
+        <source>This Week</source><target>Cette semaine</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="This Year" xml:space="preserve">
@@ -3124,7 +3124,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Timeline" xml:space="preserve">
-        <source>Timeline</source>
+        <source>Timeline</source><target>Calendrier</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Tip Jar" xml:space="preserve">
@@ -3171,19 +3171,19 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Total Income" xml:space="preserve">
-        <source>Total Income</source>
+        <source>Total Income</source><target>Revenu total</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Total Spent" xml:space="preserve">
-        <source>Total Spent</source>
+        <source>Total Spent</source><target>Total des dépenses</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Total available: %@" xml:space="preserve">
-        <source>Total available: %@</source>
+        <source>Total available: %@</source><target>Total disponible : %@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Total expenses this %@: %@" xml:space="preserve">
-        <source>Total expenses this %1$@: %2$@</source>
+        <source>Total expenses this %1$@: %2$@</source><target>Dépenses totales ce %1$@ : %2$@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Transfer" xml:space="preserve">
@@ -3214,7 +3214,7 @@
         <note>Account Type title</note>
       </trans-unit>
       <trans-unit id="Unable to load attributions file" xml:space="preserve">
-        <source>Unable to load attributions file</source>
+        <source>Unable to load attributions file</source><target>Impossible de charger le fichier des attributions</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Untitled" xml:space="preserve">
@@ -3273,11 +3273,11 @@
         <note>When enabled, Pockity will remember the last used category and account when creating a new entry.</note>
       </trans-unit>
       <trans-unit id="When enabled, days with more than one expense entry will show the total at the top of the list." xml:space="preserve">
-        <source>When enabled, days with more than one expense entry will show the total at the top of the list.</source>
+        <source>When enabled, days with more than one expense entry will show the total at the top of the list.</source><target>Lorsque cette option est activée, les jours comportant plus d'une entrée de dépenses affichent le total en haut de la liste.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="When enabled, the entry editor will show the balance amount for categories with budgets." xml:space="preserve">
-        <source>When enabled, the entry editor will show the balance amount for categories with budgets.</source>
+        <source>When enabled, the entry editor will show the balance amount for categories with budgets.</source><target>Lorsque cette option est activée, l'éditeur d'entrées affiche le montant du solde pour les catégories dotées d'un budget.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="When moving funds between accounts, an origin account must be selected." xml:space="preserve">
