@@ -6,23 +6,23 @@
     </header>
     <body>
       <trans-unit id="Add Filter" xml:space="preserve">
-        <source>Add Filter</source>
+        <source>Add Filter</source><target>添加过滤器</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="All" xml:space="preserve">
-        <source>All</source>
+        <source>All</source><target>所有</target>
         <note>All</note>
       </trans-unit>
       <trans-unit id="Any" xml:space="preserve">
-        <source>Any</source>
+        <source>Any</source><target>任何</target>
         <note>Any</note>
       </trans-unit>
       <trans-unit id="Combination" xml:space="preserve">
-        <source>Combination</source>
+        <source>Combination</source><target>组合</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Delete" xml:space="preserve">
-        <source>Delete</source>
+        <source>Delete</source><target>删除</target>
         <note>Delete action under row comments</note>
       </trans-unit>
       <trans-unit id="New" xml:space="preserve">
@@ -30,75 +30,75 @@
         <note>New Row Button Title</note>
       </trans-unit>
       <trans-unit id="No" xml:space="preserve">
-        <source>No</source>
+        <source>No</source><target>没有</target>
         <note>No</note>
       </trans-unit>
       <trans-unit id="None" xml:space="preserve">
-        <source>None</source>
+        <source>None</source><target>没有</target>
         <note>Any</note>
       </trans-unit>
       <trans-unit id="Row Actions" xml:space="preserve">
-        <source>Row Actions</source>
+        <source>Row Actions</source><target>行操作</target>
         <note>Row Actions for a predicate template row (delete)</note>
       </trans-unit>
       <trans-unit id="Yes" xml:space="preserve">
-        <source>Yes</source>
+        <source>Yes</source><target>有</target>
         <note>Yes</note>
       </trans-unit>
       <trans-unit id="begins with" xml:space="preserve">
-        <source>begins with</source>
+        <source>begins with</source><target>始于</target>
         <note>begins with</note>
       </trans-unit>
       <trans-unit id="between" xml:space="preserve">
-        <source>between</source>
+        <source>between</source><target>之间</target>
         <note>between</note>
       </trans-unit>
       <trans-unit id="contains" xml:space="preserve">
-        <source>contains</source>
+        <source>contains</source><target>包含</target>
         <note>contains</note>
       </trans-unit>
       <trans-unit id="ends with" xml:space="preserve">
-        <source>ends with</source>
+        <source>ends with</source><target>结束于</target>
         <note>ends with</note>
       </trans-unit>
       <trans-unit id="in" xml:space="preserve">
-        <source>in</source>
+        <source>in</source><target>在</target>
         <note>in</note>
       </trans-unit>
       <trans-unit id="is" xml:space="preserve">
-        <source>is</source>
+        <source>is</source><target>是</target>
         <note>is</note>
       </trans-unit>
       <trans-unit id="is greater than" xml:space="preserve">
-        <source>is greater than</source>
+        <source>is greater than</source><target>大于</target>
         <note>greater than</note>
       </trans-unit>
       <trans-unit id="is greater than or equal to" xml:space="preserve">
-        <source>is greater than or equal to</source>
+        <source>is greater than or equal to</source><target>大于或等于</target>
         <note>greater than or equal to</note>
       </trans-unit>
       <trans-unit id="is less than" xml:space="preserve">
-        <source>is less than</source>
+        <source>is less than</source><target>小于</target>
         <note>less than</note>
       </trans-unit>
       <trans-unit id="is less than or equal to" xml:space="preserve">
-        <source>is less than or equal to</source>
+        <source>is less than or equal to</source><target>小于或等于</target>
         <note>less than or equal to</note>
       </trans-unit>
       <trans-unit id="is not" xml:space="preserve">
-        <source>is not</source>
+        <source>is not</source><target>不是</target>
         <note>is not</note>
       </trans-unit>
       <trans-unit id="like" xml:space="preserve">
-        <source>like</source>
+        <source>like</source><target>像</target>
         <note>like</note>
       </trans-unit>
       <trans-unit id="matches" xml:space="preserve">
-        <source>matches</source>
+        <source>matches</source><target>匹配</target>
         <note>matches</note>
       </trans-unit>
       <trans-unit id="of the following are true" xml:space="preserve">
-        <source>of the following are true</source>
+        <source>of the following are true</source><target>以下情况为真</target>
         <note>of the following are true</note>
       </trans-unit>
     </body>
@@ -141,7 +141,7 @@
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
-        <source>WidgetsExtension</source>
+        <source>WidgetsExtension</source><target>WidgetsExtension</target>
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
@@ -277,7 +277,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%d Entries" xml:space="preserve">
-        <source>%d Entries</source>
+        <source>%d Entries</source><target>%d条目</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%lf spent" xml:space="preserve">
@@ -285,19 +285,19 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="(year)" xml:space="preserve">
-        <source>(year)</source>
+        <source>(year)</source><target>(年)</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="A new expense for %@ will be added to your ledger on %@" xml:space="preserve">
-        <source>A new expense for %1$@ will be added to your ledger on %2$@</source>
+        <source>A new expense for %1$@ will be added to your ledger on %2$@</source><target>%1$@的新费用将于%2$@日添加到您的分类账中。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Accounts" xml:space="preserve">
-        <source>Accounts</source>
+        <source>Accounts</source><target>账目</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Action not found" xml:space="preserve">
-        <source>Action not found</source>
+        <source>Action not found</source><target>未找到行动</target>
         <note>Action not found</note>
       </trans-unit>
       <trans-unit id="Active" xml:space="preserve">
@@ -309,23 +309,23 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Add New Entries" xml:space="preserve">
-        <source>Add New Entries</source>
+        <source>Add New Entries</source><target>添加新条目</target>
         <note>Add New Entries notification title</note>
       </trans-unit>
       <trans-unit id="Add new entries from today?" xml:space="preserve">
-        <source>Add new entries from today?</source>
+        <source>Add new entries from today?</source><target>添加今天的新条目？</target>
         <note>Add New Entries past tense notification body</note>
       </trans-unit>
       <trans-unit id="Add new entries from yesterday?" xml:space="preserve">
-        <source>Add new entries from yesterday?</source>
+        <source>Add new entries from yesterday?</source><target>添加昨天的新条目？</target>
         <note>Add New Entries past tense notification body</note>
       </trans-unit>
       <trans-unit id="Adding Imported Items" xml:space="preserve">
-        <source>Adding Imported Items</source>
+        <source>Adding Imported Items</source><target>添加导入的项目</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="After" xml:space="preserve">
-        <source>After</source>
+        <source>After</source><target>之后</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="All associated entries will be deleted too." xml:space="preserve">
@@ -334,11 +334,11 @@
    Delete Mutltiple Categories message</note>
       </trans-unit>
       <trans-unit id="An Error Occurred" xml:space="preserve">
-        <source>An Error Occurred</source>
+        <source>An Error Occurred</source><target>出现了错误</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="An error occurred importing the entries." xml:space="preserve">
-        <source>An error occurred importing the entries.</source>
+        <source>An error occurred importing the entries.</source><target>在导入条目时发生了错误。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="An error occurred when processing this ledger for sharing. Please try again after sometime." xml:space="preserve">
@@ -346,7 +346,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Are you sure you want to delete the smart filter? This operation is not recoverable." xml:space="preserve">
-        <source>Are you sure you want to delete the smart filter? This operation is not recoverable.</source>
+        <source>Are you sure you want to delete the smart filter? This operation is not recoverable.</source><target>你确定你要删除智能过滤器吗？这个操作是无法恢复的。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Average" xml:space="preserve">
@@ -362,19 +362,19 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Buy %@" xml:space="preserve">
-        <source>Buy %@</source>
+        <source>Buy %@</source><target>购买 %@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Cancel" xml:space="preserve">
-        <source>Cancel</source>
+        <source>Cancel</source><target>取消</target>
         <note>Cancel button title</note>
       </trans-unit>
       <trans-unit id="Categories" xml:space="preserve">
-        <source>Categories</source>
+        <source>Categories</source><target>类别</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Category" xml:space="preserve">
-        <source>Category</source>
+        <source>Category</source><target>类别</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Chart" xml:space="preserve">
@@ -382,7 +382,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Check for Updates..." xml:space="preserve">
-        <source>Check for Updates...</source>
+        <source>Check for Updates...</source><target>检查更新...</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Cloud Status" xml:space="preserve">
@@ -390,7 +390,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Could not save changes while quitting. Quit anyway?" xml:space="preserve">
-        <source>Could not save changes while quitting. Quit anyway?</source>
+        <source>Could not save changes while quitting. Quit anyway?</source><target>退出时无法保存更改。无论如何要退出？</target>
         <note>Quit without saves error question message</note>
       </trans-unit>
       <trans-unit id="Create repeating entries from existing entries or new templates" xml:space="preserve">
@@ -398,7 +398,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Daily" xml:space="preserve">
-        <source>Daily</source>
+        <source>Daily</source><target>每日</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Date Range" xml:space="preserve">
@@ -406,52 +406,52 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Debug" xml:space="preserve">
-        <source>Debug</source>
+        <source>Debug</source><target>调试</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Delete" xml:space="preserve">
-        <source>Delete</source>
+        <source>Delete</source><target>删除</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Delete %@" xml:space="preserve">
-        <source>Delete %@</source>
+        <source>Delete %@</source><target>删除 %@</target>
         <note>Delete Account title format
    Delete Category title format</note>
       </trans-unit>
       <trans-unit id="Delete %d Accounts" xml:space="preserve">
-        <source>Delete %d Accounts</source>
+        <source>Delete %d Accounts</source><target>删除%d账户</target>
         <note>Delete Multiple Accounts title format</note>
       </trans-unit>
       <trans-unit id="Delete %d Categories" xml:space="preserve">
-        <source>Delete %d Categories</source>
+        <source>Delete %d Categories</source><target>删除%d类别</target>
         <note>Delete Multiple Categories title format</note>
       </trans-unit>
       <trans-unit id="Delete %d Entries" xml:space="preserve">
-        <source>Delete %d Entries</source>
+        <source>Delete %d Entries</source><target>删除 %d 条目</target>
         <note>Delete Entries title format</note>
       </trans-unit>
       <trans-unit id="Delete Ledger" xml:space="preserve">
-        <source>Delete Ledger</source>
+        <source>Delete Ledger</source><target>删除账目</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Delete Ledger?" xml:space="preserve">
-        <source>Delete Ledger?</source>
+        <source>Delete Ledger?</source><target>删除分类帐？</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Delete Smart Filter?" xml:space="preserve">
-        <source>Delete Smart Filter?</source>
+        <source>Delete Smart Filter?</source><target>删除智能过滤器？</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Delete or Merge with existing data?" xml:space="preserve">
-        <source>Delete or Merge with existing data?</source>
+        <source>Delete or Merge with existing data?</source><target>删除或与现有数据合并？</target>
         <note>Existing data question message</note>
       </trans-unit>
       <trans-unit id="Deleting Existing" xml:space="preserve">
-        <source>Deleting Existing</source>
+        <source>Deleting Existing</source><target>删除现有的</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Deleting the ledger will also delete all entries, accounts and categories in it." xml:space="preserve">
-        <source>Deleting the ledger will also delete all entries, accounts and categories in it.</source>
+        <source>Deleting the ledger will also delete all entries, accounts and categories in it.</source><target>删除分类账也将删除其中的所有条目、账户和类别。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Duplicate" xml:space="preserve">
@@ -459,7 +459,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Duplicate %d Entries" xml:space="preserve">
-        <source>Duplicate %d Entries</source>
+        <source>Duplicate %d Entries</source><target>重复的 %d 条目</target>
         <note>Duplicate Entries title format</note>
       </trans-unit>
       <trans-unit id="Duration" xml:space="preserve">
@@ -467,35 +467,35 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Edit" xml:space="preserve">
-        <source>Edit</source>
+        <source>Edit</source><target>编辑</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Edit Smart Filter" xml:space="preserve">
-        <source>Edit Smart Filter</source>
+        <source>Edit Smart Filter</source><target>编辑智能过滤器</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Entries" xml:space="preserve">
-        <source>Entries</source>
+        <source>Entries</source><target>条目</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Entries created by this template will not be deleted." xml:space="preserve">
-        <source>Entries created by this template will not be deleted.</source>
+        <source>Entries created by this template will not be deleted.</source><target>由该模板创建的条目不会被删除。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Error Deleting Share" xml:space="preserve">
-        <source>Error Deleting Share</source>
+        <source>Error Deleting Share</source><target>删除共享时出错</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Error Importing Entries" xml:space="preserve">
-        <source>Error Importing Entries</source>
+        <source>Error Importing Entries</source><target>导入条目错误</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Existing Data?" xml:space="preserve">
-        <source>Existing Data?</source>
+        <source>Existing Data?</source><target>现有数据？</target>
         <note>Existing Data question title</note>
       </trans-unit>
       <trans-unit id="Expense" xml:space="preserve">
-        <source>Expense</source>
+        <source>Expense</source><target>支出</target>
         <note>Expense</note>
       </trans-unit>
       <trans-unit id="Expenses" xml:space="preserve">
@@ -507,7 +507,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Failed to create export directory" xml:space="preserve">
-        <source>Failed to create export directory</source>
+        <source>Failed to create export directory</source><target>创建导出目录失败</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Family" xml:space="preserve">
@@ -519,19 +519,19 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Freq. Account" xml:space="preserve">
-        <source>Freq. Account</source>
+        <source>Freq. Account</source><target>频率。帐户</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="From %@" xml:space="preserve">
-        <source>From %@</source>
+        <source>From %@</source><target>从%@开始</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="From %@ to %@" xml:space="preserve">
-        <source>From %1$@ to %2$@</source>
+        <source>From %1$@ to %2$@</source><target>从%1$@到%2$@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Generic JSON Format" xml:space="preserve">
-        <source>Generic JSON Format</source>
+        <source>Generic JSON Format</source><target>通用的JSON格式</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Hi, I'm Nikhil" xml:space="preserve">
@@ -543,7 +543,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Income" xml:space="preserve">
-        <source>Income</source>
+        <source>Income</source><target>收入</target>
         <note>Income</note>
       </trans-unit>
       <trans-unit id="Interval" xml:space="preserve">
@@ -555,23 +555,23 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Invalid Destination Account" xml:space="preserve">
-        <source>Invalid Destination Account</source>
+        <source>Invalid Destination Account</source><target>无效的目标账户</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Invalid Source Account" xml:space="preserve">
-        <source>Invalid Source Account</source>
+        <source>Invalid Source Account</source><target>无效的源账户</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Invalid data or the data is in an invalid format." xml:space="preserve">
-        <source>Invalid data or the data is in an invalid format.</source>
+        <source>Invalid data or the data is in an invalid format.</source><target>无效的数据或数据的格式无效。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Later today" xml:space="preserve">
-        <source>Later today</source>
+        <source>Later today</source><target>今天晚些时候</target>
         <note>Later today recurring subtitle</note>
       </trans-unit>
       <trans-unit id="Ledger" xml:space="preserve">
-        <source>Ledger</source>
+        <source>Ledger</source><target>账目</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Ledger Not Found" xml:space="preserve">
@@ -587,7 +587,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="List" xml:space="preserve">
-        <source>List</source>
+        <source>List</source><target>列表</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Manage Share" xml:space="preserve">
@@ -595,11 +595,11 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Merging Data" xml:space="preserve">
-        <source>Merging Data</source>
+        <source>Merging Data</source><target>合并数据</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Merging entries from %@" xml:space="preserve">
-        <source>Merging entries from %@</source>
+        <source>Merging entries from %@</source><target>合并来自%@的条目</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Minimum Expense" xml:space="preserve">
@@ -607,19 +607,19 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Month" xml:space="preserve">
-        <source>Month</source>
+        <source>Month</source><target>月度</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Monthly" xml:space="preserve">
-        <source>Monthly</source>
+        <source>Monthly</source><target>每月</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Most Spent" xml:space="preserve">
-        <source>Most Spent</source>
+        <source>Most Spent</source><target>花费最多</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Never" xml:space="preserve">
-        <source>Never</source>
+        <source>Never</source><target>从未</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="New Account" xml:space="preserve">
@@ -631,35 +631,35 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="New Entry" xml:space="preserve">
-        <source>New Entry</source>
+        <source>New Entry</source><target>新条目</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="New Recurring Item" xml:space="preserve">
-        <source>New Recurring Item</source>
+        <source>New Recurring Item</source><target>新的经常性项目</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="New Smart Filter" xml:space="preserve">
-        <source>New Smart Filter</source>
+        <source>New Smart Filter</source><target>新的智能过滤器</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Next on %@" xml:space="preserve">
-        <source>Next on %@</source>
+        <source>Next on %@</source><target>下一个在%@</target>
         <note>Next on date recurring subtitle</note>
       </trans-unit>
       <trans-unit id="No Accounts" xml:space="preserve">
-        <source>No Accounts</source>
+        <source>No Accounts</source><target>没有账户</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No Budget" xml:space="preserve">
-        <source>No Budget</source>
+        <source>No Budget</source><target>没有预算</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No Categories" xml:space="preserve">
-        <source>No Categories</source>
+        <source>No Categories</source><target>没有类别</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No Entries" xml:space="preserve">
-        <source>No Entries</source>
+        <source>No Entries</source><target>没有条目</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No Ledger" xml:space="preserve">
@@ -675,19 +675,19 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No accounts were found in this export." xml:space="preserve">
-        <source>No accounts were found in this export.</source>
+        <source>No accounts were found in this export.</source><target>在此输出中没有发现账户。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No balance setup" xml:space="preserve">
-        <source>No balance setup</source>
+        <source>No balance setup</source><target>没有设置余额</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No categories were found in this export." xml:space="preserve">
-        <source>No categories were found in this export.</source>
+        <source>No categories were found in this export.</source><target>在该出口中没有发现任何类别。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No entries were found in this export." xml:space="preserve">
-        <source>No entries were found in this export.</source>
+        <source>No entries were found in this export.</source><target>此出口中没有发现任何条目。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No ledger was found on the associated entry or its accounts." xml:space="preserve">
@@ -699,7 +699,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="On Date" xml:space="preserve">
-        <source>On Date</source>
+        <source>On Date</source><target>关于日期</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Personal" xml:space="preserve">
@@ -707,15 +707,15 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Please contact the developer at support@pockity.app with a screenshot of this error." xml:space="preserve">
-        <source>Please contact the developer at support@pockity.app with a screenshot of this error.</source>
+        <source>Please contact the developer at support@pockity.app with a screenshot of this error.</source><target>请与开发商联系，support@pockity.app，并提供该错误的截图。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Please select an account to transfer from." xml:space="preserve">
-        <source>Please select an account to transfer from.</source>
+        <source>Please select an account to transfer from.</source><target>请选择一个账户进行转账。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Please select an account to transfer to." xml:space="preserve">
-        <source>Please select an account to transfer to.</source>
+        <source>Please select an account to transfer to.</source><target>请选择一个要转入的账户。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Pockity is built by a single Developer. Purchasing Pockity+ helps me keep working on the app and support its future development." xml:space="preserve">
@@ -747,7 +747,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Product not found" xml:space="preserve">
-        <source>Product not found</source>
+        <source>Product not found</source><target>未找到产品</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Purchased" xml:space="preserve">
@@ -755,39 +755,39 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Purchasing..." xml:space="preserve">
-        <source>Purchasing...</source>
+        <source>Purchasing...</source><target>购买...</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Quarter" xml:space="preserve">
-        <source>Quarter</source>
+        <source>Quarter</source><target>季度</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Quit anyway" xml:space="preserve">
-        <source>Quit anyway</source>
+        <source>Quit anyway</source><target>无论如何退出</target>
         <note>Quit anyway button title</note>
       </trans-unit>
       <trans-unit id="Quitting now will lose any changes you have made since the last successful save" xml:space="preserve">
-        <source>Quitting now will lose any changes you have made since the last successful save</source>
+        <source>Quitting now will lose any changes you have made since the last successful save</source><target>现在退出将失去你在上次成功保存后所做的任何改变。</target>
         <note>Quit without saves error question info</note>
       </trans-unit>
       <trans-unit id="Recurring" xml:space="preserve">
-        <source>Recurring</source>
+        <source>Recurring</source><target>经常性支出</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Recurring expense due tomorrow" xml:space="preserve">
-        <source>Recurring expense due tomorrow</source>
+        <source>Recurring expense due tomorrow</source><target>明天到期的经常性费用</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Reimburse" xml:space="preserve">
-        <source>Reimburse</source>
+        <source>Reimburse</source><target>报销</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Reimbursement" xml:space="preserve">
-        <source>Reimbursement</source>
+        <source>Reimbursement</source><target>报销</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Reimbursements" xml:space="preserve">
-        <source>Reimbursements</source>
+        <source>Reimbursements</source><target>报销</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Remaining" xml:space="preserve">
@@ -795,7 +795,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Repeat" xml:space="preserve">
-        <source>Repeat</source>
+        <source>Repeat</source><target>重复</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Repeating Entries" xml:space="preserve">
@@ -811,7 +811,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Restoring..." xml:space="preserve">
-        <source>Restoring...</source>
+        <source>Restoring...</source><target>恢复...</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Search Currency" xml:space="preserve">
@@ -827,7 +827,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Share Ledger" xml:space="preserve">
-        <source>Share Ledger</source>
+        <source>Share Ledger</source><target>共享分类账</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Share Pockity+ with all members added to your family under your Apple ID." xml:space="preserve">
@@ -835,7 +835,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Shared Ledger" xml:space="preserve">
-        <source>Shared Ledger</source>
+        <source>Shared Ledger</source><target>共享分类账</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Show Ledger" xml:space="preserve">
@@ -855,7 +855,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Table" xml:space="preserve">
-        <source>Table</source>
+        <source>Table</source><target>表</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Terms" xml:space="preserve">
@@ -867,11 +867,11 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Thank you for the generous tip, I really appreciate it." xml:space="preserve">
-        <source>Thank you for the generous tip, I really appreciate it.</source>
+        <source>Thank you for the generous tip, I really appreciate it.</source><target>谢谢你的慷慨提示，我真的很感激。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Thank you for the generous tip, I really appreciate your continued support for me and the app." xml:space="preserve">
-        <source>Thank you for the generous tip, I really appreciate your continued support for me and the app.</source>
+        <source>Thank you for the generous tip, I really appreciate your continued support for me and the app.</source><target>谢谢你的慷慨小费，我真的很感谢你对我和这个应用程序的持续支持。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The Reimbursement category was not found on this ledger." xml:space="preserve">
@@ -903,7 +903,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="This information is directly saved on your device. It is never trasmitted to another entity with your explicit action." xml:space="preserve">
-        <source>This information is directly saved on your device. It is never trasmitted to another entity with your explicit action.</source>
+        <source>This information is directly saved on your device. It is never trasmitted to another entity with your explicit action.</source><target>这些信息直接保存在你的设备上。在你的明确行动下，它永远不会被传送到另一个实体。</target>
         <note>Private information disclaimer</note>
       </trans-unit>
       <trans-unit id="This purchase is only valid for iOS and iPadOS. The macOS app is unlocked separately." xml:space="preserve">
@@ -915,11 +915,11 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="To %@" xml:space="preserve">
-        <source>To %@</source>
+        <source>To %@</source><target>致%@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Tomorrow" xml:space="preserve">
-        <source>Tomorrow</source>
+        <source>Tomorrow</source><target>明天</target>
         <note>Tomorrow recurring subtitle</note>
       </trans-unit>
       <trans-unit id="Total Expense" xml:space="preserve">
@@ -927,7 +927,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Total Expenses" xml:space="preserve">
-        <source>Total Expenses</source>
+        <source>Total Expenses</source><target>总支出</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Total Income" xml:space="preserve">
@@ -939,27 +939,27 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Total: %@" xml:space="preserve">
-        <source>Total: %@</source>
+        <source>Total: %@</source><target>总计：%@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Transfer" xml:space="preserve">
-        <source>Transfer</source>
+        <source>Transfer</source><target>转账</target>
         <note>Transfer</note>
       </trans-unit>
       <trans-unit id="Transfer from" xml:space="preserve">
-        <source>Transfer from</source>
+        <source>Transfer from</source><target>转自</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Transfer to" xml:space="preserve">
-        <source>Transfer to</source>
+        <source>Transfer to</source><target>转入</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Transferred to %@" xml:space="preserve">
-        <source>Transferred to %@</source>
+        <source>Transferred to %@</source><target>转入 %@</target>
         <note>Transferred to format</note>
       </trans-unit>
       <trans-unit id="Untitled" xml:space="preserve">
-        <source>Untitled</source>
+        <source>Untitled</source><target>无标题</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Visible Ledgers" xml:space="preserve">
@@ -967,23 +967,23 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Week" xml:space="preserve">
-        <source>Week</source>
+        <source>Week</source><target>每周</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Weekly" xml:space="preserve">
-        <source>Weekly</source>
+        <source>Weekly</source><target>每周</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Year" xml:space="preserve">
-        <source>Year</source>
+        <source>Year</source><target>年</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Yearly" xml:space="preserve">
-        <source>Yearly</source>
+        <source>Yearly</source><target>每年</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="You can try this action again. If it continues to fail, please report the error to support@pockity.app" xml:space="preserve">
-        <source>You can try this action again. If it continues to fail, please report the error to support@pockity.app</source>
+        <source>You can try this action again. If it continues to fail, please report the error to support@pockity.app</source><target>你可以再试一下这个动作。如果它继续失败，请将错误报告给support@pockity.app。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="account" xml:space="preserve">
@@ -995,7 +995,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="day" xml:space="preserve">
-        <source>day</source>
+        <source>day</source><target>日</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="expense" xml:space="preserve">
@@ -1007,7 +1007,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="last" xml:space="preserve">
-        <source>last</source>
+        <source>last</source><target>最后</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="value" xml:space="preserve">
@@ -1015,7 +1015,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="🎉 Thank you for purchasing Pockity+ and supporting its development 🎉" xml:space="preserve">
-        <source>🎉 Thank you for purchasing Pockity+ and supporting its development 🎉</source>
+        <source>🎉 Thank you for purchasing Pockity+ and supporting its development 🎉</source><target>🎉：感谢您购买Pockity+并支持其发展。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
     </body>
@@ -1034,7 +1034,7 @@
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSContactsUsageDescription" xml:space="preserve">
-        <source>Contacts are used to show names and avatars in shared ledgers</source>
+        <source>Contacts are used to show names and avatars in shared ledgers</source><target>联系人用于在共享账簿中显示姓名和头像</target>
         <note>Privacy - Contacts Usage Description</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
@@ -1042,11 +1042,11 @@
         <note>Copyright (human-readable)</note>
       </trans-unit>
       <trans-unit id="NSLocationAlwaysAndWhenInUseUsageDescription" xml:space="preserve">
-        <source>Location information is used for suggesting nearby Points of Interest for entries</source>
+        <source>Location information is used for suggesting nearby Points of Interest for entries</source><target>位置信息被用于建议附近的兴趣点的条目</target>
         <note>Privacy - Location Always and When In Use Usage Description</note>
       </trans-unit>
       <trans-unit id="NSLocationUsageDescription" xml:space="preserve">
-        <source>Location information is used for suggesting nearby Points of Interest for entries</source>
+        <source>Location information is used for suggesting nearby Points of Interest for entries</source><target>位置信息被用于建议附近的兴趣点的条目</target>
         <note>Privacy - Location Usage Description</note>
       </trans-unit>
     </body>
@@ -1061,7 +1061,7 @@
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
-        <source>WidgetsExtensionMac</source>
+        <source>WidgetsExtensionMac</source><target>WidgetsExtensionMac</target>
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
@@ -1180,7 +1180,7 @@
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
-        <source>SelectCategoryIntent</source>
+        <source>SelectCategoryIntent</source><target>SelectCategoryIntent</target>
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
@@ -1200,7 +1200,7 @@
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
-        <source>SelectLedgerIntent</source>
+        <source>SelectLedgerIntent</source><target>SelectLedgerIntent</target>
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
@@ -1219,7 +1219,7 @@
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
-        <source>SelectLedgerIntentMac</source>
+        <source>SelectLedgerIntentMac</source><target>SelectLedgerIntentMac</target>
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
@@ -1315,7 +1315,7 @@
       </trans-unit>
       <trans-unit id="%d Entries" translate="no" xml:space="preserve">
         <source>%d Entries</source>
-        <target>%D条目</target>
+        <target>%d条目</target>
         <note>No comment provided by engineer. (Key in .stringsdict)</note>
       </trans-unit>
       <trans-unit id="%lf spent" xml:space="preserve">
@@ -1333,7 +1333,7 @@
       </trans-unit>
       <trans-unit id="A new expense for %@ will be added to your ledger on %@" xml:space="preserve">
         <source>A new expense for %1$@ will be added to your ledger on %2$@</source>
-        <target>%1 $@的新费用将以%2 $@添加到您的分类帐中</target>
+        <target>%1$@的新费用将于%2$@日添加到您的分类账中。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Account" xml:space="preserve">
@@ -1363,7 +1363,7 @@
       </trans-unit>
       <trans-unit id="Accounts" xml:space="preserve">
         <source>Accounts</source>
-        <target>帐户</target>
+        <target>账目</target>
         <note>Accounts</note>
       </trans-unit>
       <trans-unit id="Acknowledgements" xml:space="preserve">
@@ -1372,7 +1372,7 @@
       </trans-unit>
       <trans-unit id="Action not found" xml:space="preserve">
         <source>Action not found</source>
-        <target>找不到动作</target>
+        <target>未找到行动</target>
         <note>Action not found</note>
       </trans-unit>
       <trans-unit id="Active" xml:space="preserve">
@@ -1420,7 +1420,7 @@
       </trans-unit>
       <trans-unit id="After" xml:space="preserve">
         <source>After</source>
-        <target>后</target>
+        <target>之后</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="After expense: %@" xml:space="preserve">
@@ -1429,7 +1429,7 @@
       </trans-unit>
       <trans-unit id="All" xml:space="preserve">
         <source>All</source>
-        <target>全部</target>
+        <target>所有</target>
         <note>All</note>
       </trans-unit>
       <trans-unit id="All associated entries will be deleted too." xml:space="preserve">
@@ -1456,12 +1456,12 @@
       </trans-unit>
       <trans-unit id="An Error Occurred" xml:space="preserve">
         <source>An Error Occurred</source>
-        <target>发生错误</target>
+        <target>出现了错误</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="An error occurred importing the entries." xml:space="preserve">
         <source>An error occurred importing the entries.</source>
-        <target>导入条目发生错误。</target>
+        <target>在导入条目时发生了错误。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="An error occurred when processing this ledger for sharing. Please try again after sometime." xml:space="preserve">
@@ -1479,7 +1479,7 @@
         <note>Error Preparing Logs description</note>
       </trans-unit>
       <trans-unit id="App" xml:space="preserve">
-        <source>App</source><target>应用程序</target>
+        <source>App</source><target>⁨应用程式⁩</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="App Logs" xml:space="preserve">
@@ -1621,7 +1621,7 @@
       </trans-unit>
       <trans-unit id="Could not save changes while quitting. Quit anyway?" xml:space="preserve">
         <source>Could not save changes while quitting. Quit anyway?</source>
-        <target>退出时无法保存更改。还是退出？</target>
+        <target>退出时无法保存更改。无论如何要退出？</target>
         <note>Quit without saves error question message</note>
       </trans-unit>
       <trans-unit id="Create" xml:space="preserve">
@@ -1665,7 +1665,7 @@
       </trans-unit>
       <trans-unit id="Daily" xml:space="preserve">
         <source>Daily</source>
-        <target>日常的</target>
+        <target>每日</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Daily Notifications" xml:space="preserve">
@@ -1737,17 +1737,17 @@
       </trans-unit>
       <trans-unit id="Delete %d Accounts" xml:space="preserve">
         <source>Delete %d Accounts</source>
-        <target>删除%D帐户</target>
+        <target>删除%d账户</target>
         <note>Delete Multiple Accounts title format</note>
       </trans-unit>
       <trans-unit id="Delete %d Categories" xml:space="preserve">
         <source>Delete %d Categories</source>
-        <target>删除%d类</target>
+        <target>删除%d类别</target>
         <note>Delete Multiple Categories title format</note>
       </trans-unit>
       <trans-unit id="Delete %d Entries" xml:space="preserve">
         <source>Delete %d Entries</source>
-        <target>删除%D条目</target>
+        <target>删除 %d 条目</target>
         <note>Delete Entries title format</note>
       </trans-unit>
       <trans-unit id="Delete Category?" xml:space="preserve">
@@ -1781,7 +1781,7 @@
       </trans-unit>
       <trans-unit id="Delete or Merge with existing data?" xml:space="preserve">
         <source>Delete or Merge with existing data?</source>
-        <target>删除还是与现有数据合并？</target>
+        <target>删除或与现有数据合并？</target>
         <note>Existing data question message</note>
       </trans-unit>
       <trans-unit id="Delete the selected entry" xml:space="preserve">
@@ -1791,7 +1791,7 @@
       </trans-unit>
       <trans-unit id="Deleting Existing" xml:space="preserve">
         <source>Deleting Existing</source>
-        <target>删除现有</target>
+        <target>删除现有的</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Document scanning is not supported on this device" xml:space="preserve">
@@ -1820,7 +1820,7 @@
       </trans-unit>
       <trans-unit id="Duplicate %d Entries" xml:space="preserve">
         <source>Duplicate %d Entries</source>
-        <target>重复%D条目</target>
+        <target>重复的 %d 条目</target>
         <note>Duplicate Entries title format</note>
       </trans-unit>
       <trans-unit id="Duplicate Entry" xml:space="preserve">
@@ -1906,12 +1906,12 @@
       </trans-unit>
       <trans-unit id="Error Deleting Share" xml:space="preserve">
         <source>Error Deleting Share</source>
-        <target>错误删除共享</target>
+        <target>删除共享时出错</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Error Importing Entries" xml:space="preserve">
         <source>Error Importing Entries</source>
-        <target>错误导入条目</target>
+        <target>导入条目错误</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Error Preparing Logs" xml:space="preserve">
@@ -1935,7 +1935,7 @@
       </trans-unit>
       <trans-unit id="Expense" xml:space="preserve">
         <source>Expense</source>
-        <target>费用</target>
+        <target>支出</target>
         <note>Expense</note>
       </trans-unit>
       <trans-unit id="Expenses" xml:space="preserve">
@@ -1971,7 +1971,7 @@
       </trans-unit>
       <trans-unit id="Failed to create export directory" xml:space="preserve">
         <source>Failed to create export directory</source>
-        <target>无法创建导出目录</target>
+        <target>创建导出目录失败</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Family" xml:space="preserve">
@@ -1988,12 +1988,12 @@
       </trans-unit>
       <trans-unit id="From %@" xml:space="preserve">
         <source>From %@</source>
-        <target>从 %@</target>
+        <target>从%@开始</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="From %@ to %@" xml:space="preserve">
         <source>From %1$@ to %2$@</source>
-        <target>从%1 $@到%2 $@</target>
+        <target>从%1$@到%2$@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="From Account" xml:space="preserve">
@@ -2012,7 +2012,7 @@
         <note>From Photos title</note>
       </trans-unit>
       <trans-unit id="General" xml:space="preserve">
-        <source>General</source><target>一般情况</target>
+        <source>General</source><target>⁨通用⁩</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Get Started" xml:space="preserve">
@@ -2145,7 +2145,7 @@
       </trans-unit>
       <trans-unit id="Invalid Destination Account" xml:space="preserve">
         <source>Invalid Destination Account</source>
-        <target>无效的目的地帐户</target>
+        <target>无效的目标账户</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Invalid Ledger" xml:space="preserve">
@@ -2180,7 +2180,7 @@
       </trans-unit>
       <trans-unit id="Invalid Source Account" xml:space="preserve">
         <source>Invalid Source Account</source>
-        <target>无效的源帐户</target>
+        <target>无效的源账户</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Invalid data or the data is in an invalid format." xml:space="preserve">
@@ -2213,7 +2213,7 @@
       </trans-unit>
       <trans-unit id="Ledger" xml:space="preserve">
         <source>Ledger</source>
-        <target>分类帐</target>
+        <target>账目</target>
         <note>Ledger input title</note>
       </trans-unit>
       <trans-unit id="Ledger Not Found" xml:space="preserve">
@@ -2268,7 +2268,7 @@
       </trans-unit>
       <trans-unit id="Merging entries from %@" xml:space="preserve">
         <source>Merging entries from %@</source>
-        <target>从%@合并条目</target>
+        <target>合并来自%@的条目</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Minimum Expense" xml:space="preserve">
@@ -2277,7 +2277,7 @@
       </trans-unit>
       <trans-unit id="Month" xml:space="preserve">
         <source>Month</source>
-        <target>月</target>
+        <target>月度</target>
         <note>Month</note>
       </trans-unit>
       <trans-unit id="Monthly" xml:space="preserve">
@@ -2292,7 +2292,7 @@
       </trans-unit>
       <trans-unit id="Most Spent" xml:space="preserve">
         <source>Most Spent</source>
-        <target>大多数花费</target>
+        <target>花费最多</target>
         <note>Most spent ledger detail title</note>
       </trans-unit>
       <trans-unit id="Name" xml:space="preserve">
@@ -2304,7 +2304,7 @@
       </trans-unit>
       <trans-unit id="Never" xml:space="preserve">
         <source>Never</source>
-        <target>绝不</target>
+        <target>从未</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="New" xml:space="preserve">
@@ -2327,7 +2327,7 @@
       </trans-unit>
       <trans-unit id="New Entry" xml:space="preserve">
         <source>New Entry</source>
-        <target>新的条目</target>
+        <target>新条目</target>
         <note>New Entry
    New Entry context menu title</note>
       </trans-unit>
@@ -2381,7 +2381,7 @@
       </trans-unit>
       <trans-unit id="No Accounts" xml:space="preserve">
         <source>No Accounts</source>
-        <target>没有帐户</target>
+        <target>没有账户</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No Budget" xml:space="preserve">
@@ -2437,7 +2437,7 @@
       </trans-unit>
       <trans-unit id="No accounts were found in this export." xml:space="preserve">
         <source>No accounts were found in this export.</source>
-        <target>在此出口中未发现帐户。</target>
+        <target>在此输出中没有发现账户。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No backups exist at the moment. The first backup will be ready once you have at least one entry in any of ledgers." xml:space="preserve">
@@ -2446,7 +2446,7 @@
       </trans-unit>
       <trans-unit id="No categories were found in this export." xml:space="preserve">
         <source>No categories were found in this export.</source>
-        <target>在此出口中没有发现类别。</target>
+        <target>在该出口中没有发现任何类别。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No data to display" xml:space="preserve">
@@ -2455,7 +2455,7 @@
       </trans-unit>
       <trans-unit id="No entries were found in this export." xml:space="preserve">
         <source>No entries were found in this export.</source>
-        <target>在此出口中未发现条目。</target>
+        <target>此出口中没有发现任何条目。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No entries%@ for the interval of %@" xml:space="preserve">
@@ -2495,7 +2495,7 @@
       </trans-unit>
       <trans-unit id="On Date" xml:space="preserve">
         <source>On Date</source>
-        <target>时间到了</target>
+        <target>关于日期</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Opens the scanner to scan a receipt for creating an entry" xml:space="preserve">
@@ -2524,7 +2524,7 @@
       </trans-unit>
       <trans-unit id="Please contact the developer at support@pockity.app with a screenshot of this error." xml:space="preserve">
         <source>Please contact the developer at support@pockity.app with a screenshot of this error.</source>
-        <target>请通过support@pockity.app与开发人员联系此错误的屏幕截图。</target>
+        <target>请与开发商联系，support@pockity.app，并提供该错误的截图。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Please create an account before creating an entry" xml:space="preserve">
@@ -2574,12 +2574,12 @@
       </trans-unit>
       <trans-unit id="Please select an account to transfer from." xml:space="preserve">
         <source>Please select an account to transfer from.</source>
-        <target>请选择一个要转移的帐户。</target>
+        <target>请选择一个账户进行转账。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Please select an account to transfer to." xml:space="preserve">
         <source>Please select an account to transfer to.</source>
-        <target>请选择一个要转移到的帐户。</target>
+        <target>请选择一个要转入的账户。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Pockity" xml:space="preserve">
@@ -2650,7 +2650,7 @@
       </trans-unit>
       <trans-unit id="Quarter" xml:space="preserve">
         <source>Quarter</source>
-        <target>四分之一</target>
+        <target>季度</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Quit anyway" xml:space="preserve">
@@ -2660,7 +2660,7 @@
       </trans-unit>
       <trans-unit id="Quitting now will lose any changes you have made since the last successful save" xml:space="preserve">
         <source>Quitting now will lose any changes you have made since the last successful save</source>
-        <target>自上次成功保存以来，现在退出将失去您所做的任何更改</target>
+        <target>现在退出将失去你在上次成功保存后所做的任何改变。</target>
         <note>Quit without saves error question info</note>
       </trans-unit>
       <trans-unit id="Receive daily notifications at the specified time as a reminder to add entries from the previous day or today" xml:space="preserve">
@@ -2680,17 +2680,17 @@
       </trans-unit>
       <trans-unit id="Recurring" xml:space="preserve">
         <source>Recurring</source>
-        <target>再次发生的</target>
+        <target>经常性支出</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Recurring expense due tomorrow" xml:space="preserve">
         <source>Recurring expense due tomorrow</source>
-        <target>明天到期的经常费用</target>
+        <target>明天到期的经常性费用</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Reimburse" xml:space="preserve">
         <source>Reimburse</source>
-        <target>补偿</target>
+        <target>报销</target>
         <note>Reimburse Action
    Reimburse context menu title</note>
       </trans-unit>
@@ -2752,7 +2752,7 @@
       </trans-unit>
       <trans-unit id="Restoring..." xml:space="preserve">
         <source>Restoring...</source>
-        <target>还原...</target>
+        <target>恢复...</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Scan Receipt" xml:space="preserve">
@@ -2904,7 +2904,7 @@
       </trans-unit>
       <trans-unit id="Table" xml:space="preserve">
         <source>Table</source>
-        <target>桌子</target>
+        <target>表</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Tap to view past transactions" xml:space="preserve">
@@ -2921,12 +2921,12 @@
       </trans-unit>
       <trans-unit id="Thank you for the generous tip, I really appreciate it." xml:space="preserve">
         <source>Thank you for the generous tip, I really appreciate it.</source>
-        <target>谢谢您的慷慨提示，我非常感谢。</target>
+        <target>谢谢你的慷慨提示，我真的很感激。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Thank you for the generous tip, I really appreciate your continued support for me and the app." xml:space="preserve">
         <source>Thank you for the generous tip, I really appreciate your continued support for me and the app.</source>
-        <target>感谢您的慷慨提示，我非常感谢您对我和应用程序的持续支持。</target>
+        <target>谢谢你的慷慨小费，我真的很感谢你对我和这个应用程序的持续支持。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The Account's number (last four digits) are used throughout the app to mark entries." xml:space="preserve">
@@ -3004,7 +3004,7 @@
       </trans-unit>
       <trans-unit id="This information is directly saved on your device. It is never trasmitted to another entity with your explicit action." xml:space="preserve">
         <source>This information is directly saved on your device. It is never trasmitted to another entity with your explicit action.</source>
-        <target>此信息直接保存在您的设备上。它永远不会通过您的明确操作传输给另一个实体。</target>
+        <target>这些信息直接保存在你的设备上。在你的明确行动下，它永远不会被传送到另一个实体。</target>
         <note>Private information disclaimer</note>
       </trans-unit>
       <trans-unit id="This name will be used when participating in shared ledgers." xml:space="preserve">
@@ -3042,7 +3042,7 @@
       </trans-unit>
       <trans-unit id="To %@" xml:space="preserve">
         <source>To %@</source>
-        <target>到 %@</target>
+        <target>致%@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="To Account" xml:space="preserve">
@@ -3078,23 +3078,23 @@
       </trans-unit>
       <trans-unit id="Transfer" xml:space="preserve">
         <source>Transfer</source>
-        <target>转移</target>
+        <target>转账</target>
         <note>Transfer
    Transfer context menu title</note>
       </trans-unit>
       <trans-unit id="Transfer from" xml:space="preserve">
         <source>Transfer from</source>
-        <target>从转移</target>
+        <target>转自</target>
         <note>Transfer from Action</note>
       </trans-unit>
       <trans-unit id="Transfer to" xml:space="preserve">
         <source>Transfer to</source>
-        <target>传送到</target>
+        <target>转入</target>
         <note>Transfer to Action</note>
       </trans-unit>
       <trans-unit id="Transferred to %@" xml:space="preserve">
         <source>Transferred to %@</source>
-        <target>转移到 %@</target>
+        <target>转入 %@</target>
         <note>Transferred to [account name]
    Transferred to format</note>
       </trans-unit>
@@ -3132,7 +3132,7 @@
       </trans-unit>
       <trans-unit id="Week" xml:space="preserve">
         <source>Week</source>
-        <target>星期</target>
+        <target>每周</target>
         <note>Week</note>
       </trans-unit>
       <trans-unit id="Weekday" xml:space="preserve">
@@ -3204,7 +3204,7 @@
       </trans-unit>
       <trans-unit id="You can try this action again. If it continues to fail, please report the error to support@pockity.app" xml:space="preserve">
         <source>You can try this action again. If it continues to fail, please report the error to support@pockity.app</source>
-        <target>您可以再次尝试此操作。如果继续失败，请报告错误至support@pockity.app</target>
+        <target>你可以再试一下这个动作。如果它继续失败，请将错误报告给support@pockity.app。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="You cannot use the word &quot;Primary&quot; for the ledger. This is a reserved key." xml:space="preserve">
@@ -3232,7 +3232,7 @@
       </trans-unit>
       <trans-unit id="day" xml:space="preserve">
         <source>day</source>
-        <target>天</target>
+        <target>日</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="expense" xml:space="preserve">
@@ -3249,7 +3249,7 @@
       </trans-unit>
       <trans-unit id="last" xml:space="preserve">
         <source>last</source>
-        <target>最后的</target>
+        <target>最后</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="value" xml:space="preserve">
@@ -3275,12 +3275,12 @@
       </trans-unit>
       <trans-unit id="/%d Entries:dict/entries:dict/other:dict/:string" xml:space="preserve">
         <source>%d Entries</source>
-        <target>%d Entries</target>
+        <target>%d条目</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="/%d Entries:dict/entries:dict/zero:dict/:string" xml:space="preserve">
         <source>No Entries</source>
-        <target>No Entries</target>
+        <target>没有条目</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
     </body>
@@ -3292,12 +3292,12 @@
     <body>
       <trans-unit id="4WTG5p" xml:space="preserve">
         <source>Categories</source>
-        <target>Categories</target>
+        <target>类别</target>
         <note/>
       </trans-unit>
       <trans-unit id="5sdUo7" xml:space="preserve">
         <source>Ledger</source>
-        <target>Ledger</target>
+        <target>账目</target>
         <note/>
       </trans-unit>
       <trans-unit id="6XINJh" xml:space="preserve">
@@ -3312,12 +3312,12 @@
       </trans-unit>
       <trans-unit id="D4GhGX" xml:space="preserve">
         <source>Ledger</source>
-        <target>Ledger</target>
+        <target>账目</target>
         <note/>
       </trans-unit>
       <trans-unit id="GDlrol" xml:space="preserve">
         <source>Expense</source>
-        <target>Expense</target>
+        <target>支出</target>
         <note/>
       </trans-unit>
       <trans-unit id="PnDFuS" xml:space="preserve">
@@ -3342,7 +3342,7 @@
       </trans-unit>
       <trans-unit id="gwixeU" xml:space="preserve">
         <source>Category</source>
-        <target>Category</target>
+        <target>类别</target>
         <note/>
       </trans-unit>
       <trans-unit id="h22dqt" xml:space="preserve">
@@ -3372,7 +3372,7 @@
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
-        <source>WidgetIntents</source>
+        <source>WidgetIntents</source><target>WidgetIntents</target>
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">

@@ -6,23 +6,23 @@
     </header>
     <body>
       <trans-unit id="Add Filter" xml:space="preserve">
-        <source>Add Filter</source>
+        <source>Add Filter</source><target>Adicionar filtro</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="All" xml:space="preserve">
-        <source>All</source>
+        <source>All</source><target>Todos</target>
         <note>All</note>
       </trans-unit>
       <trans-unit id="Any" xml:space="preserve">
-        <source>Any</source>
+        <source>Any</source><target>Qualquer</target>
         <note>Any</note>
       </trans-unit>
       <trans-unit id="Combination" xml:space="preserve">
-        <source>Combination</source>
+        <source>Combination</source><target>Combinação</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Delete" xml:space="preserve">
-        <source>Delete</source>
+        <source>Delete</source><target>Apagar</target>
         <note>Delete action under row comments</note>
       </trans-unit>
       <trans-unit id="New" xml:space="preserve">
@@ -30,75 +30,75 @@
         <note>New Row Button Title</note>
       </trans-unit>
       <trans-unit id="No" xml:space="preserve">
-        <source>No</source>
+        <source>No</source><target>Não</target>
         <note>No</note>
       </trans-unit>
       <trans-unit id="None" xml:space="preserve">
-        <source>None</source>
+        <source>None</source><target>Nenhum contacto</target>
         <note>Any</note>
       </trans-unit>
       <trans-unit id="Row Actions" xml:space="preserve">
-        <source>Row Actions</source>
+        <source>Row Actions</source><target>Acções de linha</target>
         <note>Row Actions for a predicate template row (delete)</note>
       </trans-unit>
       <trans-unit id="Yes" xml:space="preserve">
-        <source>Yes</source>
+        <source>Yes</source><target>Sim</target>
         <note>Yes</note>
       </trans-unit>
       <trans-unit id="begins with" xml:space="preserve">
-        <source>begins with</source>
+        <source>begins with</source><target>começa com</target>
         <note>begins with</note>
       </trans-unit>
       <trans-unit id="between" xml:space="preserve">
-        <source>between</source>
+        <source>between</source><target>entre</target>
         <note>between</note>
       </trans-unit>
       <trans-unit id="contains" xml:space="preserve">
-        <source>contains</source>
+        <source>contains</source><target>contém</target>
         <note>contains</note>
       </trans-unit>
       <trans-unit id="ends with" xml:space="preserve">
-        <source>ends with</source>
+        <source>ends with</source><target>termina com</target>
         <note>ends with</note>
       </trans-unit>
       <trans-unit id="in" xml:space="preserve">
-        <source>in</source>
+        <source>in</source><target>em</target>
         <note>in</note>
       </trans-unit>
       <trans-unit id="is" xml:space="preserve">
-        <source>is</source>
+        <source>is</source><target>é</target>
         <note>is</note>
       </trans-unit>
       <trans-unit id="is greater than" xml:space="preserve">
-        <source>is greater than</source>
+        <source>is greater than</source><target>é maior que</target>
         <note>greater than</note>
       </trans-unit>
       <trans-unit id="is greater than or equal to" xml:space="preserve">
-        <source>is greater than or equal to</source>
+        <source>is greater than or equal to</source><target>é maior ou igual a</target>
         <note>greater than or equal to</note>
       </trans-unit>
       <trans-unit id="is less than" xml:space="preserve">
-        <source>is less than</source>
+        <source>is less than</source><target>é menor do que</target>
         <note>less than</note>
       </trans-unit>
       <trans-unit id="is less than or equal to" xml:space="preserve">
-        <source>is less than or equal to</source>
+        <source>is less than or equal to</source><target>é menor ou igual a</target>
         <note>less than or equal to</note>
       </trans-unit>
       <trans-unit id="is not" xml:space="preserve">
-        <source>is not</source>
+        <source>is not</source><target>não é</target>
         <note>is not</note>
       </trans-unit>
       <trans-unit id="like" xml:space="preserve">
-        <source>like</source>
+        <source>like</source><target>como</target>
         <note>like</note>
       </trans-unit>
       <trans-unit id="matches" xml:space="preserve">
-        <source>matches</source>
+        <source>matches</source><target>correspondências</target>
         <note>matches</note>
       </trans-unit>
       <trans-unit id="of the following are true" xml:space="preserve">
-        <source>of the following are true</source>
+        <source>of the following are true</source><target>das seguintes afirmações são verdadeiras</target>
         <note>of the following are true</note>
       </trans-unit>
     </body>
@@ -277,7 +277,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%d Entries" xml:space="preserve">
-        <source>%d Entries</source>
+        <source>%d Entries</source><target>%d Entradas</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%lf spent" xml:space="preserve">
@@ -285,19 +285,19 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="(year)" xml:space="preserve">
-        <source>(year)</source>
+        <source>(year)</source><target>(ano)</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="A new expense for %@ will be added to your ledger on %@" xml:space="preserve">
-        <source>A new expense for %1$@ will be added to your ledger on %2$@</source>
+        <source>A new expense for %1$@ will be added to your ledger on %2$@</source><target>Uma nova despesa de %1$@ será adicionada ao seu livro de registos em %2$@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Accounts" xml:space="preserve">
-        <source>Accounts</source>
+        <source>Accounts</source><target>Contas</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Action not found" xml:space="preserve">
-        <source>Action not found</source>
+        <source>Action not found</source><target>Acção não encontrada</target>
         <note>Action not found</note>
       </trans-unit>
       <trans-unit id="Active" xml:space="preserve">
@@ -309,23 +309,23 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Add New Entries" xml:space="preserve">
-        <source>Add New Entries</source>
+        <source>Add New Entries</source><target>Adicionar novos registos</target>
         <note>Add New Entries notification title</note>
       </trans-unit>
       <trans-unit id="Add new entries from today?" xml:space="preserve">
-        <source>Add new entries from today?</source>
+        <source>Add new entries from today?</source><target>Adicionar novas entradas a partir de hoje?</target>
         <note>Add New Entries past tense notification body</note>
       </trans-unit>
       <trans-unit id="Add new entries from yesterday?" xml:space="preserve">
-        <source>Add new entries from yesterday?</source>
+        <source>Add new entries from yesterday?</source><target>Adicionar novos registos de ontem?</target>
         <note>Add New Entries past tense notification body</note>
       </trans-unit>
       <trans-unit id="Adding Imported Items" xml:space="preserve">
-        <source>Adding Imported Items</source>
+        <source>Adding Imported Items</source><target>Adicionar itens importados</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="After" xml:space="preserve">
-        <source>After</source>
+        <source>After</source><target>Depois de</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="All associated entries will be deleted too." xml:space="preserve">
@@ -334,11 +334,11 @@
    Delete Mutltiple Categories message</note>
       </trans-unit>
       <trans-unit id="An Error Occurred" xml:space="preserve">
-        <source>An Error Occurred</source>
+        <source>An Error Occurred</source><target>Ocorreu um erro</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="An error occurred importing the entries." xml:space="preserve">
-        <source>An error occurred importing the entries.</source>
+        <source>An error occurred importing the entries.</source><target>Ocorreu um erro ao importar os registos.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="An error occurred when processing this ledger for sharing. Please try again after sometime." xml:space="preserve">
@@ -346,7 +346,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Are you sure you want to delete the smart filter? This operation is not recoverable." xml:space="preserve">
-        <source>Are you sure you want to delete the smart filter? This operation is not recoverable.</source>
+        <source>Are you sure you want to delete the smart filter? This operation is not recoverable.</source><target>Tem a certeza de que pretende eliminar o filtro inteligente? Esta operação não pode ser recuperada.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Average" xml:space="preserve">
@@ -362,19 +362,19 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Buy %@" xml:space="preserve">
-        <source>Buy %@</source>
+        <source>Buy %@</source><target>Comprar %@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Cancel" xml:space="preserve">
-        <source>Cancel</source>
+        <source>Cancel</source><target>Cancelar</target>
         <note>Cancel button title</note>
       </trans-unit>
       <trans-unit id="Categories" xml:space="preserve">
-        <source>Categories</source>
+        <source>Categories</source><target>Categorias</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Category" xml:space="preserve">
-        <source>Category</source>
+        <source>Category</source><target>Categoria</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Chart" xml:space="preserve">
@@ -382,7 +382,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Check for Updates..." xml:space="preserve">
-        <source>Check for Updates...</source>
+        <source>Check for Updates...</source><target>Verificar as actualizações...</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Cloud Status" xml:space="preserve">
@@ -390,7 +390,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Could not save changes while quitting. Quit anyway?" xml:space="preserve">
-        <source>Could not save changes while quitting. Quit anyway?</source>
+        <source>Could not save changes while quitting. Quit anyway?</source><target>Não foi possível salvar as alterações ao sair. Sair mesmo assim?</target>
         <note>Quit without saves error question message</note>
       </trans-unit>
       <trans-unit id="Create repeating entries from existing entries or new templates" xml:space="preserve">
@@ -398,7 +398,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Daily" xml:space="preserve">
-        <source>Daily</source>
+        <source>Daily</source><target>Diário</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Date Range" xml:space="preserve">
@@ -406,52 +406,52 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Debug" xml:space="preserve">
-        <source>Debug</source>
+        <source>Debug</source><target>Depurar</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Delete" xml:space="preserve">
-        <source>Delete</source>
+        <source>Delete</source><target>Apagar</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Delete %@" xml:space="preserve">
-        <source>Delete %@</source>
+        <source>Delete %@</source><target>Apagar %@</target>
         <note>Delete Account title format
    Delete Category title format</note>
       </trans-unit>
       <trans-unit id="Delete %d Accounts" xml:space="preserve">
-        <source>Delete %d Accounts</source>
+        <source>Delete %d Accounts</source><target>Eliminar %d Contas</target>
         <note>Delete Multiple Accounts title format</note>
       </trans-unit>
       <trans-unit id="Delete %d Categories" xml:space="preserve">
-        <source>Delete %d Categories</source>
+        <source>Delete %d Categories</source><target>Eliminar %d Categorias</target>
         <note>Delete Multiple Categories title format</note>
       </trans-unit>
       <trans-unit id="Delete %d Entries" xml:space="preserve">
-        <source>Delete %d Entries</source>
+        <source>Delete %d Entries</source><target>Eliminar %d Entradas</target>
         <note>Delete Entries title format</note>
       </trans-unit>
       <trans-unit id="Delete Ledger" xml:space="preserve">
-        <source>Delete Ledger</source>
+        <source>Delete Ledger</source><target>Eliminar o Ledger</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Delete Ledger?" xml:space="preserve">
-        <source>Delete Ledger?</source>
+        <source>Delete Ledger?</source><target>Eliminar o Ledger?</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Delete Smart Filter?" xml:space="preserve">
-        <source>Delete Smart Filter?</source>
+        <source>Delete Smart Filter?</source><target>Eliminar filtro inteligente?</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Delete or Merge with existing data?" xml:space="preserve">
-        <source>Delete or Merge with existing data?</source>
+        <source>Delete or Merge with existing data?</source><target>Eliminar ou fundir com dados existentes?</target>
         <note>Existing data question message</note>
       </trans-unit>
       <trans-unit id="Deleting Existing" xml:space="preserve">
-        <source>Deleting Existing</source>
+        <source>Deleting Existing</source><target>Apagar existentes</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Deleting the ledger will also delete all entries, accounts and categories in it." xml:space="preserve">
-        <source>Deleting the ledger will also delete all entries, accounts and categories in it.</source>
+        <source>Deleting the ledger will also delete all entries, accounts and categories in it.</source><target>A eliminação do ledger também elimina todas as entradas, contas e categorias nele existentes.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Duplicate" xml:space="preserve">
@@ -459,7 +459,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Duplicate %d Entries" xml:space="preserve">
-        <source>Duplicate %d Entries</source>
+        <source>Duplicate %d Entries</source><target>Duplicar %d entradas</target>
         <note>Duplicate Entries title format</note>
       </trans-unit>
       <trans-unit id="Duration" xml:space="preserve">
@@ -467,35 +467,35 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Edit" xml:space="preserve">
-        <source>Edit</source>
+        <source>Edit</source><target>Editar</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Edit Smart Filter" xml:space="preserve">
-        <source>Edit Smart Filter</source>
+        <source>Edit Smart Filter</source><target>Editar filtro inteligente</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Entries" xml:space="preserve">
-        <source>Entries</source>
+        <source>Entries</source><target>Entradas</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Entries created by this template will not be deleted." xml:space="preserve">
-        <source>Entries created by this template will not be deleted.</source>
+        <source>Entries created by this template will not be deleted.</source><target>As entradas criadas por este modelo não serão eliminadas.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Error Deleting Share" xml:space="preserve">
-        <source>Error Deleting Share</source>
+        <source>Error Deleting Share</source><target>Erro ao eliminar partilha</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Error Importing Entries" xml:space="preserve">
-        <source>Error Importing Entries</source>
+        <source>Error Importing Entries</source><target>Erro ao importar entradas</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Existing Data?" xml:space="preserve">
-        <source>Existing Data?</source>
+        <source>Existing Data?</source><target>Dados existentes?</target>
         <note>Existing Data question title</note>
       </trans-unit>
       <trans-unit id="Expense" xml:space="preserve">
-        <source>Expense</source>
+        <source>Expense</source><target>Despesas</target>
         <note>Expense</note>
       </trans-unit>
       <trans-unit id="Expenses" xml:space="preserve">
@@ -507,7 +507,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Failed to create export directory" xml:space="preserve">
-        <source>Failed to create export directory</source>
+        <source>Failed to create export directory</source><target>Falha na criação do directório de exportação</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Family" xml:space="preserve">
@@ -519,19 +519,19 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Freq. Account" xml:space="preserve">
-        <source>Freq. Account</source>
+        <source>Freq. Account</source><target>Conta Freq. Conta</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="From %@" xml:space="preserve">
-        <source>From %@</source>
+        <source>From %@</source><target>De %@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="From %@ to %@" xml:space="preserve">
-        <source>From %1$@ to %2$@</source>
+        <source>From %1$@ to %2$@</source><target>De %1$@ a %2$@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Generic JSON Format" xml:space="preserve">
-        <source>Generic JSON Format</source>
+        <source>Generic JSON Format</source><target>Formato JSON genérico</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Hi, I'm Nikhil" xml:space="preserve">
@@ -543,7 +543,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Income" xml:space="preserve">
-        <source>Income</source>
+        <source>Income</source><target>Rendimento</target>
         <note>Income</note>
       </trans-unit>
       <trans-unit id="Interval" xml:space="preserve">
@@ -555,23 +555,23 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Invalid Destination Account" xml:space="preserve">
-        <source>Invalid Destination Account</source>
+        <source>Invalid Destination Account</source><target>Conta de destino inválida</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Invalid Source Account" xml:space="preserve">
-        <source>Invalid Source Account</source>
+        <source>Invalid Source Account</source><target>Conta de origem inválida</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Invalid data or the data is in an invalid format." xml:space="preserve">
-        <source>Invalid data or the data is in an invalid format.</source>
+        <source>Invalid data or the data is in an invalid format.</source><target>Dados inválidos ou os dados estão num formato inválido.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Later today" xml:space="preserve">
-        <source>Later today</source>
+        <source>Later today</source><target>Mais tarde hoje</target>
         <note>Later today recurring subtitle</note>
       </trans-unit>
       <trans-unit id="Ledger" xml:space="preserve">
-        <source>Ledger</source>
+        <source>Ledger</source><target>Ledger</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Ledger Not Found" xml:space="preserve">
@@ -587,7 +587,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="List" xml:space="preserve">
-        <source>List</source>
+        <source>List</source><target>Lista</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Manage Share" xml:space="preserve">
@@ -595,11 +595,11 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Merging Data" xml:space="preserve">
-        <source>Merging Data</source>
+        <source>Merging Data</source><target>Fusão de dados</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Merging entries from %@" xml:space="preserve">
-        <source>Merging entries from %@</source>
+        <source>Merging entries from %@</source><target>Fundir entradas de %@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Minimum Expense" xml:space="preserve">
@@ -607,19 +607,19 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Month" xml:space="preserve">
-        <source>Month</source>
+        <source>Month</source><target>Mês</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Monthly" xml:space="preserve">
-        <source>Monthly</source>
+        <source>Monthly</source><target>Mês</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Most Spent" xml:space="preserve">
-        <source>Most Spent</source>
+        <source>Most Spent</source><target>Mais gasto</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Never" xml:space="preserve">
-        <source>Never</source>
+        <source>Never</source><target>Nunca</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="New Account" xml:space="preserve">
@@ -631,35 +631,35 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="New Entry" xml:space="preserve">
-        <source>New Entry</source>
+        <source>New Entry</source><target>Nova entrada</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="New Recurring Item" xml:space="preserve">
-        <source>New Recurring Item</source>
+        <source>New Recurring Item</source><target>Novo item recorrente</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="New Smart Filter" xml:space="preserve">
-        <source>New Smart Filter</source>
+        <source>New Smart Filter</source><target>Novo filtro inteligente</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Next on %@" xml:space="preserve">
-        <source>Next on %@</source>
+        <source>Next on %@</source><target>Próximo em %@</target>
         <note>Next on date recurring subtitle</note>
       </trans-unit>
       <trans-unit id="No Accounts" xml:space="preserve">
-        <source>No Accounts</source>
+        <source>No Accounts</source><target>Sem contas</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No Budget" xml:space="preserve">
-        <source>No Budget</source>
+        <source>No Budget</source><target>Sem orçamento</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No Categories" xml:space="preserve">
-        <source>No Categories</source>
+        <source>No Categories</source><target>Sem categorias</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No Entries" xml:space="preserve">
-        <source>No Entries</source>
+        <source>No Entries</source><target>Sem entradas</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No Ledger" xml:space="preserve">
@@ -675,19 +675,19 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No accounts were found in this export." xml:space="preserve">
-        <source>No accounts were found in this export.</source>
+        <source>No accounts were found in this export.</source><target>Não foram encontradas contas nesta exportação.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No balance setup" xml:space="preserve">
-        <source>No balance setup</source>
+        <source>No balance setup</source><target>Nenhuma configuração de saldo</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No categories were found in this export." xml:space="preserve">
-        <source>No categories were found in this export.</source>
+        <source>No categories were found in this export.</source><target>Não foram encontradas categorias nesta exportação.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No entries were found in this export." xml:space="preserve">
-        <source>No entries were found in this export.</source>
+        <source>No entries were found in this export.</source><target>Não foram encontradas entradas nesta exportação.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No ledger was found on the associated entry or its accounts." xml:space="preserve">
@@ -699,7 +699,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="On Date" xml:space="preserve">
-        <source>On Date</source>
+        <source>On Date</source><target>Na data</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Personal" xml:space="preserve">
@@ -707,15 +707,15 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Please contact the developer at support@pockity.app with a screenshot of this error." xml:space="preserve">
-        <source>Please contact the developer at support@pockity.app with a screenshot of this error.</source>
+        <source>Please contact the developer at support@pockity.app with a screenshot of this error.</source><target>Contacte o programador em support@pockity.app com uma captura de ecrã deste erro.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Please select an account to transfer from." xml:space="preserve">
-        <source>Please select an account to transfer from.</source>
+        <source>Please select an account to transfer from.</source><target>Seleccione uma conta da qual transferir.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Please select an account to transfer to." xml:space="preserve">
-        <source>Please select an account to transfer to.</source>
+        <source>Please select an account to transfer to.</source><target>Seleccione uma conta para a qual transferir.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Pockity is built by a single Developer. Purchasing Pockity+ helps me keep working on the app and support its future development." xml:space="preserve">
@@ -747,7 +747,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Product not found" xml:space="preserve">
-        <source>Product not found</source>
+        <source>Product not found</source><target>Produto não encontrado</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Purchased" xml:space="preserve">
@@ -755,39 +755,39 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Purchasing..." xml:space="preserve">
-        <source>Purchasing...</source>
+        <source>Purchasing...</source><target>Comprando...</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Quarter" xml:space="preserve">
-        <source>Quarter</source>
+        <source>Quarter</source><target>Trimestre</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Quit anyway" xml:space="preserve">
-        <source>Quit anyway</source>
+        <source>Quit anyway</source><target>Sair de qualquer maneira</target>
         <note>Quit anyway button title</note>
       </trans-unit>
       <trans-unit id="Quitting now will lose any changes you have made since the last successful save" xml:space="preserve">
-        <source>Quitting now will lose any changes you have made since the last successful save</source>
+        <source>Quitting now will lose any changes you have made since the last successful save</source><target>Ao sair agora, perderá todas as alterações efectuadas desde a última gravação bem sucedida</target>
         <note>Quit without saves error question info</note>
       </trans-unit>
       <trans-unit id="Recurring" xml:space="preserve">
-        <source>Recurring</source>
+        <source>Recurring</source><target>Recorrente</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Recurring expense due tomorrow" xml:space="preserve">
-        <source>Recurring expense due tomorrow</source>
+        <source>Recurring expense due tomorrow</source><target>Despesa recorrente com vencimento amanhã</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Reimburse" xml:space="preserve">
-        <source>Reimburse</source>
+        <source>Reimburse</source><target>Reembolsar</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Reimbursement" xml:space="preserve">
-        <source>Reimbursement</source>
+        <source>Reimbursement</source><target>Reembolso</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Reimbursements" xml:space="preserve">
-        <source>Reimbursements</source>
+        <source>Reimbursements</source><target>Reembolsos</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Remaining" xml:space="preserve">
@@ -795,7 +795,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Repeat" xml:space="preserve">
-        <source>Repeat</source>
+        <source>Repeat</source><target>Repetir</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Repeating Entries" xml:space="preserve">
@@ -811,7 +811,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Restoring..." xml:space="preserve">
-        <source>Restoring...</source>
+        <source>Restoring...</source><target>Restaurar...</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Search Currency" xml:space="preserve">
@@ -827,7 +827,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Share Ledger" xml:space="preserve">
-        <source>Share Ledger</source>
+        <source>Share Ledger</source><target>Partilhar ledger</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Share Pockity+ with all members added to your family under your Apple ID." xml:space="preserve">
@@ -835,7 +835,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Shared Ledger" xml:space="preserve">
-        <source>Shared Ledger</source>
+        <source>Shared Ledger</source><target>Ledger partilhado</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Show Ledger" xml:space="preserve">
@@ -855,7 +855,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Table" xml:space="preserve">
-        <source>Table</source>
+        <source>Table</source><target>Tabela</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Terms" xml:space="preserve">
@@ -867,11 +867,11 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Thank you for the generous tip, I really appreciate it." xml:space="preserve">
-        <source>Thank you for the generous tip, I really appreciate it.</source>
+        <source>Thank you for the generous tip, I really appreciate it.</source><target>Obrigado pela generosa dica, agradeço imenso.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Thank you for the generous tip, I really appreciate your continued support for me and the app." xml:space="preserve">
-        <source>Thank you for the generous tip, I really appreciate your continued support for me and the app.</source>
+        <source>Thank you for the generous tip, I really appreciate your continued support for me and the app.</source><target>Obrigado pela generosa gorjeta, agradeço imenso o seu apoio contínuo a mim e à aplicação.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The Reimbursement category was not found on this ledger." xml:space="preserve">
@@ -903,7 +903,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="This information is directly saved on your device. It is never trasmitted to another entity with your explicit action." xml:space="preserve">
-        <source>This information is directly saved on your device. It is never trasmitted to another entity with your explicit action.</source>
+        <source>This information is directly saved on your device. It is never trasmitted to another entity with your explicit action.</source><target>Esta informação é guardada directamente no seu dispositivo. Nunca é transmitida a outra entidade sem a sua acção explícita.</target>
         <note>Private information disclaimer</note>
       </trans-unit>
       <trans-unit id="This purchase is only valid for iOS and iPadOS. The macOS app is unlocked separately." xml:space="preserve">
@@ -915,11 +915,11 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="To %@" xml:space="preserve">
-        <source>To %@</source>
+        <source>To %@</source><target>Para %@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Tomorrow" xml:space="preserve">
-        <source>Tomorrow</source>
+        <source>Tomorrow</source><target>Amanhã</target>
         <note>Tomorrow recurring subtitle</note>
       </trans-unit>
       <trans-unit id="Total Expense" xml:space="preserve">
@@ -927,7 +927,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Total Expenses" xml:space="preserve">
-        <source>Total Expenses</source>
+        <source>Total Expenses</source><target>Total de despesas</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Total Income" xml:space="preserve">
@@ -939,27 +939,27 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Total: %@" xml:space="preserve">
-        <source>Total: %@</source>
+        <source>Total: %@</source><target>Total: %@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Transfer" xml:space="preserve">
-        <source>Transfer</source>
+        <source>Transfer</source><target>Transferir</target>
         <note>Transfer</note>
       </trans-unit>
       <trans-unit id="Transfer from" xml:space="preserve">
-        <source>Transfer from</source>
+        <source>Transfer from</source><target>Transferência de</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Transfer to" xml:space="preserve">
-        <source>Transfer to</source>
+        <source>Transfer to</source><target>Transferência para</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Transferred to %@" xml:space="preserve">
-        <source>Transferred to %@</source>
+        <source>Transferred to %@</source><target>Transferido para %@</target>
         <note>Transferred to format</note>
       </trans-unit>
       <trans-unit id="Untitled" xml:space="preserve">
-        <source>Untitled</source>
+        <source>Untitled</source><target>Sem título</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Visible Ledgers" xml:space="preserve">
@@ -967,23 +967,23 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Week" xml:space="preserve">
-        <source>Week</source>
+        <source>Week</source><target>Semana</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Weekly" xml:space="preserve">
-        <source>Weekly</source>
+        <source>Weekly</source><target>Semanal</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Year" xml:space="preserve">
-        <source>Year</source>
+        <source>Year</source><target>Ano</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Yearly" xml:space="preserve">
-        <source>Yearly</source>
+        <source>Yearly</source><target>Anual</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="You can try this action again. If it continues to fail, please report the error to support@pockity.app" xml:space="preserve">
-        <source>You can try this action again. If it continues to fail, please report the error to support@pockity.app</source>
+        <source>You can try this action again. If it continues to fail, please report the error to support@pockity.app</source><target>Pode tentar esta acção novamente. Se continuar a falhar, comunique o erro a support@pockity.app</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="account" xml:space="preserve">
@@ -995,7 +995,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="day" xml:space="preserve">
-        <source>day</source>
+        <source>day</source><target>dia</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="expense" xml:space="preserve">
@@ -1007,7 +1007,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="last" xml:space="preserve">
-        <source>last</source>
+        <source>last</source><target>último</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="value" xml:space="preserve">
@@ -1015,7 +1015,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="🎉 Thank you for purchasing Pockity+ and supporting its development 🎉" xml:space="preserve">
-        <source>🎉 Thank you for purchasing Pockity+ and supporting its development 🎉</source>
+        <source>🎉 Thank you for purchasing Pockity+ and supporting its development 🎉</source><target>Obrigado por comprar o Pockity+ e apoiar o seu desenvolvimento 🎉</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
     </body>
@@ -1034,7 +1034,7 @@
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSContactsUsageDescription" xml:space="preserve">
-        <source>Contacts are used to show names and avatars in shared ledgers</source>
+        <source>Contacts are used to show names and avatars in shared ledgers</source><target>Os contactos são utilizados para mostrar nomes e avatares em livros de registo partilhados</target>
         <note>Privacy - Contacts Usage Description</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
@@ -1042,11 +1042,11 @@
         <note>Copyright (human-readable)</note>
       </trans-unit>
       <trans-unit id="NSLocationAlwaysAndWhenInUseUsageDescription" xml:space="preserve">
-        <source>Location information is used for suggesting nearby Points of Interest for entries</source>
+        <source>Location information is used for suggesting nearby Points of Interest for entries</source><target>As informações de localização são utilizadas para sugerir Pontos de Interesse próximos para entradas</target>
         <note>Privacy - Location Always and When In Use Usage Description</note>
       </trans-unit>
       <trans-unit id="NSLocationUsageDescription" xml:space="preserve">
-        <source>Location information is used for suggesting nearby Points of Interest for entries</source>
+        <source>Location information is used for suggesting nearby Points of Interest for entries</source><target>As informações de localização são utilizadas para sugerir Pontos de Interesse próximos para entradas</target>
         <note>Privacy - Location Usage Description</note>
       </trans-unit>
     </body>
@@ -1061,7 +1061,7 @@
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
-        <source>WidgetsExtensionMac</source>
+        <source>WidgetsExtensionMac</source><target>WidgetsExtensionMac</target>
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
@@ -1180,7 +1180,7 @@
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
-        <source>SelectCategoryIntent</source>
+        <source>SelectCategoryIntent</source><target>SelectCategoryIntent</target>
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
@@ -1200,7 +1200,7 @@
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
-        <source>SelectLedgerIntent</source>
+        <source>SelectLedgerIntent</source><target>SelectLedgerIntent</target>
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
@@ -1219,7 +1219,7 @@
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
-        <source>SelectLedgerIntentMac</source>
+        <source>SelectLedgerIntentMac</source><target>SelectLedgerIntentMac</target>
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
@@ -1235,7 +1235,7 @@
     </header>
     <body>
       <trans-unit id="${applicationName} Expenses" xml:space="preserve">
-        <source>${applicationName} Expenses</source>
+        <source>${applicationName} Expenses</source><target>${applicationName} Despesas</target>
         <note/>
       </trans-unit>
       <trans-unit id="${applicationName} Ledger" xml:space="preserve">
@@ -1259,11 +1259,11 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="${applicationName} Spending" xml:space="preserve">
-        <source>${applicationName} Spending</source>
+        <source>${applicationName} Spending</source><target>${applicationName} Despesas</target>
         <note/>
       </trans-unit>
       <trans-unit id="${applicationName} Spent" xml:space="preserve">
-        <source>${applicationName} Spent</source>
+        <source>${applicationName} Spent</source><target>${applicationName} Gastos</target>
         <note/>
       </trans-unit>
     </body>
@@ -1311,7 +1311,7 @@
       </trans-unit>
       <trans-unit id="%d Entries" translate="no" xml:space="preserve">
         <source>%d Entries</source>
-        <target>%D entradas</target>
+        <target>%d Entradas</target>
         <note>No comment provided by engineer. (Key in .stringsdict)</note>
       </trans-unit>
       <trans-unit id="%lf spent" xml:space="preserve">
@@ -1329,7 +1329,7 @@
       </trans-unit>
       <trans-unit id="A new expense for %@ will be added to your ledger on %@" xml:space="preserve">
         <source>A new expense for %1$@ will be added to your ledger on %2$@</source>
-        <target>Uma nova despesa para %1 $@ será adicionada ao seu livro em %2 $@</target>
+        <target>Uma nova despesa de %1$@ será adicionada ao seu livro de registos em %2$@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Account" xml:space="preserve">
@@ -1368,7 +1368,7 @@
       </trans-unit>
       <trans-unit id="Action not found" xml:space="preserve">
         <source>Action not found</source>
-        <target>Ação não encontrada</target>
+        <target>Acção não encontrada</target>
         <note>Action not found</note>
       </trans-unit>
       <trans-unit id="Active" xml:space="preserve">
@@ -1391,7 +1391,7 @@
       </trans-unit>
       <trans-unit id="Add New Entries" xml:space="preserve">
         <source>Add New Entries</source>
-        <target>Adicione novas entradas</target>
+        <target>Adicionar novos registos</target>
         <note>Add New Entries notification title</note>
       </trans-unit>
       <trans-unit id="Add a new entry" xml:space="preserve">
@@ -1406,12 +1406,12 @@
       </trans-unit>
       <trans-unit id="Add new entries from yesterday?" xml:space="preserve">
         <source>Add new entries from yesterday?</source>
-        <target>Adicionar novas entradas de ontem?</target>
+        <target>Adicionar novos registos de ontem?</target>
         <note>Add New Entries past tense notification body</note>
       </trans-unit>
       <trans-unit id="Adding Imported Items" xml:space="preserve">
         <source>Adding Imported Items</source>
-        <target>Adicionando itens importados</target>
+        <target>Adicionar itens importados</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="After" xml:space="preserve">
@@ -1451,12 +1451,12 @@
       </trans-unit>
       <trans-unit id="An Error Occurred" xml:space="preserve">
         <source>An Error Occurred</source>
-        <target>Um erro ocorreu</target>
+        <target>Ocorreu um erro</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="An error occurred importing the entries." xml:space="preserve">
         <source>An error occurred importing the entries.</source>
-        <target>Ocorreu um erro importando as entradas.</target>
+        <target>Ocorreu um erro ao importar os registos.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="An error occurred when processing this ledger for sharing. Please try again after sometime." xml:space="preserve">
@@ -1615,7 +1615,7 @@
       </trans-unit>
       <trans-unit id="Could not save changes while quitting. Quit anyway?" xml:space="preserve">
         <source>Could not save changes while quitting. Quit anyway?</source>
-        <target>Não foi possível salvar alterações enquanto desistiu.Sair de qualquer maneira?</target>
+        <target>Não foi possível salvar as alterações ao sair. Sair mesmo assim?</target>
         <note>Quit without saves error question message</note>
       </trans-unit>
       <trans-unit id="Create" xml:space="preserve">
@@ -1659,7 +1659,7 @@
       </trans-unit>
       <trans-unit id="Daily" xml:space="preserve">
         <source>Daily</source>
-        <target>Diariamente</target>
+        <target>Diário</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Daily Notifications" xml:space="preserve">
@@ -1716,7 +1716,7 @@
       </trans-unit>
       <trans-unit id="Delete" xml:space="preserve">
         <source>Delete</source>
-        <target>Excluir</target>
+        <target>Apagar</target>
         <note>Delete
    Delete Action
    Delete context menu title
@@ -1724,23 +1724,23 @@
       </trans-unit>
       <trans-unit id="Delete %@" xml:space="preserve">
         <source>Delete %@</source>
-        <target>Excluir %@</target>
+        <target>Apagar %@</target>
         <note>Delete Account title format
    Delete Category title format</note>
       </trans-unit>
       <trans-unit id="Delete %d Accounts" xml:space="preserve">
         <source>Delete %d Accounts</source>
-        <target>Excluir %D Contas</target>
+        <target>Eliminar %d Contas</target>
         <note>Delete Multiple Accounts title format</note>
       </trans-unit>
       <trans-unit id="Delete %d Categories" xml:space="preserve">
         <source>Delete %d Categories</source>
-        <target>Exclua %D categorias</target>
+        <target>Eliminar %d Categorias</target>
         <note>Delete Multiple Categories title format</note>
       </trans-unit>
       <trans-unit id="Delete %d Entries" xml:space="preserve">
         <source>Delete %d Entries</source>
-        <target>Excluir %D entradas</target>
+        <target>Eliminar %d Entradas</target>
         <note>Delete Entries title format</note>
       </trans-unit>
       <trans-unit id="Delete Category?" xml:space="preserve">
@@ -1759,7 +1759,7 @@
       </trans-unit>
       <trans-unit id="Delete Ledger?" xml:space="preserve">
         <source>Delete Ledger?</source>
-        <target>Excluir Ledger?</target>
+        <target>Eliminar o Ledger?</target>
         <note>Delete ledger warning title</note>
       </trans-unit>
       <trans-unit id="Delete Recurring Template?" xml:space="preserve">
@@ -1774,7 +1774,7 @@
       </trans-unit>
       <trans-unit id="Delete or Merge with existing data?" xml:space="preserve">
         <source>Delete or Merge with existing data?</source>
-        <target>Excluir ou se fundir com os dados existentes?</target>
+        <target>Eliminar ou fundir com dados existentes?</target>
         <note>Existing data question message</note>
       </trans-unit>
       <trans-unit id="Delete the selected entry" xml:space="preserve">
@@ -1784,7 +1784,7 @@
       </trans-unit>
       <trans-unit id="Deleting Existing" xml:space="preserve">
         <source>Deleting Existing</source>
-        <target>Excluindo existentes</target>
+        <target>Apagar existentes</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Document scanning is not supported on this device" xml:space="preserve">
@@ -1811,7 +1811,7 @@
       </trans-unit>
       <trans-unit id="Duplicate %d Entries" xml:space="preserve">
         <source>Duplicate %d Entries</source>
-        <target>Duplicar %D entradas</target>
+        <target>Duplicar %d entradas</target>
         <note>Duplicate Entries title format</note>
       </trans-unit>
       <trans-unit id="Duplicate Entry" xml:space="preserve">
@@ -1897,12 +1897,12 @@
       </trans-unit>
       <trans-unit id="Error Deleting Share" xml:space="preserve">
         <source>Error Deleting Share</source>
-        <target>Erro excluindo compartilhamento</target>
+        <target>Erro ao eliminar partilha</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Error Importing Entries" xml:space="preserve">
         <source>Error Importing Entries</source>
-        <target>Erro a importação de entradas</target>
+        <target>Erro ao importar entradas</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Error Preparing Logs" xml:space="preserve">
@@ -1926,7 +1926,7 @@
       </trans-unit>
       <trans-unit id="Expense" xml:space="preserve">
         <source>Expense</source>
-        <target>Despesa</target>
+        <target>Despesas</target>
         <note>Expense</note>
       </trans-unit>
       <trans-unit id="Expenses" xml:space="preserve">
@@ -1962,7 +1962,7 @@
       </trans-unit>
       <trans-unit id="Failed to create export directory" xml:space="preserve">
         <source>Failed to create export directory</source>
-        <target>Falha ao criar diretório de exportação</target>
+        <target>Falha na criação do directório de exportação</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Family" xml:space="preserve">
@@ -1979,12 +1979,12 @@
       </trans-unit>
       <trans-unit id="From %@" xml:space="preserve">
         <source>From %@</source>
-        <target>A partir de %@</target>
+        <target>De %@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="From %@ to %@" xml:space="preserve">
         <source>From %1$@ to %2$@</source>
-        <target>De %1 $@ a %2 $@</target>
+        <target>De %1$@ a %2$@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="From Account" xml:space="preserve">
@@ -2077,7 +2077,7 @@
       </trans-unit>
       <trans-unit id="Income" xml:space="preserve">
         <source>Income</source>
-        <target>Renda</target>
+        <target>Rendimento</target>
         <note>Income</note>
       </trans-unit>
       <trans-unit id="Incomplete or Invalid Location" xml:space="preserve">
@@ -2175,7 +2175,7 @@
       </trans-unit>
       <trans-unit id="Invalid data or the data is in an invalid format." xml:space="preserve">
         <source>Invalid data or the data is in an invalid format.</source>
-        <target>Dados inválidos ou dados estão em um formato inválido.</target>
+        <target>Dados inválidos ou os dados estão num formato inválido.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Invalid or no color selected. Please select a valid color for the category." xml:space="preserve">
@@ -2194,7 +2194,7 @@
       </trans-unit>
       <trans-unit id="Later today" xml:space="preserve">
         <source>Later today</source>
-        <target>Hoje mais tarde</target>
+        <target>Mais tarde hoje</target>
         <note>Later today recurring subtitle</note>
       </trans-unit>
       <trans-unit id="Latest Status" xml:space="preserve">
@@ -2258,7 +2258,7 @@
       </trans-unit>
       <trans-unit id="Merging entries from %@" xml:space="preserve">
         <source>Merging entries from %@</source>
-        <target>Fusão de entradas de %@</target>
+        <target>Fundir entradas de %@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Minimum Expense" xml:space="preserve">
@@ -2272,7 +2272,7 @@
       </trans-unit>
       <trans-unit id="Monthly" xml:space="preserve">
         <source>Monthly</source>
-        <target>Por mês</target>
+        <target>Mês</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Months" xml:space="preserve">
@@ -2426,7 +2426,7 @@
       </trans-unit>
       <trans-unit id="No accounts were found in this export." xml:space="preserve">
         <source>No accounts were found in this export.</source>
-        <target>Nenhuma conta foi encontrada nesta exportação.</target>
+        <target>Não foram encontradas contas nesta exportação.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No backups exist at the moment. The first backup will be ready once you have at least one entry in any of ledgers." xml:space="preserve">
@@ -2435,7 +2435,7 @@
       </trans-unit>
       <trans-unit id="No categories were found in this export." xml:space="preserve">
         <source>No categories were found in this export.</source>
-        <target>Nenhuma categoria foi encontrada nesta exportação.</target>
+        <target>Não foram encontradas categorias nesta exportação.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No data to display" xml:space="preserve">
@@ -2444,7 +2444,7 @@
       </trans-unit>
       <trans-unit id="No entries were found in this export." xml:space="preserve">
         <source>No entries were found in this export.</source>
-        <target>Nenhuma entrada foi encontrada nesta exportação.</target>
+        <target>Não foram encontradas entradas nesta exportação.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No entries%@ for the interval of %@" xml:space="preserve">
@@ -2511,7 +2511,7 @@
       </trans-unit>
       <trans-unit id="Please contact the developer at support@pockity.app with a screenshot of this error." xml:space="preserve">
         <source>Please contact the developer at support@pockity.app with a screenshot of this error.</source>
-        <target>Entre em contato com o desenvolvedor em support@pockity.app com uma captura de tela deste erro.</target>
+        <target>Contacte o programador em support@pockity.app com uma captura de ecrã deste erro.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Please create an account before creating an entry" xml:space="preserve">
@@ -2561,12 +2561,12 @@
       </trans-unit>
       <trans-unit id="Please select an account to transfer from." xml:space="preserve">
         <source>Please select an account to transfer from.</source>
-        <target>Selecione uma conta para transferir.</target>
+        <target>Seleccione uma conta da qual transferir.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Please select an account to transfer to." xml:space="preserve">
         <source>Please select an account to transfer to.</source>
-        <target>Selecione uma conta para transferir.</target>
+        <target>Seleccione uma conta para a qual transferir.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Pockity" xml:space="preserve">
@@ -2631,7 +2631,7 @@
       </trans-unit>
       <trans-unit id="Purchasing..." xml:space="preserve">
         <source>Purchasing...</source>
-        <target>Comprando ...</target>
+        <target>Comprando...</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Quarter" xml:space="preserve">
@@ -2641,12 +2641,12 @@
       </trans-unit>
       <trans-unit id="Quit anyway" xml:space="preserve">
         <source>Quit anyway</source>
-        <target>Pare de qualquer maneira</target>
+        <target>Sair de qualquer maneira</target>
         <note>Quit anyway button title</note>
       </trans-unit>
       <trans-unit id="Quitting now will lose any changes you have made since the last successful save" xml:space="preserve">
         <source>Quitting now will lose any changes you have made since the last successful save</source>
-        <target>Parar agora perderá as alterações que você fez desde o último salvamento bem -sucedido</target>
+        <target>Ao sair agora, perderá todas as alterações efectuadas desde a última gravação bem sucedida</target>
         <note>Quit without saves error question info</note>
       </trans-unit>
       <trans-unit id="Receive daily notifications at the specified time as a reminder to add entries from the previous day or today" xml:space="preserve">
@@ -2671,7 +2671,7 @@
       </trans-unit>
       <trans-unit id="Recurring expense due tomorrow" xml:space="preserve">
         <source>Recurring expense due tomorrow</source>
-        <target>Despesas recorrentes que devem ser lançadas amanhã</target>
+        <target>Despesa recorrente com vencimento amanhã</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Reimburse" xml:space="preserve">
@@ -2701,7 +2701,7 @@
       </trans-unit>
       <trans-unit id="Repeat" xml:space="preserve">
         <source>Repeat</source>
-        <target>Repita</target>
+        <target>Repetir</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Repeat Entry" xml:space="preserve">
@@ -2738,7 +2738,7 @@
       </trans-unit>
       <trans-unit id="Restoring..." xml:space="preserve">
         <source>Restoring...</source>
-        <target>Restaurando ...</target>
+        <target>Restaurar...</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Scan Receipt" xml:space="preserve">
@@ -2888,7 +2888,7 @@
       </trans-unit>
       <trans-unit id="Table" xml:space="preserve">
         <source>Table</source>
-        <target>Mesa</target>
+        <target>Tabela</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Tap to view past transactions" xml:space="preserve">
@@ -2905,12 +2905,12 @@
       </trans-unit>
       <trans-unit id="Thank you for the generous tip, I really appreciate it." xml:space="preserve">
         <source>Thank you for the generous tip, I really appreciate it.</source>
-        <target>Obrigado pela dica generosa, eu realmente aprecio isso.</target>
+        <target>Obrigado pela generosa dica, agradeço imenso.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Thank you for the generous tip, I really appreciate your continued support for me and the app." xml:space="preserve">
         <source>Thank you for the generous tip, I really appreciate your continued support for me and the app.</source>
-        <target>Obrigado pela dica generosa, eu realmente aprecio seu apoio contínuo a mim e ao aplicativo.</target>
+        <target>Obrigado pela generosa gorjeta, agradeço imenso o seu apoio contínuo a mim e à aplicação.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The Account's number (last four digits) are used throughout the app to mark entries." xml:space="preserve">
@@ -2987,7 +2987,7 @@
       </trans-unit>
       <trans-unit id="This information is directly saved on your device. It is never trasmitted to another entity with your explicit action." xml:space="preserve">
         <source>This information is directly saved on your device. It is never trasmitted to another entity with your explicit action.</source>
-        <target>Esta informação é salva diretamente no seu dispositivo.Nunca é transmitido para outra entidade com sua ação explícita.</target>
+        <target>Esta informação é guardada directamente no seu dispositivo. Nunca é transmitida a outra entidade sem a sua acção explícita.</target>
         <note>Private information disclaimer</note>
       </trans-unit>
       <trans-unit id="This name will be used when participating in shared ledgers." xml:space="preserve">
@@ -3067,12 +3067,12 @@
       </trans-unit>
       <trans-unit id="Transfer from" xml:space="preserve">
         <source>Transfer from</source>
-        <target>Transferir de</target>
+        <target>Transferência de</target>
         <note>Transfer from Action</note>
       </trans-unit>
       <trans-unit id="Transfer to" xml:space="preserve">
         <source>Transfer to</source>
-        <target>Transferir para</target>
+        <target>Transferência para</target>
         <note>Transfer to Action</note>
       </trans-unit>
       <trans-unit id="Transferred to %@" xml:space="preserve">
@@ -3125,7 +3125,7 @@
       </trans-unit>
       <trans-unit id="Weekly" xml:space="preserve">
         <source>Weekly</source>
-        <target>Semanalmente</target>
+        <target>Semanal</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Weeks" xml:space="preserve">
@@ -3187,7 +3187,7 @@
       </trans-unit>
       <trans-unit id="You can try this action again. If it continues to fail, please report the error to support@pockity.app" xml:space="preserve">
         <source>You can try this action again. If it continues to fail, please report the error to support@pockity.app</source>
-        <target>Você pode tentar esta ação novamente.Se continuar falhando, relate o erro para support@pockity.app</target>
+        <target>Pode tentar esta acção novamente. Se continuar a falhar, comunique o erro a support@pockity.app</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="You cannot use the word &quot;Primary&quot; for the ledger. This is a reserved key." xml:space="preserve">
@@ -3232,7 +3232,7 @@
       </trans-unit>
       <trans-unit id="last" xml:space="preserve">
         <source>last</source>
-        <target>durar</target>
+        <target>último</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="value" xml:space="preserve">
@@ -3263,12 +3263,12 @@
       </trans-unit>
       <trans-unit id="/%d Entries:dict/entries:dict/other:dict/:string" xml:space="preserve">
         <source>%d Entries</source>
-        <target>%d Entries</target>
+        <target>%d Entradas</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="/%d Entries:dict/entries:dict/zero:dict/:string" xml:space="preserve">
         <source>No Entries</source>
-        <target>No Entries</target>
+        <target>Sem entradas</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
     </body>
@@ -3280,7 +3280,7 @@
     <body>
       <trans-unit id="4WTG5p" xml:space="preserve">
         <source>Categories</source>
-        <target>Categories</target>
+        <target>Categorias</target>
         <note/>
       </trans-unit>
       <trans-unit id="5sdUo7" xml:space="preserve">
@@ -3305,7 +3305,7 @@
       </trans-unit>
       <trans-unit id="GDlrol" xml:space="preserve">
         <source>Expense</source>
-        <target>Expense</target>
+        <target>Despesas</target>
         <note/>
       </trans-unit>
       <trans-unit id="PnDFuS" xml:space="preserve">
@@ -3330,7 +3330,7 @@
       </trans-unit>
       <trans-unit id="gwixeU" xml:space="preserve">
         <source>Category</source>
-        <target>Category</target>
+        <target>Categoria</target>
         <note/>
       </trans-unit>
       <trans-unit id="h22dqt" xml:space="preserve">
@@ -3360,7 +3360,7 @@
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
-        <source>WidgetIntents</source>
+        <source>WidgetIntents</source><target>WidgetIntents</target>
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
