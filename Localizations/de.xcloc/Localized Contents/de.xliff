@@ -175,12 +175,12 @@
       </trans-unit>
       <trans-unit id="Budget" xml:space="preserve">
         <source>Budget</source>
-        <target>Haushalt</target>
+        <target>das Budget</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Budgets" xml:space="preserve">
         <source>Budgets</source>
-        <target>Budgets</target>
+        <target>die Budgets</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Earned" xml:space="preserve">
@@ -200,7 +200,7 @@
       </trans-unit>
       <trans-unit id="Long press the widget and edit it to select a Ledger" xml:space="preserve">
         <source>Touch and hold the widget and edit it to select a Ledger</source>
-        <target>Berühren und halten Sie das Widget und bearbeiten Sie es, um ein Ledger auszuwählen</target>
+        <target>Berühren und halten Sie das Widget und bearbeiten Sie es, um ein Hauptbuch auszuwählen.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No data to display" xml:space="preserve">
@@ -214,7 +214,7 @@
       </trans-unit>
       <trans-unit id="Please select a Ledger" xml:space="preserve">
         <source>Please select a Ledger</source>
-        <target>Bitte wählen Sie ein Ledger</target>
+        <target>Bitte wählen Sie ein Hauptbuch</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Please select a category to display in this widget" xml:space="preserve">
@@ -232,7 +232,7 @@
       </trans-unit>
       <trans-unit id="Remaining" xml:space="preserve">
         <source>Remaining</source>
-        <target>Verbleibende</target>
+        <target>restlich</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Spent" xml:space="preserve">
@@ -257,7 +257,7 @@
       </trans-unit>
       <trans-unit id="View expenses and income for the current month" xml:space="preserve">
         <source>View expenses and income for the current month</source>
-        <target>Ausgaben und Einnahmen für den laufenden Monat anzeigen</target>
+        <target>Ausgaben und Einnahmen für den aktuellen Monat anzeigen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="View expenses and income for the current week" xml:space="preserve">
@@ -267,7 +267,7 @@
       </trans-unit>
       <trans-unit id="View expenses and income for the current week and month" xml:space="preserve">
         <source>View expenses and income for the current week and month</source>
-        <target>Ausgaben und Einnahmen für die aktuelle Woche und den aktuellen Monat anzeigen</target>
+        <target>Anzeigen der Ausgaben und Einnahmen für die aktuelle Woche und den aktuellen Monat</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="View your Budgets" xml:space="preserve">
@@ -305,7 +305,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%lf spent" xml:space="preserve">
-        <source>%lf spent</source><target>%lf ausgegeben</target>
+        <source>%lf spent</source><target>% falls ausgegeben</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="(year)" xml:space="preserve">
@@ -333,7 +333,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Add New Entries" xml:space="preserve">
-        <source>Add New Entries</source><target>Neue Buchungen hinzufügen</target>
+        <source>Add New Entries</source><target>Neue Einträge hinzufügen</target>
         <note>Add New Entries notification title</note>
       </trans-unit>
       <trans-unit id="Add new entries from today?" xml:space="preserve">
@@ -345,7 +345,7 @@
         <note>Add New Entries past tense notification body</note>
       </trans-unit>
       <trans-unit id="Adding Imported Items" xml:space="preserve">
-        <source>Adding Imported Items</source><target>Hinzufügen von importierten Einträgen</target>
+        <source>Adding Imported Items</source><target>Hinzufügen von importierten Artikeln</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="After" xml:space="preserve">
@@ -374,15 +374,15 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Average" xml:space="preserve">
-        <source>Average</source><target>Durchschnittlich</target>
+        <source>Average</source><target>der Durchschnitt</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Budget" xml:space="preserve">
-        <source>Budget</source><target>Haushalt</target>
+        <source>Budget</source><target>das Budget</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Budgets" xml:space="preserve">
-        <source>Budgets</source><target>Budgets</target>
+        <source>Budgets</source><target>die Budgets</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Buy %@" xml:space="preserve">
@@ -390,7 +390,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Cancel" xml:space="preserve">
-        <source>Cancel</source><target>Abbrechen</target>
+        <source>Cancel</source><target>das Abbrechen</target>
         <note>Cancel button title</note>
       </trans-unit>
       <trans-unit id="Categories" xml:space="preserve">
@@ -414,11 +414,11 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Could not save changes while quitting. Quit anyway?" xml:space="preserve">
-        <source>Could not save changes while quitting. Quit anyway?</source><target>Konnte Änderungen beim Beenden nicht speichern. Beenden Sie trotzdem?</target>
+        <source>Could not save changes while quitting. Quit anyway?</source><target>Änderungen konnten beim Beenden nicht gespeichert werden. Beenden Sie trotzdem?</target>
         <note>Quit without saves error question message</note>
       </trans-unit>
       <trans-unit id="Create repeating entries from existing entries or new templates" xml:space="preserve">
-        <source>Create repeating entries from existing entries or new templates</source><target>Wiederholende Einträge aus bestehenden Einträgen oder neuen Vorlagen erstellen</target>
+        <source>Create repeating entries from existing entries or new templates</source><target>Erstellen von Wiederholungseinträgen aus bestehenden Einträgen oder neuen Vorlagen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Daily" xml:space="preserve">
@@ -471,15 +471,15 @@
         <note>Existing data question message</note>
       </trans-unit>
       <trans-unit id="Deleting Existing" xml:space="preserve">
-        <source>Deleting Existing</source><target>Vorhandene Daten löschen</target>
+        <source>Deleting Existing</source><target>Bestehendes löschen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Deleting the ledger will also delete all entries, accounts and categories in it." xml:space="preserve">
-        <source>Deleting the ledger will also delete all entries, accounts and categories in it.</source><target>Wenn Sie das Ledger löschen, werden auch alle darin enthaltenen Einträge, Konten und Kategorien gelöscht.</target>
+        <source>Deleting the ledger will also delete all entries, accounts and categories in it.</source><target>Beim Löschen des Hauptbuchs werden auch alle darin enthaltenen Einträge, Konten und Kategorien gelöscht.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Duplicate" xml:space="preserve">
-        <source>Duplicate</source><target>Duplizieren</target>
+        <source>Duplicate</source><target>Duplikat</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Duplicate %d Entries" xml:space="preserve">
@@ -499,7 +499,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Entries" xml:space="preserve">
-        <source>Entries</source><target>Buchungen</target>
+        <source>Entries</source><target>Einträge</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Entries created by this template will not be deleted." xml:space="preserve">
@@ -559,7 +559,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Hi, I'm Nikhil" xml:space="preserve">
-        <source>Hi, I'm Nikhil</source><target>Hallo, ich bin Nikhil</target>
+        <source>Hi, I'm Nikhil</source><target>Hallo, ich heiße Nikhil</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="I appreciate the tips. This helps with the development of the app." xml:space="preserve">
@@ -599,15 +599,15 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Ledger Not Found" xml:space="preserve">
-        <source>Ledger Not Found</source><target>Ledger nicht gefunden</target>
+        <source>Ledger Not Found</source><target>Hauptbuch nicht gefunden</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Ledger Overview" xml:space="preserve">
-        <source>Ledger Overview</source><target>Ledger Übersicht</target>
+        <source>Ledger Overview</source><target>Hauptbuch Übersicht</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Ledgers" xml:space="preserve">
-        <source>Ledgers</source><target>Ledger</target>
+        <source>Ledgers</source><target>Hauptbücher</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="List" xml:space="preserve">
@@ -627,7 +627,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Minimum Expense" xml:space="preserve">
-        <source>Minimum Expense</source><target>Minimaler Aufwand</target>
+        <source>Minimum Expense</source><target>Minimale Ausgaben</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Month" xml:space="preserve">
@@ -659,15 +659,15 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="New Recurring Item" xml:space="preserve">
-        <source>New Recurring Item</source><target>Neuer wiederkehrender Eintrag</target>
+        <source>New Recurring Item</source><target>Neuer wiederkehrender Artikel</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="New Smart Filter" xml:space="preserve">
-        <source>New Smart Filter</source><target>Neuer intelligenter Filter</target>
+        <source>New Smart Filter</source><target>Neuer Smart Filter</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Next on %@" xml:space="preserve">
-        <source>Next on %@</source><target>Nächster Eintrag bei %@</target>
+        <source>Next on %@</source><target>Nächstes Datum %@</target>
         <note>Next on date recurring subtitle</note>
       </trans-unit>
       <trans-unit id="No Accounts" xml:space="preserve">
@@ -715,11 +715,11 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No ledger was found on the associated entry or its accounts." xml:space="preserve">
-        <source>No ledger was found on the associated entry or its accounts.</source><target>Es wurde kein Ledger für die zugehörige Buchung oder die zugehörigen Konten gefunden.</target>
+        <source>No ledger was found on the associated entry or its accounts.</source><target>Es wurde kein Hauptbuch für den zugehörigen Eintrag oder seine Konten gefunden.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No limits on number of ledgers, accounts and categories" xml:space="preserve">
-        <source>No limits on number of ledgers, accounts and categories</source><target>Keine Beschränkungen für die Anzahl der Ledger, Konten und Kategorien</target>
+        <source>No limits on number of ledgers, accounts and categories</source><target>Keine Begrenzung der Anzahl von Hauptbüchern, Konten und Kategorien</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="On Date" xml:space="preserve">
@@ -759,7 +759,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Preparing the ledger for sharing" xml:space="preserve">
-        <source>Preparing the ledger for sharing</source><target>Ledger für die gemeinsame Nutzung vorbereiten</target>
+        <source>Preparing the ledger for sharing</source><target>Vorbereiten des Hauptbuchs für die gemeinsame Nutzung</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Primary" xml:space="preserve">
@@ -767,7 +767,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Privacy Policy" xml:space="preserve">
-        <source>Privacy Policy</source><target>Datenschutz</target>
+        <source>Privacy Policy</source><target>Datenschutzerklärung</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Product not found" xml:space="preserve">
@@ -795,11 +795,11 @@
         <note>Quit without saves error question info</note>
       </trans-unit>
       <trans-unit id="Recurring" xml:space="preserve">
-        <source>Recurring</source><target>Wiederkehrende Ausgaben</target>
+        <source>Recurring</source><target>Wiederkehrende</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Recurring expense due tomorrow" xml:space="preserve">
-        <source>Recurring expense due tomorrow</source><target>Morgen fällige wiederkehrende Ausgabe</target>
+        <source>Recurring expense due tomorrow</source><target>Morgen fällige wiederkehrende Ausgaben</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Reimburse" xml:space="preserve">
@@ -815,7 +815,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Remaining" xml:space="preserve">
-        <source>Remaining</source><target>Verbleibende</target>
+        <source>Remaining</source><target>restlich</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Repeat" xml:space="preserve">
@@ -847,11 +847,11 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Select visible ledgers when focus is active" xml:space="preserve">
-        <source>Select visible ledgers when focus is active</source><target>Sichtbare Ledger auswählen, wenn der Fokus aktiv ist</target>
+        <source>Select visible ledgers when focus is active</source><target>Auswahl sichtbarer Hauptbücher, wenn der Fokus aktiv ist</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Share Ledger" xml:space="preserve">
-        <source>Share Ledger</source><target>Ledger teilen</target>
+        <source>Share Ledger</source><target>Hauptbuch teilen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Share Pockity+ with all members added to your family under your Apple ID." xml:space="preserve">
@@ -859,11 +859,11 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Shared Ledger" xml:space="preserve">
-        <source>Shared Ledger</source><target>Geteiltes Ledger</target>
+        <source>Shared Ledger</source><target>Gemeinsames Hauptbuch</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Show Ledger" xml:space="preserve">
-        <source>Show Ledger</source><target>Ledger anzeigen</target>
+        <source>Show Ledger</source><target>Hauptbuch anzeigen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Spent" xml:space="preserve">
@@ -875,7 +875,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Support Development" xml:space="preserve">
-        <source>Support Development</source><target>Support Entwicklung</target>
+        <source>Support Development</source><target>Entwicklung unterstützen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Table" xml:space="preserve">
@@ -899,7 +899,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The Reimbursement category was not found on this ledger." xml:space="preserve">
-        <source>The Reimbursement category was not found on this ledger.</source><target>Die Kategorie Rückerstattung wurde in diesem Buch nicht gefunden.</target>
+        <source>The Reimbursement category was not found on this ledger.</source><target>Die Kategorie Rückerstattung wurde in diesem Hauptbuch nicht gefunden.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The common group container is not accessible by this module." xml:space="preserve">
@@ -967,7 +967,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Transfer" xml:space="preserve">
-        <source>Transfer</source><target>Überweisung</target>
+        <source>Transfer</source><target>Übertragung</target>
         <note>Transfer</note>
       </trans-unit>
       <trans-unit id="Transfer from" xml:space="preserve">
@@ -975,7 +975,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Transfer to" xml:space="preserve">
-        <source>Transfer to</source><target>Überweisung an</target>
+        <source>Transfer to</source><target>Übertragung an</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Transferred to %@" xml:space="preserve">
@@ -1031,7 +1031,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="last" xml:space="preserve">
-        <source>last</source><target>zuletzt</target>
+        <source>last</source><target>letzte</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="value" xml:space="preserve">
@@ -1039,7 +1039,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="🎉 Thank you for purchasing Pockity+ and supporting its development 🎉" xml:space="preserve">
-        <source>🎉 Thank you for purchasing Pockity+ and supporting its development 🎉</source><target>🎉 Vielen Dank für den Kauf von Pockity+ und die Unterstützung seiner Entwicklung 🎉.</target>
+        <source>🎉 Thank you for purchasing Pockity+ and supporting its development 🎉</source><target>🎉 Vielen Dank, für den Kauf von Pockity+ und die Unterstützung seiner Entwicklung 🎉.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
     </body>
@@ -1114,11 +1114,11 @@
         <note>Budgets widget label for VoiceOVer</note>
       </trans-unit>
       <trans-unit id="Budget" xml:space="preserve">
-        <source>Budget</source><target>Haushalt</target>
+        <source>Budget</source><target>das Budget</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Budgets" xml:space="preserve">
-        <source>Budgets</source><target>Budgets</target>
+        <source>Budgets</source><target>die Budgets</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Earned" xml:space="preserve">
@@ -1130,7 +1130,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Long press the widget and edit it to select a Ledger" xml:space="preserve">
-        <source>Touch and hold the widget and edit it to select a Ledger</source><target>Berühren und halten Sie das Widget und bearbeiten Sie es, um ein Ledger auszuwählen</target>
+        <source>Touch and hold the widget and edit it to select a Ledger</source><target>Berühren und halten Sie das Widget und bearbeiten Sie es, um ein Hauptbuch auszuwählen.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No data to display" xml:space="preserve">
@@ -1142,7 +1142,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Please select a Ledger" xml:space="preserve">
-        <source>Please select a Ledger</source><target>Bitte wählen Sie ein Ledger</target>
+        <source>Please select a Ledger</source><target>Bitte wählen Sie ein Hauptbuch</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Please select a category to display in this widget" xml:space="preserve">
@@ -1154,7 +1154,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Remaining" xml:space="preserve">
-        <source>Remaining</source><target>Verbleibende</target>
+        <source>Remaining</source><target>restlich</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Spent" xml:space="preserve">
@@ -1174,7 +1174,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="View expenses and income for the current month" xml:space="preserve">
-        <source>View expenses and income for the current month</source><target>Ausgaben und Einnahmen für den laufenden Monat anzeigen</target>
+        <source>View expenses and income for the current month</source><target>Ausgaben und Einnahmen für den aktuellen Monat anzeigen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="View expenses and income for the current week" xml:space="preserve">
@@ -1182,7 +1182,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="View expenses and income for the current week and month" xml:space="preserve">
-        <source>View expenses and income for the current week and month</source><target>Ausgaben und Einnahmen für die aktuelle Woche und den aktuellen Monat anzeigen</target>
+        <source>View expenses and income for the current week and month</source><target>Anzeigen der Ausgaben und Einnahmen für die aktuelle Woche und den aktuellen Monat</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="View your Budgets" xml:space="preserve">
@@ -1267,22 +1267,22 @@
       </trans-unit>
       <trans-unit id="${applicationName} Ledger" xml:space="preserve">
         <source>${applicationName} Ledger</source>
-        <target>${applicationName} Ledger</target>
+        <target>${applicationName} Hauptbuch</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="${applicationName} Ledger Overview" xml:space="preserve">
         <source>${applicationName} Ledger Overview</source>
-        <target>${applicationName} Ledger Overview</target>
+        <target>${applicationName} Hauptbuch Überblick</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="${applicationName} Overview" xml:space="preserve">
         <source>${applicationName} Overview</source>
-        <target>${applicationName} Overview</target>
+        <target>${applicationName} der Überblick</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="${applicationName} Show Ledger" xml:space="preserve">
         <source>${applicationName} Show Ledger</source>
-        <target>${applicationName} Show Ledger</target>
+        <target>${applicationName} Hauptbuch anzeigen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="${applicationName} Spending" xml:space="preserve">
@@ -1318,18 +1318,18 @@
       </trans-unit>
       <trans-unit id="%@ Entries will be deleted too" xml:space="preserve">
         <source>%@ Entries will be deleted too</source>
-        <target>%@ Einträge werden ebenfalls gelöscht</target>
+        <target>%@ Die Einträge werden ebenfalls gelöscht</target>
         <note>Delete Account message format
    Delete Category message format</note>
       </trans-unit>
       <trans-unit id="%@ less than last period" xml:space="preserve">
         <source>%@ less than last period</source>
-        <target>%@ weniger als die letzte Periode</target>
+        <target>%@ weniger als im letzten Zeitraum</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@ more than last period" xml:space="preserve">
         <source>%@ more than last period</source>
-        <target>%@ mehr als die letzte Periode</target>
+        <target>%@ mehr als im letzten Zeitraum</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@%@" xml:space="preserve">
@@ -1349,7 +1349,7 @@
       </trans-unit>
       <trans-unit id="%lf spent" xml:space="preserve">
         <source>%lf spent</source>
-        <target>%lf ausgegeben</target>
+        <target>%falls ausgegeben</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="@" xml:space="preserve">
@@ -1427,12 +1427,12 @@
       </trans-unit>
       <trans-unit id="Add New Entries" xml:space="preserve">
         <source>Add New Entries</source>
-        <target>Neue Buchungen hinzufügen</target>
+        <target>Neue Einträge hinzufügen</target>
         <note>Add New Entries notification title</note>
       </trans-unit>
       <trans-unit id="Add a new entry" xml:space="preserve">
         <source>Add a new entry</source>
-        <target>Fügen Sie einen neuen Eintrag hinzu</target>
+        <target>Einen neuen Eintrag hinzufügen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Add new entries from today?" xml:space="preserve">
@@ -1447,7 +1447,7 @@
       </trans-unit>
       <trans-unit id="Adding Imported Items" xml:space="preserve">
         <source>Adding Imported Items</source>
-        <target>Hinzufügen von importierten Einträgen</target>
+        <target>Hinzufügen von importierten Artikeln</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="After" xml:space="preserve">
@@ -1456,7 +1456,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="After expense: %@" xml:space="preserve">
-        <source>After expense: %@</source><target>Nach Aufwand: %@</target>
+        <source>After expense: %@</source><target>Nach Kosten: %@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="All" xml:space="preserve">
@@ -1477,7 +1477,7 @@
       </trans-unit>
       <trans-unit id="Amount" xml:space="preserve">
         <source>Amount</source>
-        <target>Höhe</target>
+        <target>der Betrag</target>
         <note>Amount
    Amount input placeholder</note>
       </trans-unit>
@@ -1502,12 +1502,12 @@
       </trans-unit>
       <trans-unit id="An ledger name should help you easily identify the ledger. Use a short descriptive name." xml:space="preserve">
         <source>An ledger name should help you easily identify the ledger. Use a short descriptive name.</source>
-        <target>Ein Hauptnamen sollte Ihnen helfen, das Hauptbuch leicht zu identifizieren.Verwenden Sie einen kurzen beschreibenden Namen.</target>
+        <target>Ein Hauptbuchname sollte Ihnen helfen, das Hauptbuch leicht zu identifizieren.Verwenden Sie einen kurzen beschreibenden Namen.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="An unknown error occurred when preparing logs" xml:space="preserve">
         <source>An unknown error occurred when preparing logs</source>
-        <target>Bei der Herstellung von Protokollen trat ein unbekannter Fehler auf</target>
+        <target>Bei der Erstellung der Protokolle ist ein unbekannter Fehler aufgetreten.</target>
         <note>Error Preparing Logs description</note>
       </trans-unit>
       <trans-unit id="App" xml:space="preserve">
@@ -1522,7 +1522,7 @@
       </trans-unit>
       <trans-unit id="Archives include owned ledgers, accounts, categories and entries information and attachments data" xml:space="preserve">
         <source>Archives include owned ledgers, accounts, categories and entries information and attachments data</source>
-        <target>Zu den Archiven gehören Besitzerbücher, Konten, Kategorien und Einträge Informationen und Anhängedaten</target>
+        <target>Zu den Archiven gehören eigene Hauptbücher, Konten, Kategorien und Buchungsinformationen sowie Anhängedaten</target>
         <note>DATA_EXPORT_ARCHIVE</note>
       </trans-unit>
       <trans-unit id="Are you sure you want to delete the %@ category? All entries from this category will also be deleted." xml:space="preserve">
@@ -1547,7 +1547,7 @@
       </trans-unit>
       <trans-unit id="Average" xml:space="preserve">
         <source>Average</source>
-        <target>Durchschnittlich</target>
+        <target>der Durchschnitt</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Backups" xml:space="preserve">
@@ -1567,7 +1567,7 @@
       </trans-unit>
       <trans-unit id="Bank" xml:space="preserve">
         <source>Bank</source>
-        <target>Bank</target>
+        <target>die Bank</target>
         <note>Bank Name title</note>
       </trans-unit>
       <trans-unit id="Bank Name (Optional)" xml:space="preserve">
@@ -1577,7 +1577,7 @@
       </trans-unit>
       <trans-unit id="Budget" xml:space="preserve">
         <source>Budget</source>
-        <target>Haushalt</target>
+        <target>das Budget</target>
         <note>Budget title</note>
       </trans-unit>
       <trans-unit id="Budget Amount" xml:space="preserve">
@@ -1587,17 +1587,17 @@
       </trans-unit>
       <trans-unit id="Budgets" xml:space="preserve">
         <source>Budgets</source>
-        <target>Budgets</target>
+        <target>die Budgets</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="CSV Exports are date range limited" xml:space="preserve">
         <source>CSV Exports are date range limited</source>
-        <target>CSV -Exporte sind die Datumsbereich begrenzt</target>
+        <target>CSV-Exporte sind auf einen Datumsbereich beschränkt</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Cancel" xml:space="preserve">
         <source>Cancel</source>
-        <target>Abbrechen</target>
+        <target>das Abbrechen</target>
         <note>Cancel
    Cancel button title
    Cancel context menu title</note>
@@ -1663,7 +1663,7 @@
       </trans-unit>
       <trans-unit id="Could not save changes while quitting. Quit anyway?" xml:space="preserve">
         <source>Could not save changes while quitting. Quit anyway?</source>
-        <target>Konnte Änderungen beim Beenden nicht speichern. Beenden Sie trotzdem?</target>
+        <target>Änderungen konnten beim Beenden nicht gespeichert werden. Beenden Sie trotzdem?</target>
         <note>Quit without saves error question message</note>
       </trans-unit>
       <trans-unit id="Create" xml:space="preserve">
@@ -1673,7 +1673,7 @@
       </trans-unit>
       <trans-unit id="Create Account" xml:space="preserve">
         <source>Create Account</source>
-        <target>Benutzerkonto erstellen</target>
+        <target>Konto erstellen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Create Entry" xml:space="preserve">
@@ -1698,7 +1698,7 @@
       </trans-unit>
       <trans-unit id="Create repeating entries from existing entries or new templates" xml:space="preserve">
         <source>Create repeating entries from existing entries or new templates</source>
-        <target>Wiederholende Einträge aus bestehenden Einträgen oder neuen Vorlagen erstellen</target>
+        <target>Erstellen von Wiederholungseinträgen aus bestehenden Einträgen oder neuen Vorlagen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Currency" xml:space="preserve">
@@ -1837,7 +1837,7 @@
       </trans-unit>
       <trans-unit id="Deleting Existing" xml:space="preserve">
         <source>Deleting Existing</source>
-        <target>Vorhandene Daten löschen</target>
+        <target>Bestehendes löschen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Document scanning is not supported on this device" xml:space="preserve">
@@ -1861,7 +1861,7 @@
       </trans-unit>
       <trans-unit id="Duplicate" xml:space="preserve">
         <source>Duplicate</source>
-        <target>Duplizieren</target>
+        <target>Duplikat</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Duplicate %d Entries" xml:space="preserve">
@@ -1912,7 +1912,7 @@
         <note>Edit Entry</note>
       </trans-unit>
       <trans-unit id="Edit Ledger" xml:space="preserve">
-        <source>Edit Ledger</source><target>Ledger bearbeiten</target>
+        <source>Edit Ledger</source><target>Hauptbuch bearbeiten</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Edit Template" xml:space="preserve">
@@ -1947,7 +1947,7 @@
       </trans-unit>
       <trans-unit id="Entries" xml:space="preserve">
         <source>Entries</source>
-        <target>Buchungen</target>
+        <target>Einträge</target>
         <note>Entries</note>
       </trans-unit>
       <trans-unit id="Error Creating Entry" xml:space="preserve">
@@ -2001,7 +2001,7 @@
       </trans-unit>
       <trans-unit id="Export Archive" xml:space="preserve">
         <source>Export Archive</source>
-        <target>Exportarchiv</target>
+        <target>Archiv exportieren</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Export CSV" xml:space="preserve">
@@ -2011,7 +2011,7 @@
       </trans-unit>
       <trans-unit id="Export Entries" xml:space="preserve">
         <source>Export Entries</source>
-        <target>Exporteinträge</target>
+        <target>Einträge exportieren</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="FAQ" xml:space="preserve">
@@ -2090,7 +2090,7 @@
       </trans-unit>
       <trans-unit id="Hi, I'm Nikhil" xml:space="preserve">
         <source>Hi, I'm Nikhil</source>
-        <target>Hallo, ich bin Nikhil</target>
+        <target>Hallo, ich heiße Nikhil</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="High Level" xml:space="preserve">
@@ -2104,7 +2104,7 @@
       </trans-unit>
       <trans-unit id="If you want to mark a location, please ensure the location is atleast 3 letters." xml:space="preserve">
         <source>If you want to mark a location, please ensure the location is atleast 3 letters.</source>
-        <target>Wenn Sie einen Standort markieren möchten, stellen Sie bitte sicher, dass der Standort mindestens 3 Buchstaben beträgt.</target>
+        <target>Wenn Sie einen Ort markieren möchten, achten Sie bitte darauf, dass der Ort aus mindestens 3 Buchstaben besteht.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Import" xml:space="preserve">
@@ -2114,12 +2114,12 @@
       </trans-unit>
       <trans-unit id="Import Archive" xml:space="preserve">
         <source>Import Archive</source>
-        <target>Importarchiv</target>
+        <target>Archiv importieren</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Import Entries" xml:space="preserve">
         <source>Import Entries</source>
-        <target>Einfuhreinträge</target>
+        <target>Einträge importieren</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Import/Export" xml:space="preserve">
@@ -2183,7 +2183,7 @@
       </trans-unit>
       <trans-unit id="Invalid Amount" xml:space="preserve">
         <source>Invalid Amount</source>
-        <target>Ungültige Menge</target>
+        <target>Ungültiger Betrag</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Invalid Category Selected" xml:space="preserve">
@@ -2208,7 +2208,7 @@
       </trans-unit>
       <trans-unit id="Invalid Ledger" xml:space="preserve">
         <source>Invalid Ledger</source>
-        <target>Ungültiges Ledger</target>
+        <target>Ungültiges Hauptbuch</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Invalid Ledger Currency" xml:space="preserve">
@@ -2223,7 +2223,7 @@
       </trans-unit>
       <trans-unit id="Invalid Ledger Title" xml:space="preserve">
         <source>Invalid Ledger Title</source>
-        <target>Ungültiger Ledger -Titel</target>
+        <target>Ungültiger Hauptbuch -Titel</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Invalid Name" xml:space="preserve">
@@ -2278,17 +2278,17 @@
       </trans-unit>
       <trans-unit id="Ledger Not Found" xml:space="preserve">
         <source>Ledger Not Found</source>
-        <target>Ledger nicht gefunden</target>
+        <target>Hauptbuch nicht gefunden</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Ledger Overview" xml:space="preserve">
         <source>Ledger Overview</source>
-        <target>Ledger Übersicht</target>
+        <target>Hauptbuch Übersicht</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Ledgers" xml:space="preserve">
         <source>Ledgers</source>
-        <target>Ledger</target>
+        <target>Hauptbücher</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="List" xml:space="preserve">
@@ -2308,7 +2308,7 @@
       </trans-unit>
       <trans-unit id="Long press the widget and edit it to select a Ledger" xml:space="preserve">
         <source>Touch and hold the widget and edit it to select a Ledger</source>
-        <target>Berühren und halten Sie das Widget und bearbeiten Sie es, um ein Ledger auszuwählen</target>
+        <target>Berühren und halten Sie das Widget und bearbeiten Sie es, um ein Hauptbuch auszuwählen.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Manage Participation" xml:space="preserve">
@@ -2336,7 +2336,7 @@
       </trans-unit>
       <trans-unit id="Minimum Expense" xml:space="preserve">
         <source>Minimum Expense</source>
-        <target>Minimaler Aufwand</target>
+        <target>Minimale Ausgaben</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Month" xml:space="preserve">
@@ -2404,17 +2404,17 @@
       </trans-unit>
       <trans-unit id="New Ledger" xml:space="preserve">
         <source>New Ledger</source>
-        <target>Neues Ledger</target>
+        <target>Neues Hauptbuch</target>
         <note>New Ledger context menu title</note>
       </trans-unit>
       <trans-unit id="New Repeating Entry" xml:space="preserve">
         <source>New Repeating Entry</source>
-        <target>Neue wiederkehrende Buchung</target>
+        <target>Neuer wiederholter Eintrag</target>
         <note>New Repeating Entry</note>
       </trans-unit>
       <trans-unit id="New Smart Filter" xml:space="preserve">
         <source>New Smart Filter</source>
-        <target>Neuer intelligenter Filter</target>
+        <target>Neuer Smart Filter</target>
         <note>Alert controller title for creating new smart filter</note>
       </trans-unit>
       <trans-unit id="New Template: %@" xml:space="preserve">
@@ -2428,17 +2428,17 @@
         <note>Next Ledger</note>
       </trans-unit>
       <trans-unit id="Next on" xml:space="preserve">
-        <source>Next on</source><target>Weiter bei</target>
+        <source>Next on</source><target>Nächstes Datum</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Next on %@" xml:space="preserve">
         <source>Next on %@</source>
-        <target>Nächster Eintrag bei %@</target>
+        <target>Nächstes Datum %@</target>
         <note>Next on %@ recurring subtitle</note>
       </trans-unit>
       <trans-unit id="Next on: %@" xml:space="preserve">
         <source>Next on: %@</source>
-        <target>Weiter auf: %@</target>
+        <target>Nächstes Datum %@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No Account Selected" xml:space="preserve">
@@ -2496,7 +2496,7 @@
       </trans-unit>
       <trans-unit id="No Reverse Account Selected" xml:space="preserve">
         <source>No Reverse Account Selected</source>
-        <target>Kein umgekehrtes Konto ausgewählt</target>
+        <target>Kein Reverse-Konto ausgewählt</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No Stroke" xml:space="preserve">
@@ -2510,7 +2510,7 @@
       </trans-unit>
       <trans-unit id="No backups exist at the moment. The first backup will be ready once you have at least one entry in any of ledgers." xml:space="preserve">
         <source>No backups exist at the moment. The first backup will be ready once you have at least one entry in any of ledgers.</source>
-        <target>Im Moment gibt es noch keine Sicherungen. Das erste Backup wird erstellt, sobald Sie mindestens einen Eintrag in einem der Ledger haben.</target>
+        <target>Im Moment gibt es noch keine Backups. Die erste Sicherungskopie wird erstellt, sobald Sie mindestens einen Eintrag in einem der Hauptbücher haben.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No categories were found in this export." xml:space="preserve">
@@ -2534,12 +2534,12 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No ledger was found on the associated entry or its accounts." xml:space="preserve">
-        <source>No ledger was found on the associated entry or its accounts.</source><target>Es wurde kein Ledger für die zugehörige Buchung oder die zugehörigen Konten gefunden.</target>
+        <source>No ledger was found on the associated entry or its accounts.</source><target>Es wurde kein Hauptbuch für den zugehörigen Eintrag oder seine Konten gefunden.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No limits on number of ledgers, accounts and categories" xml:space="preserve">
         <source>No limits on number of ledgers, accounts and categories</source>
-        <target>Keine Beschränkungen für die Anzahl der Ledger, Konten und Kategorien</target>
+        <target>Keine Begrenzung der Anzahl von Hauptbüchern, Konten und Kategorien</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No matching transactions found" xml:space="preserve">
@@ -2572,7 +2572,7 @@
       </trans-unit>
       <trans-unit id="Opens the scanner to scan a receipt for creating an entry" xml:space="preserve">
         <source>Opens the scanner to scan a receipt for creating an entry</source>
-        <target>Öffnet den Scanner, um einen Beleg zu scannen und eine Buchung zu erstellen</target>
+        <target>Öffnet den Scanner, um einen Beleg für die Erstellung eines Eintrags zu scannen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Optional" xml:space="preserve">
@@ -2582,12 +2582,12 @@
       </trans-unit>
       <trans-unit id="Overbudget" xml:space="preserve">
         <source>Overbudget</source>
-        <target>Zu teuer</target>
+        <target>Überschreitung des Budgets</target>
         <note>Most spent ledger detail title</note>
       </trans-unit>
       <trans-unit id="Overbudget by %@" xml:space="preserve">
         <source>Overbudget by %@</source>
-        <target>Overbudget von %@</target>
+        <target>Überschreitung des Budgets um %@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Personal" xml:space="preserve">
@@ -2606,7 +2606,7 @@
       </trans-unit>
       <trans-unit id="Please enter a non-zero amount. Amounts cannot be negative." xml:space="preserve">
         <source>Please enter a non-zero amount. Amounts cannot be negative.</source>
-        <target>Bitte geben Sie eine Menge ungleich Null ein.Beträge können nicht negativ sein.</target>
+        <target>Bitte geben Sie einen Betrag ein, der nicht Null ist. Beträge können nicht negativ sein.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Please enter a valid transfer amount." xml:space="preserve">
@@ -2616,7 +2616,7 @@
       </trans-unit>
       <trans-unit id="Please select a Ledger" xml:space="preserve">
         <source>Please select a Ledger</source>
-        <target>Bitte wählen Sie ein Ledger</target>
+        <target>Bitte wählen Sie ein Hauptbuch</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Please select a category to add this entry to." xml:space="preserve">
@@ -2626,17 +2626,17 @@
       </trans-unit>
       <trans-unit id="Please select a ledger for this category." xml:space="preserve">
         <source>Please select a ledger for this category.</source>
-        <target>Bitte wählen Sie ein Ledger für diese Kategorie.</target>
+        <target>Bitte wählen Sie ein Hauptbuch für diese Kategorie.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Please select a ledger for this entry" xml:space="preserve">
         <source>Please select a ledger for this entry</source>
-        <target>Bitte wählen Sie ein Ledger für diesen Eintrag aus</target>
+        <target>Bitte wählen Sie ein Hauptbuch für diese Kategorie.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Please select a ledger to add this entry to." xml:space="preserve">
         <source>Please select a ledger to add this entry to.</source>
-        <target>Bitte wählen Sie ein Ledger aus, um diesen Eintrag hinzuzufügen.</target>
+        <target>Bitte wählen Sie ein Hauptbuch aus, dem dieser Eintrag hinzugefügt werden soll.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Please select an account to attach this entry to." xml:space="preserve">
@@ -2677,11 +2677,11 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Preparing the ledger for sharing" xml:space="preserve">
-        <source>Preparing the ledger for sharing</source><target>Ledger für die gemeinsame Nutzung vorbereiten</target>
+        <source>Preparing the ledger for sharing</source><target>Vorbereiten des Hauptbuchs für die gemeinsame Nutzung</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Preparing to add shared ledger" xml:space="preserve">
-        <source>Preparing to add shared ledger</source><target>Vorbereitung für das Hinzufügen eines gemeinsamen Ledgers</target>
+        <source>Preparing to add shared ledger</source><target>Vorbereitung des Hinzufügens eines gemeinsamen Hauptbuchs</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Previous Ledger" xml:space="preserve">
@@ -2695,12 +2695,12 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Privacy Policy" xml:space="preserve">
-        <source>Privacy Policy</source><target>Datenschutz</target>
+        <source>Privacy Policy</source><target>Datenschutzerklärung</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Processing..." xml:space="preserve">
         <source>Processing...</source>
-        <target>Wird bearbeitet...</target>
+        <target>Verarbeitung...</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Product not found" xml:space="preserve">
@@ -2739,12 +2739,12 @@
       </trans-unit>
       <trans-unit id="Receive daily notifications at the specified time as a reminder to add entries from the previous day or today" xml:space="preserve">
         <source>Receive daily notifications at the specified time as a reminder to add entries from the previous day or today</source>
-        <target>Erhalten Sie tägliche Benachrichtigungen zum bestimmten Zeitpunkt als Erinnerung, um Einträge aus dem Vortag oder heute hinzuzufügen</target>
+        <target>Erhalten Sie tägliche Benachrichtigungen zur angegebenen Uhrzeit als Erinnerung, Einträge vom Vortag oder heute hinzuzufügen</target>
         <note>Daily Notifications Subtitle</note>
       </trans-unit>
       <trans-unit id="Receive reminders a day before a subscription is due" xml:space="preserve">
         <source>Receive reminders a day before a subscription is due</source>
-        <target>Erinnern Sie Erinnerungen einen Tag vor einem Abonnement</target>
+        <target>Erhalten Sie einen Tag vor Fälligkeit eines Abonnements eine Erinnerung</target>
         <note>Subscription Reminders Subtitle</note>
       </trans-unit>
       <trans-unit id="Recent Filters" xml:space="preserve">
@@ -2754,12 +2754,12 @@
       </trans-unit>
       <trans-unit id="Recurring" xml:space="preserve">
         <source>Recurring</source>
-        <target>Wiederkehrende Ausgaben</target>
+        <target>Wiederkehrende</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Recurring expense due tomorrow" xml:space="preserve">
         <source>Recurring expense due tomorrow</source>
-        <target>Morgen fällige wiederkehrende Ausgabe</target>
+        <target>Morgen fällige wiederkehrende Ausgaben</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Reimburse" xml:space="preserve">
@@ -2780,12 +2780,12 @@
       </trans-unit>
       <trans-unit id="Remaining" xml:space="preserve">
         <source>Remaining</source>
-        <target>Verbleibende</target>
+        <target>restlich</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Remember Last Used" xml:space="preserve">
         <source>Remember Last Used</source>
-        <target>Denken Sie daran, zuletzt gebraucht zu haben</target>
+        <target>Erinnern Sie zuletzt verwendet</target>
         <note>Remember Last Used title</note>
       </trans-unit>
       <trans-unit id="Repeat" xml:space="preserve">
@@ -2795,7 +2795,7 @@
       </trans-unit>
       <trans-unit id="Repeat Entry" xml:space="preserve">
         <source>Repeat Entry</source>
-        <target>Eintritt wiederholen</target>
+        <target>Eintrag wiederholen</target>
         <note>Repeat Entry</note>
       </trans-unit>
       <trans-unit id="Repeat the selected entry" xml:space="preserve">
@@ -2835,17 +2835,17 @@
       </trans-unit>
       <trans-unit id="Scan Receipt" xml:space="preserve">
         <source>Scan Receipt</source>
-        <target>Scan -Quittung</target>
+        <target>Beleg scannen</target>
         <note>Scan Receipt title</note>
       </trans-unit>
       <trans-unit id="Search Accounts" xml:space="preserve">
         <source>Search Accounts</source>
-        <target>Suchkonten</target>
+        <target>Konten suchen</target>
         <note>Search Accounts</note>
       </trans-unit>
       <trans-unit id="Search Categories" xml:space="preserve">
         <source>Search Categories</source>
-        <target>Suchkategorien</target>
+        <target>Kategorien suchen</target>
         <note>Search Categories</note>
       </trans-unit>
       <trans-unit id="Search Currency" xml:space="preserve">
@@ -2855,7 +2855,7 @@
       </trans-unit>
       <trans-unit id="Search Entries" xml:space="preserve">
         <source>Search Entries</source>
-        <target>Suche nach Einträgen</target>
+        <target>Einträge suchen</target>
         <note>Search Entries</note>
       </trans-unit>
       <trans-unit id="Search Nearby" xml:space="preserve">
@@ -2864,7 +2864,7 @@
         <note>Search Nearby local search subtitle</note>
       </trans-unit>
       <trans-unit id="Search Recurring" xml:space="preserve">
-        <source>Search Recurring</source><target>Wiederkehrende Suche</target>
+        <source>Search Recurring</source><target>Wiederkehrende Suchen</target>
         <note>Search Recurring</note>
       </trans-unit>
       <trans-unit id="Select Amount" xml:space="preserve">
@@ -2895,12 +2895,12 @@
       </trans-unit>
       <trans-unit id="Select visible ledgers when focus is active" xml:space="preserve">
         <source>Select visible ledgers when focus is active</source>
-        <target>Sichtbare Ledger auswählen, wenn der Fokus aktiv ist</target>
+        <target>Auswahl sichtbarer Hauptbücher, wenn der Fokus aktiv ist</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Selected account does not belong to this ledger." xml:space="preserve">
         <source>Selected account does not belong to this ledger.</source>
-        <target>Ausgewählter Konto gehört nicht zu diesem Hauptbuch.</target>
+        <target>Ausgewählte Konto gehört nicht zu diesem Hauptbuch.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Selected category does not belong to this ledger." xml:space="preserve">
@@ -2934,21 +2934,21 @@
       </trans-unit>
       <trans-unit id="Show Ledger" xml:space="preserve">
         <source>Show Ledger</source>
-        <target>Ledger anzeigen</target>
+        <target>Hauptbuch anzeigen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Show Total" xml:space="preserve">
-        <source>Show Total</source><target>Zeige Gesamt</target>
+        <source>Show Total</source><target>Gesamt anzeigen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Simple Budgeting &amp; Expense Tracker" xml:space="preserve">
         <source>Simple Budgeting &amp; Expense Tracker</source>
-        <target>Einfache Budgetierung und Kosten -Tracker</target>
+        <target>Einfache Budgetierung und Ausgabentracker</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Something went wrong. Please perform the action again." xml:space="preserve">
         <source>Something went wrong. Please perform the action again.</source>
-        <target>Es ist ein Fehler aufgetreten. Bitte führen Sie die Aktion erneut aus.</target>
+        <target>Ein Fehler ist aufgetreten. Bitte führen Sie die Aktion erneut durch.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Sounds Enabled" xml:space="preserve">
@@ -2987,7 +2987,7 @@
       </trans-unit>
       <trans-unit id="Support Development" xml:space="preserve">
         <source>Support Development</source>
-        <target>Support Entwicklung</target>
+        <target>Entwicklung unterstützen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Table" xml:space="preserve">
@@ -3025,16 +3025,16 @@
       </trans-unit>
       <trans-unit id="The Ledger's title is used in dropdowns throughout the app." xml:space="preserve">
         <source>The Ledger's title is used in dropdowns throughout the app.</source>
-        <target>Der Titel des Ledgers wird in Dropdowns in der gesamten App verwendet.</target>
+        <target>Der Titel des Hauptbuchs wird in der gesamten Anwendung in Dropdown-Menüs verwendet.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The Reimbursement category was not found on this ledger." xml:space="preserve">
-        <source>The Reimbursement category was not found on this ledger.</source><target>Die Kategorie Rückerstattung wurde in diesem Buch nicht gefunden.</target>
+        <source>The Reimbursement category was not found on this ledger.</source><target>Die Kategorie Rückerstattung wurde in diesem Hauptbuch nicht gefunden.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The account associated with a recurring entry was not found." xml:space="preserve">
         <source>The account associated with a recurring entry was not found.</source>
-        <target>Das mit einem wiederkehrenden Eintrag verbundene Konto wurde nicht gefunden.</target>
+        <target>Das Konto, das mit einer wiederkehrenden Buchung verbunden ist, wurde nicht gefunden.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The category associated with a recurring entry was not found." xml:space="preserve">
@@ -3102,7 +3102,7 @@
       </trans-unit>
       <trans-unit id="This name will be used when participating in shared ledgers." xml:space="preserve">
         <source>This name will be used when participating in shared ledgers.</source>
-        <target>Dieser Name wird bei der Teilnahme an gemeinsamen Ledgers verwendet.</target>
+        <target>Dieser Name wird bei der Teilnahme an gemeinsamen Hauptbüchern verwendet.</target>
         <note>This name will be used when participating in shared ledgers.</note>
       </trans-unit>
       <trans-unit id="This purchase is only valid for iOS and iPadOS. The macOS app is unlocked separately." xml:space="preserve">
@@ -3116,7 +3116,7 @@
       </trans-unit>
       <trans-unit id="Tip Jar" xml:space="preserve">
         <source>Tip Jar</source>
-        <target>Tipp-Topf</target>
+        <target>Trinkgeldglas</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Tips do not unlock any additional functionality in the app." xml:space="preserve">
@@ -3133,7 +3133,7 @@
       </trans-unit>
       <trans-unit id="Title for this expense" xml:space="preserve">
         <source>Title for this expense</source>
-        <target>Titel für diesen Aufwand</target>
+        <target>Titel für diese Ausgabe</target>
         <note>Title input placeholder</note>
       </trans-unit>
       <trans-unit id="To %@" xml:space="preserve">
@@ -3143,7 +3143,7 @@
       </trans-unit>
       <trans-unit id="To Account" xml:space="preserve">
         <source>To Account</source>
-        <target>Zu berücksichtigen</target>
+        <target>Zu Konto</target>
         <note>From Account input title
    To Account input title</note>
       </trans-unit>
@@ -3175,7 +3175,7 @@
       </trans-unit>
       <trans-unit id="Transfer" xml:space="preserve">
         <source>Transfer</source>
-        <target>Überweisung</target>
+        <target>Übertragung</target>
         <note>Transfer
    Transfer context menu title</note>
       </trans-unit>
@@ -3186,7 +3186,7 @@
       </trans-unit>
       <trans-unit id="Transfer to" xml:space="preserve">
         <source>Transfer to</source>
-        <target>Überweisung an</target>
+        <target>Übertragung an</target>
         <note>Transfer to Action</note>
       </trans-unit>
       <trans-unit id="Transferred to %@" xml:space="preserve">
@@ -3197,7 +3197,7 @@
       </trans-unit>
       <trans-unit id="Type" xml:space="preserve">
         <source>Type</source>
-        <target>Art</target>
+        <target>Typ</target>
         <note>Account Type title</note>
       </trans-unit>
       <trans-unit id="Unable to load attributions file" xml:space="preserve">
@@ -3216,7 +3216,7 @@
       </trans-unit>
       <trans-unit id="View app logs and share with developer for debugging issues" xml:space="preserve">
         <source>View app logs and share with developer for debugging issues</source>
-        <target>App -Protokolle anzeigen und mit dem Entwickler für Debugging -Probleme teilen</target>
+        <target>Zeigen Sie Anwendungsprotokolle an und teilen Sie diese mit Entwicklern, um Probleme zu beheben.</target>
         <note>App Logs description</note>
       </trans-unit>
       <trans-unit id="View your Budgets" xml:space="preserve">
@@ -3256,7 +3256,7 @@
       </trans-unit>
       <trans-unit id="When enabled, Pockity will remember the last used category and account when creating a new entry." xml:space="preserve">
         <source>When enabled, Pockity will remember the last used category and account when creating a new entry.</source>
-        <target>Wenn er aktiviert ist, erinnert sich die Pockity beim Erstellen eines neuen Eintrags an die zuletzt verwendete Kategorie und das zuletzt verwendete Konto.</target>
+        <target>Wenn diese Option aktiviert ist, erinnert sich Pockity bei der Erstellung eines neuen Eintrags an die zuletzt verwendete Kategorie und das Konto.</target>
         <note>When enabled, Pockity will remember the last used category and account when creating a new entry.</note>
       </trans-unit>
       <trans-unit id="When enabled, days with more than one expense entry will show the total at the top of the list." xml:space="preserve">
@@ -3269,17 +3269,17 @@
       </trans-unit>
       <trans-unit id="When moving funds between accounts, an origin account must be selected." xml:space="preserve">
         <source>When moving funds between accounts, an origin account must be selected.</source>
-        <target>Beim Verschieben von Fonds zwischen Konten muss ein Ursprungskonto ausgewählt werden.</target>
+        <target>Wenn Sie Gelder zwischen Konten verschieben, müssen Sie ein Ursprungskonto auswählen.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="White spaces and new lines won't be considered valid data for an entry's note." xml:space="preserve">
         <source>White spaces and new lines won't be considered valid data for an entry's note.</source>
-        <target>Weiße Räume und neue Zeilen werden nicht als gültige Daten für die Notiz eines Eintrags angesehen.</target>
+        <target>Leerzeichen und neue Zeilen werden nicht als gültige Daten für die Notiz eines Eintrags betrachtet.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Whites-spaces and newlines won't be considered valid data for an entry's note." xml:space="preserve">
         <source>Whites-spaces and newlines won't be considered valid data for an entry's note.</source>
-        <target>Weißräume und Newlines werden nicht als gültige Daten für die Notiz eines Eintrags angesehen.</target>
+        <target>Leerzeichen und neue Zeilen werden nicht als gültige Daten für die Notiz eines Eintrags betrachtet.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Write your message above this line" xml:space="preserve">
@@ -3309,7 +3309,7 @@
       </trans-unit>
       <trans-unit id="You cannot use the word &quot;Primary&quot; for the ledger. This is a reserved key." xml:space="preserve">
         <source>You cannot use the word "Primary" for the ledger. This is a reserved key.</source>
-        <target>Sie können das Wort "primär" für das Hauptbuch nicht verwenden.Dies ist ein reservierter Schlüssel.</target>
+        <target>Sie können das Wort "Primary" nicht für das Hauptbuch verwenden. Dies ist ein reservierter Schlüssel.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Your Name" xml:space="preserve">
@@ -3353,7 +3353,7 @@
       </trans-unit>
       <trans-unit id="last" xml:space="preserve">
         <source>last</source>
-        <target>zuletzt</target>
+        <target>letzte</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="value" xml:space="preserve">
@@ -3363,7 +3363,7 @@
       </trans-unit>
       <trans-unit id="🎉 Thank you for purchasing Pockity+ and supporting its development 🎉" xml:space="preserve">
         <source>🎉 Thank you for purchasing Pockity+ and supporting its development 🎉</source>
-        <target>🎉 Vielen Dank, dass Sie Pockity+ gekauft und seine Entwicklung unterstützt haben 🎉</target>
+        <target>🎉 Vielen Dank, für den Kauf von Pockity+ und die Unterstützung seiner Entwicklung 🎉</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
     </body>
@@ -3375,7 +3375,7 @@
     <body>
       <trans-unit id="/%d Entries:dict/NSStringLocalizedFormatKey:dict/:string" xml:space="preserve">
         <source>%#@entries@</source>
-        <target>%#@entries@</target>
+        <target>%#@ die Einträge@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="/%d Entries:dict/entries:dict/one:dict/:string" xml:space="preserve">
@@ -3412,7 +3412,7 @@
       </trans-unit>
       <trans-unit id="6XINJh" xml:space="preserve">
         <source>Ledger overview of Expenses and Income</source>
-        <target>Ledger-Übersicht über Ausgaben und Einnahmen</target>
+        <target>Hauptbuchübersicht über Ausgaben und Einnahmen</target>
         <note/>
       </trans-unit>
       <trans-unit id="C63TeO" xml:space="preserve">
@@ -3457,7 +3457,7 @@
       </trans-unit>
       <trans-unit id="h22dqt" xml:space="preserve">
         <source>Budget</source>
-        <target>Haushalt</target>
+        <target>Budget</target>
         <note/>
       </trans-unit>
       <trans-unit id="o5bAT5" xml:space="preserve">
