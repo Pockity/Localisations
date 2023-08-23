@@ -8,7 +8,7 @@
 
 /* Delete Account message format
    Delete Category message format */
-"%@ Entries will be deleted too" = "%@ Entries will be deleted too";
+"%d Entries will be deleted too" = "%d Entries will be deleted too";
 
 /* No comment provided by engineer. */
 "%@ less than last period" = "%@ less than last period";
@@ -885,3 +885,38 @@
 /* Your Name placeholder */
 "Your Name" = "Your Name";
 
+"Notes" = "Notes";
+
+"(year)" = "(year)";
+
+"Month over Month" = "Month over Month";
+
+"Year over Year" = "Year over Year";
+
+"Budgets are optional. If you set a budget, you can track your spending over a given time period, compare it to the previous time period to better help manage your budgets and spending." = "Budgets are optional. If you set a budget, you can track your spending over a given time period, compare it to the previous time period to better help manage your budgets and spending.";
+
+"Color" = "Color";
+
+"Savings" = "Savings";
+
+"Current" = "Current";
+
+"Credit Card" = "Credit Card";
+
+"Debit Card" = "Debit Card";
+
+"Cash" = "Cash";
+
+"Last Four Digits" = "Last Four Digits";
+
+"Create Template: %@" = "Create Template: %@";
+
+"Edit Template: %@" = "Edit Template: %@";
+
+"Filtered by Focus" = "Filtered by Focus";
+
+"Focus Mode" = "Focus Mode";
+
+"Turn Off" = "Turn Off";
+
+"Turn On" = "Turn On";
