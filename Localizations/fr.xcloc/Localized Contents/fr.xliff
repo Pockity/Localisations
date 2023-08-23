@@ -340,7 +340,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="·" xml:space="preserve">
-        <source>·</source>
+        <source>·</source><target>.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
     </body>
