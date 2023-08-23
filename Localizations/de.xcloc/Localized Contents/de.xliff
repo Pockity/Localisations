@@ -212,7 +212,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Create new entries on the go" xml:space="preserve">
-        <source>Create new entries on the go</source>
+        <source>Create new entries on the go</source><target>Neue Einträge von unterwegs aus erstellen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Earned" xml:space="preserve">
@@ -221,11 +221,11 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Entry" xml:space="preserve">
-        <source>Entry</source>
+        <source>Entry</source><target>Eintrag</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Entry Input" xml:space="preserve">
-        <source>Entry Input</source>
+        <source>Entry Input</source><target>Eintrag Eingabe</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Highest" xml:space="preserve">
@@ -234,7 +234,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Input" xml:space="preserve">
-        <source>Input</source>
+        <source>Input</source><target>Eingabe</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Launch the app to quickly create a new entry" xml:space="preserve">
@@ -288,7 +288,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Spent Today" xml:space="preserve">
-        <source>Spent Today</source>
+        <source>Spent Today</source><target>Heute Ausgegeben</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="This Month" xml:space="preserve">
@@ -332,15 +332,15 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="isDelete" xml:space="preserve">
-        <source>isDelete</source>
+        <source>isDelete</source><target>isDelete</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="isDone" xml:space="preserve">
-        <source>isDone</source>
+        <source>isDone</source><target>isDone</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="·" xml:space="preserve">
-        <source>·</source>
+        <source>·</source><target>.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
     </body>
@@ -669,11 +669,11 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%d Accounts" translate="no" xml:space="preserve">
-        <source>%d Accounts</source>
+        <source>%d Accounts</source><target>%d Konten</target>
         <note>No comment provided by engineer. (Key in .stringsdict)</note>
       </trans-unit>
       <trans-unit id="%d Categories" translate="no" xml:space="preserve">
-        <source>%d Categories</source>
+        <source>%d Categories</source><target>%d Kategorien</target>
         <note>No comment provided by engineer. (Key in .stringsdict)</note>
       </trans-unit>
       <trans-unit id="%d Days" xml:space="preserve">
@@ -687,12 +687,12 @@
         <note>No comment provided by engineer. (Key in .stringsdict)</note>
       </trans-unit>
       <trans-unit id="%d Entries will be deleted too" xml:space="preserve">
-        <source>%d Entries will be deleted too</source>
+        <source>%d Entries will be deleted too</source><target>%d Einträge werden ebenfalls gelöscht</target>
         <note>Delete Account message format
    Delete Category message format</note>
       </trans-unit>
       <trans-unit id="%d Items" translate="no" xml:space="preserve">
-        <source>%d Items</source>
+        <source>%d Items</source><target>%d Posten</target>
         <note>No comment provided by engineer. (Key in .stringsdict)</note>
       </trans-unit>
       <trans-unit id="%lf spent" xml:space="preserve">
@@ -801,7 +801,7 @@
         <note>Add New Entries past tense notification body</note>
       </trans-unit>
       <trans-unit id="Added Reimbursements category" xml:space="preserve">
-        <source>Added Reimbursements category</source>
+        <source>Added Reimbursements category</source><target>Kategorie Rückerstattungen hinzugefügt</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Adding Imported Items" xml:space="preserve">
@@ -892,7 +892,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Are you sure you want to delete the smart filter? This operation is not recoverable." xml:space="preserve">
-        <source>Are you sure you want to delete the smart filter? This operation is not recoverable.</source>
+        <source>Are you sure you want to delete the smart filter? This operation is not recoverable.</source><target>Sind Sie sicher, dass Sie den Smartfilter löschen möchten? Dieser Vorgang ist nicht wiederherstellbar.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Are you sure you want to delete this template?" xml:space="preserve">
@@ -961,7 +961,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Buy %@" xml:space="preserve">
-        <source>Buy %@</source>
+        <source>Buy %@</source><target>%@ Kaufen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="CSV Exports are date range limited" xml:space="preserve">
@@ -977,7 +977,7 @@
    Cancel context menu title</note>
       </trans-unit>
       <trans-unit id="Cannot delete the Reimbursements category. This may cause adding income transactions to fail. If you're deleting multiple categories, try de-selecting the reimbursements category and try again." xml:space="preserve">
-        <source>Cannot delete the Reimbursements category. This may cause adding income transactions to fail. If you're deleting multiple categories, try de-selecting the reimbursements category and try again.</source>
+        <source>Cannot delete the Reimbursements category. This may cause adding income transactions to fail. If you're deleting multiple categories, try de-selecting the reimbursements category and try again.</source><target>Die Kategorie "Erstattungen" kann nicht gelöscht werden. Dies kann dazu führen, dass das Hinzufügen von Einkommenstransaktionen fehlschlägt. Wenn Sie mehrere Kategorien löschen, heben Sie die Auswahl der Kategorie Erstattungen auf und versuchen Sie es erneut.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Cash" xml:space="preserve">
@@ -1016,7 +1016,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Check for Updates..." xml:space="preserve">
-        <source>Check for Updates...</source>
+        <source>Check for Updates...</source><target>Nach Aktualisieren⁩ suchen...</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Clear Filter" xml:space="preserve">
@@ -1166,7 +1166,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Debug" xml:space="preserve">
-        <source>Debug</source>
+        <source>Debug</source><target>Debug</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Default" xml:space="preserve">
@@ -1214,7 +1214,7 @@
         <note>Delete Entries title format</note>
       </trans-unit>
       <trans-unit id="Delete All Data" xml:space="preserve">
-        <source>Delete All Data</source>
+        <source>Delete All Data</source><target>Alle Daten Löschen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Delete Category?" xml:space="preserve">
@@ -1233,7 +1233,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Delete Ledger" xml:space="preserve">
-        <source>Delete Ledger</source>
+        <source>Delete Ledger</source><target>Ledger Löschen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Delete Ledger?" xml:space="preserve">
@@ -1247,7 +1247,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Delete Smart Filter?" xml:space="preserve">
-        <source>Delete Smart Filter?</source>
+        <source>Delete Smart Filter?</source><target>Smart-Filter Löschen?</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Delete Template" xml:space="preserve">
@@ -1266,7 +1266,7 @@
         <note>Delete the selected entry</note>
       </trans-unit>
       <trans-unit id="Deletes all local and cloud data. App Restart required." xml:space="preserve">
-        <source>Deletes all local and cloud data. App Restart required.</source>
+        <source>Deletes all local and cloud data. App Restart required.</source><target>Löscht alle lokalen und Cloud-Daten. App-Neustart erforderlich.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Deleting Existing" xml:space="preserve">
@@ -1275,7 +1275,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Deleting the ledger will also delete all entries, accounts and categories in it." xml:space="preserve">
-        <source>Deleting the ledger will also delete all entries, accounts and categories in it.</source>
+        <source>Deleting the ledger will also delete all entries, accounts and categories in it.</source><target>Wenn Sie das Ledger löschen, werden auch alle Einträge, Konten und Kategorien darin gelöscht.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Document scanning is not supported on this device" xml:space="preserve">
@@ -1299,7 +1299,7 @@
         <note>Drafts</note>
       </trans-unit>
       <trans-unit id="Drafts are generated by the app or when you add entries using the widget" xml:space="preserve">
-        <source>Drafts are generated by the app or when you add entries using the widget</source>
+        <source>Drafts are generated by the app or when you add entries using the widget</source><target>Entwürfe werden von der App oder beim Hinzufügen von Einträgen über das Widget erstellt.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Duplicate" xml:space="preserve">
@@ -1360,7 +1360,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Edit Smart Filter" xml:space="preserve">
-        <source>Edit Smart Filter</source>
+        <source>Edit Smart Filter</source><target>Smart-Filter Bearbeiten</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Edit Template" xml:space="preserve">
@@ -1374,7 +1374,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Edit Transfer" xml:space="preserve">
-        <source>Edit Transfer</source>
+        <source>Edit Transfer</source><target>Übertragung Bearbeiten</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Edit the selected entry" xml:space="preserve">
@@ -1408,11 +1408,11 @@
         <note>Entries</note>
       </trans-unit>
       <trans-unit id="Entries created by this template will not be deleted." xml:space="preserve">
-        <source>Entries created by this template will not be deleted.</source>
+        <source>Entries created by this template will not be deleted.</source><target>Einträge, die mit dieser Vorlage erstellt wurden, werden nicht gelöscht.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Error" xml:space="preserve">
-        <source>Error</source>
+        <source>Error</source><target>Fehler</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Error Creating Entry" xml:space="preserve">
@@ -1521,7 +1521,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Freq. Account" xml:space="preserve">
-        <source>Freq. Account</source>
+        <source>Freq. Account</source><target>Häufiges Konto</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="From %@" xml:space="preserve">
@@ -1555,7 +1555,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Generic JSON Format" xml:space="preserve">
-        <source>Generic JSON Format</source>
+        <source>Generic JSON Format</source><target>Generisches JSON-Format</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Get Started" xml:space="preserve">
@@ -1614,7 +1614,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Import Image" xml:space="preserve">
-        <source>Import Image</source>
+        <source>Import Image</source><target>Bild Importieren</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Import/Export" xml:space="preserve">
@@ -1788,7 +1788,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Ledger Repaired" xml:space="preserve">
-        <source>Ledger Repaired</source>
+        <source>Ledger Repaired</source><target>Ledger Repariert</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Ledgers" xml:space="preserve">
@@ -1880,7 +1880,7 @@
    Your Name title</note>
       </trans-unit>
       <trans-unit id="Network" xml:space="preserve">
-        <source>Network</source>
+        <source>Network</source><target>Netzwerk</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Never" xml:space="preserve">
@@ -1925,7 +1925,7 @@
         <note>New Ledger context menu title</note>
       </trans-unit>
       <trans-unit id="New Recurring Item" xml:space="preserve">
-        <source>New Recurring Item</source>
+        <source>New Recurring Item</source><target>Neuer Wiederkehrender</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="New Repeating Entry" xml:space="preserve">
@@ -1944,7 +1944,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="New Transfer" xml:space="preserve">
-        <source>New Transfer</source>
+        <source>New Transfer</source><target>Neue Übertragung</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Next Ledger" xml:space="preserve">
@@ -1993,7 +1993,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No Drafts" xml:space="preserve">
-        <source>No Drafts</source>
+        <source>No Drafts</source><target>Keine Entwürfe</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No Entries" xml:space="preserve">
@@ -2027,7 +2027,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No Repairs" xml:space="preserve">
-        <source>No Repairs</source>
+        <source>No Repairs</source><target>Keine Reparaturen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No Reverse Account Selected" xml:space="preserve">
@@ -2051,7 +2051,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No balance setup" xml:space="preserve">
-        <source>No balance setup</source>
+        <source>No balance setup</source><target>Keine Einrichtung eines Saldos</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No categories were found in this export." xml:space="preserve">
@@ -2090,7 +2090,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No repairs were required." xml:space="preserve">
-        <source>No repairs were required.</source>
+        <source>No repairs were required.</source><target>Es waren keine Reparaturen erforderlich.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Not Supported" xml:space="preserve">
@@ -2099,7 +2099,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Not Syncing" xml:space="preserve">
-        <source>Not Syncing</source>
+        <source>Not Syncing</source><target>Nicht synchronisiert</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Notes" xml:space="preserve">
@@ -2354,7 +2354,7 @@
         <note>Remember Last Used title</note>
       </trans-unit>
       <trans-unit id="Repair Ledger" xml:space="preserve">
-        <source>Repair Ledger</source>
+        <source>Repair Ledger</source><target>Reparatur Ledger</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Repeat" xml:space="preserve">
@@ -2500,15 +2500,15 @@
         <note>Share context menu title</note>
       </trans-unit>
       <trans-unit id="Share Ledger" xml:space="preserve">
-        <source>Share Ledger</source>
+        <source>Share Ledger</source><target>Ledger Teilen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Share Pockity+ with all members added to your family group on your Apple ID." xml:space="preserve">
-        <source>Share Pockity+ with all members added to your family group on your Apple ID.</source>
+        <source>Share Pockity+ with all members added to your family group on your Apple ID.</source><target>Teilen Sie Pockity+ mit allen Mitgliedern, die Ihrer Familiengruppe auf Ihrer Apple-ID hinzugefügt wurden.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Shared Ledger" xml:space="preserve">
-        <source>Shared Ledger</source>
+        <source>Shared Ledger</source><target>Geteiltes Ledger</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Show Category Budget" xml:space="preserve">
@@ -2562,7 +2562,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Subscribed" xml:space="preserve">
-        <source>Subscribed</source>
+        <source>Subscribed</source><target>Abo</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Subscription Reminders" xml:space="preserve">
@@ -2581,7 +2581,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Sync Status" xml:space="preserve">
-        <source>Sync Status</source>
+        <source>Sync Status</source><target>Sync-Status</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Table" xml:space="preserve">
@@ -2753,7 +2753,7 @@
         <note>Tomorrow recurring subtitle</note>
       </trans-unit>
       <trans-unit id="Total" xml:space="preserve">
-        <source>Total</source>
+        <source>Total</source><target>Gesamt</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Total Expense" xml:space="preserve">
@@ -2762,7 +2762,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Total Expenses" xml:space="preserve">
-        <source>Total Expenses</source>
+        <source>Total Expenses</source><target>Total Ausgaben</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Total Income" xml:space="preserve">
@@ -2786,7 +2786,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Total: %@" xml:space="preserve">
-        <source>Total: %@</source>
+        <source>Total: %@</source><target>Gesamt: %@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Transfer" xml:space="preserve">
@@ -2962,7 +2962,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="after" xml:space="preserve">
-        <source>after</source>
+        <source>after</source><target>nach</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="date" xml:space="preserve">
@@ -2996,11 +2996,11 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="never" xml:space="preserve">
-        <source>never</source>
+        <source>never</source><target>nei</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="on date" xml:space="preserve">
-        <source>on date</source>
+        <source>on date</source><target>zum datum</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="value" xml:space="preserve">
