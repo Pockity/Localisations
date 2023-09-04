@@ -1,12 +1,4 @@
-/* Bundle display name */
-"CFBundleDisplayName" = "Pockity";
 /* Bundle name */
 "CFBundleName" = "Pockity";
-/* Privacy - Contacts Usage Description */
-"NSContactsUsageDescription" = "Contacts are used to show names and avatars in shared ledgers";
 /* Copyright (human-readable) */
-"NSHumanReadableCopyright" = "© 2019-2023 Nikhil Nigade - All Rights Reserved";
-/* Privacy - Location Always and When In Use Usage Description */
-"NSLocationAlwaysAndWhenInUseUsageDescription" = "Location information is used for suggesting nearby Points of Interest for entries";
-/* Privacy - Location Usage Description */
-"NSLocationUsageDescription" = "Location information is used for suggesting nearby Points of Interest for entries";
+"NSHumanReadableCopyright" = "© 2019-2022 Dezine Zync Studios LLP.";

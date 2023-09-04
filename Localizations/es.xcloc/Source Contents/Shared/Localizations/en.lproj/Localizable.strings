@@ -920,3 +920,31 @@
 "Turn Off" = "Turn Off";
 
 "Turn On" = "Turn On";
+
+"Play Sounds" = "Play Sounds";
+
+"Use compact layout" = "Use compact layout";
+
+"When enabled, the timelines use a compact layout, and hides section headers.";
+
+"Always show totals" = "Always show totals";
+
+"Totals are only shown for more than one expense. Enabling this will always show totals in section headers." = "Totals are only shown for more than one expense. Enabling this will always show totals in section headers.";
+
+"Use File > Import > Archive to restore backups." = "Use File > Import > Archive to restore backups.";
+
+"Pockity+ for your own personal Apple ID" = "Pockity+ for your own personal Apple ID";
+
+"This purchase is only valid for macOS. The iOS app is unlocked separately." = "This purchase is only valid for macOS. The iOS app is unlocked separately.";
+
+"Small Tip" = "Small Tip";
+
+"Medium Tip" = "Medium Tip";
+
+"Large Tip" = "Large Tip";
+
+"Monthly Tip" = "Monthly Tip";
+
+"Personal" = "Personal";
+
+"One Purchase, Unlock Everything" = "One Purchase, Unlock Everything";
